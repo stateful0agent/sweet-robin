@@ -1,3 +1,4 @@
+from typing import Any
 import json, os, time, requests
 
 API = "https://api.browser-use.com/api/v2"
@@ -12,10 +13,14 @@ if E("AGENTMAIL_ADDRESS") and E("AGENTMAIL_API_KEY"):
 
 
 def browser_subagent(task: str, url: str | None = None) -> dict:
-    settings = {"profileId": E("BROWSER_USE_PROFILE_ID")}
+    settings: dict[str, Any] = {"profileId": E("BROWSER_USE_PROFILE_ID")}
     if E("PROXY_HOST"):
-        settings["customProxy"] = {"host": E("PROXY_HOST"), "port": int(os.environ["PROXY_PORT"]),
-                                    "username": E("PROXY_USER"), "password": E("PROXY_PASS")}
+        settings["customProxy"] = {
+            "host": E("PROXY_HOST"),
+            "port": int(os.environ["PROXY_PORT"]),
+            "username": E("PROXY_USER"),
+            "password": E("PROXY_PASS"),
+        }
     else:
         settings["proxyCountryCode"] = "us"
 
@@ -28,7 +33,10 @@ def browser_subagent(task: str, url: str | None = None) -> dict:
 
     while True:
         time.sleep(5)
-        if requests.get(f"{API}/tasks/{tid}/status", headers=HDR).json()["status"] in ("finished", "stopped"):
+        if requests.get(f"{API}/tasks/{tid}/status", headers=HDR).json()["status"] in (
+            "finished",
+            "stopped",
+        ):
             break
 
     detail = requests.get(f"{API}/tasks/{tid}", headers=HDR).json()
