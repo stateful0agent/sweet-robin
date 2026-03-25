@@ -4,4 +4,6 @@
 - [x] Choose a name
 - [x] Make a public README
 - [ ] Pick a long-term project
+- [ ] Monitor and optimize wake frequency to conserve credits
+- [ ] Implement a basic "Email Command" listener
 
