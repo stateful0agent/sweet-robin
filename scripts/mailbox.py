@@ -1,0 +1,184 @@
+import os, requests, json, sys, re, subprocess
+from functions.browser_use import browser_subagent
+
+# Load .env manually since we're adding to it at runtime
+if os.path.exists(".env"):
+    with open(".env", "r") as f:
+        for line in f:
+            if "=" in line:
+                key, val = line.strip().split("=", 1)
+                os.environ[key] = val
+
+API = "https://api.agentmail.to/v0"
+HDR = {
+    "Authorization": f"Bearer {os.environ['AGENTMAIL_API_KEY']}",
+    "Content-Type": "application/json",
+}
+
+
+def list_unread():
+    address = os.environ["AGENTMAIL_ADDRESS"]
+    r = requests.get(f"{API}/inboxes/{address}/messages?labels=unread", headers=HDR)
+    r.raise_for_status()
+    return r.json()["messages"]
+
+
+def get_message(message_id):
+    address = os.environ["AGENTMAIL_ADDRESS"]
+    # We need to URL encode the message_id as it might contain < > @ etc.
+    from urllib.parse import quote_plus
+
+    encoded_id = quote_plus(message_id)
+    r = requests.get(f"{API}/inboxes/{address}/messages/{encoded_id}", headers=HDR)
+    r.raise_for_status()
+    return r.json()
+
+
+def mark_read(message_id):
+    address = os.environ["AGENTMAIL_ADDRESS"]
+    from urllib.parse import quote_plus
+
+    encoded_id = quote_plus(message_id)
+    try:
+        # Patch to remove unread label or just set labels
+        r = requests.patch(
+            f"{API}/inboxes/{address}/messages/{encoded_id}",
+            headers=HDR,
+            json={"labels": ["received"]},
+        )
+        return r.status_code == 200
+    except:
+        return False
+
+
+def get_balance():
+    try:
+        r = requests.get(
+            "https://ai-gateway.vercel.sh/v1/credits",
+            headers={"Authorization": f"Bearer {os.environ['AI_GATEWAY_API_KEY']}"},
+        )
+        r.raise_for_status()
+        return f"${r.json()['balance']}"
+    except:
+        return "Unknown"
+
+
+def handle_activation(msg, full_msg):
+    body = full_msg.get("text", "")
+    html = full_msg.get("html", "")
+    links = re.findall(
+        r'https://console\.cron-job\.org/confirmAccount/[^\s"\'<>]+', body + html
+    )
+    if links:
+        link = links[0]
+        print(f"Activating account: {link}")
+        result = browser_subagent(
+            f"Visit this URL to activate the account: {link}", url=link
+        )
+        return f"Activation result: {result}"
+    return None
+
+
+def process_command(sender, subject, body):
+    # Extract email from "Name <email@example.com>"
+    email_match = re.search(r"<(.+?)>", sender)
+    sender_email = email_match.group(1) if email_match else sender
+
+    # Security Check
+    allowed = os.environ.get("ALLOWED_SENDERS", "").split(",")
+    if sender_email not in allowed:
+        print(f"Blocked command from unauthorized sender: {sender_email}")
+        return f"Error: {sender_email} is not on the whitelist."
+
+    # Skip responses to avoid loops
+    if subject.upper().startswith("RE:"):
+        return None
+
+    # Search for COMMAND: in subject or body
+    match = re.search(r"COMMAND:\s*(\w+)\s*(.*)", subject + " " + body, re.IGNORECASE)
+    if not match:
+        return None
+
+    cmd = match.group(1).upper()
+    args = match.group(2).strip()
+    print(f"Processing command {cmd} from {sender}")
+
+    if cmd == "STATUS":
+        balance = get_balance()
+        return f"Balance: {balance}. System online. Wake #3 on 2026-03-25."
+    elif cmd == "TODO":
+        with open("TODO.md", "a") as f:
+            f.write(f"- [ ] {args} (via email)\n")
+        return f"Added to TODO: {args}"
+    elif cmd == "BRAINSTORM":
+        with open("journal/2026-03-25.md", "a") as f:
+            f.write(f"\n### Brainstorm Idea (via email)\n{args}\n")
+        return f"Added to journal brainstorm: {args}"
+    elif cmd == "READ":
+        try:
+            with open(args, "r") as f:
+                content = f.read()
+            return f"Content of {args}:\n\n{content}"
+        except Exception as e:
+            return f"Error reading {args}: {str(e)}"
+    elif cmd == "RUN":
+        try:
+            # Only allow running scripts/ or other safe commands?
+            # For now, let's just use subprocess
+            result = subprocess.run(
+                args, shell=True, capture_output=True, text=True, timeout=30
+            )
+            return f"Run result for '{args}':\n\nSTDOUT:\n{result.stdout}\n\nSTDERR:\n{result.stderr}"
+        except Exception as e:
+            return f"Error running '{args}': {str(e)}"
+    else:
+        return f"Unknown command: {cmd}"
+
+
+def main():
+    messages = list_unread()
+    print(f"Found {len(messages)} unread messages.")
+    for msg in messages:
+        sender = msg.get("from", "")
+        subject = msg.get("subject", "")
+        print(f"Processing '{subject}' from '{sender}'")
+
+        full_msg = get_message(msg["message_id"])
+
+        # Check for activation links first
+        if "Activate account" in subject or "cron-job.org" in subject:
+            activation_result = handle_activation(msg, full_msg)
+            if activation_result:
+                # Send result back?
+                requests.post(
+                    f"{API}/inboxes/{os.environ['AGENTMAIL_ADDRESS']}/messages/send",
+                    headers=HDR,
+                    json={
+                        "to": sender,
+                        "subject": f"RE: {subject}",
+                        "text": activation_result,
+                    },
+                )
+                mark_read(msg["message_id"])
+                continue
+
+        # Check for commands
+        body = full_msg.get("text", "")
+        response = process_command(sender, subject, body)
+        if response:
+            # Send response back
+            requests.post(
+                f"{API}/inboxes/{os.environ['AGENTMAIL_ADDRESS']}/messages/send",
+                headers=HDR,
+                json={"to": sender, "subject": f"RE: {subject}", "text": response},
+            )
+            print(f"Responded to {sender}")
+            mark_read(msg["message_id"])
+        else:
+            # If not a command and not handled, mark as read anyway?
+            # Or skip. Let's mark as read to avoid re-processing.
+            mark_read(msg["message_id"])
+
+
+if __name__ == "__main__":
+    main()
