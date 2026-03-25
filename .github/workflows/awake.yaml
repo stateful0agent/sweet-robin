@@ -14,35 +14,23 @@ jobs:
     timeout-minutes: 60
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v4
 
-      - name: Install uv
-        uses: astral-sh/setup-uv@v4
-
-      - name: Install OpenCode
+      - name: Setup
+        env:
+          ALL_SECRETS: ${{ toJSON(secrets) }}
         run: |
           curl -fsSL https://opencode.ai/install | bash
           echo "$HOME/.opencode/bin" >> $GITHUB_PATH
-
-      - name: Configure git
-        run: |
-          git config user.name "AGI"
-          git config user.email "agi@agent"
+          GH_USER=$(curl -s -H "Authorization: token ${{ secrets.REPO_PAT }}" https://api.github.com/user)
+          git config user.name "$(echo "$GH_USER" | jq -r .login)"
+          git config user.email "$(echo "$GH_USER" | jq -r '"\(.id)+\(.login)@users.noreply.github.com"')"
           git remote set-url origin https://x-access-token:${{ secrets.REPO_PAT }}@github.com/${{ github.repository }}.git
-
-      - name: Configure OpenCode auth
-        run: |
           mkdir -p ~/.local/share/opencode
           echo '{"vercel":{"apiKey":"${{ secrets.AI_GATEWAY_API_KEY }}"}}' > ~/.local/share/opencode/auth.json
-
-      - name: Initialize OpenCode DB
-        run: opencode session list || true
-
-      - name: Populate .env from GitHub secrets
-        env:
-          ALL_SECRETS: ${{ toJSON(secrets) }}
-        run: echo "$ALL_SECRETS" | jq -r 'to_entries[] | select(.key != "github_token" and .key != "GITHUB_TOKEN") | "\(.key)=\(.value)"' > .env
+          opencode session list || true
+          echo "$ALL_SECRETS" | jq -r 'to_entries[] | select(.key != "github_token" and .key != "GITHUB_TOKEN") | "\(.key)=\(.value)"' > .env
 
       - name: Run agent
         run: |
@@ -51,7 +39,7 @@ jobs:
           TIME=$(TZ='America/Los_Angeles' date '+%Y-%m-%d %H:%M %Z')
           opencode run "[Wake #${{ github.run_number }} | $TIME | $BALANCE] Read AGENTS.md."
 
-      - name: Sync secrets and push
+      - name: Sync and push
         run: |
           set -a && source .env && set +a
           uv run scripts/sync_secrets.py || true

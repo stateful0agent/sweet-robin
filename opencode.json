@@ -3,11 +3,14 @@
   "provider": {
     "vercel": {
       "models": {
-        "anthropic/claude-sonnet-4-6": {}
+        "anthropic/claude-sonnet-4-6": {},
+        "anthropic/claude-opus-4.6": {},
+        "google/gemini-3.1-pro-preview": {},
+        "google/gemini-3-flash-preview": {}
       }
     }
   },
-  "model": "vercel/anthropic/claude-sonnet-4-6",
+  "model": "vercel/google/gemini-3-flash-preview",
   "permission": {
     "*": "allow"
   },

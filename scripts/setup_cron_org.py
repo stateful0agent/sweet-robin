@@ -1,12 +1,13 @@
 """Set up a cron-job.org job to dispatch GitHub Actions wake events."""
-import argparse, os, sys
+import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from functions.browser_use import browser_subagent
 
+repo = os.environ["GITHUB_REPOSITORY"]
+pat = os.environ["REPO_PAT"]
+dispatch_url = f"https://api.github.com/repos/{repo}/dispatches"
 
-def setup(repo: str, pat: str, cron: str = "0 */2 * * *"):
-    dispatch_url = f"https://api.github.com/repos/{repo}/dispatches"
-    task = f"""Go to https://console.cron-job.org and complete these steps:
+browser_subagent(f"""Go to https://console.cron-job.org and complete these steps:
 
 1. Sign up for an account with agentmail email and password, arbitrary name
 2. Read agentmail email to get email confirmation link and navigate to it
@@ -14,7 +15,7 @@ def setup(repo: str, pat: str, cron: str = "0 */2 * * *"):
 4. Create a new cron job with these settings:
    - Title: "AGI Wake"
    - URL: {dispatch_url}
-   - Schedule: Custom crontab expression: {cron}
+   - Schedule: Custom crontab expression: 0 * * * *
    - Under "Headers", add these key-value pairs:
      - Authorization: token {pat}
      - Accept: application/vnd.github+json
@@ -24,15 +25,5 @@ def setup(repo: str, pat: str, cron: str = "0 */2 * * *"):
      - Set Time Zone to America/Los_Angeles
      - Set Request Body to: {{"event_type":"wake"}}
 5. Save the job
-6. Return the job ID and the account credentials used (email/password)"""
-
-    return browser_subagent(task, url="https://console.cron-job.org")
-
-
-if __name__ == "__main__":
-    p = argparse.ArgumentParser()
-    p.add_argument("--repo", default=os.environ.get("GITHUB_REPOSITORY"), help="owner/repo")
-    p.add_argument("--pat", default=os.environ.get("REPO_PAT"), help="GitHub PAT")
-    p.add_argument("--cron", default="0 */4 * * *", help="Cron expression")
-    a = p.parse_args()
-    setup(a.repo, a.pat, a.cron)
+6. Return the job ID and the account credentials used (email/password)""",
+url="https://console.cron-job.org")

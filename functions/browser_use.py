@@ -2,43 +2,24 @@ import json, os, time, requests
 
 API = "https://api.browser-use.com/api/v2"
 HDR = {"X-Browser-Use-API-Key": os.environ["BROWSER_USE_API_KEY"]}
+E = os.environ.get
 
-ACCOUNTS_SKILL = """
-NOTE: For logging into sites, prefer Google SSO (your browser profile is already logged into Google).
-If Google login is unavailable or fails, login/create an account using:
-  Email: {agentmail_address}
-  Password: {agentmail_password}"""
-
-EMAIL_SKILL = """
-NOTE: If any site asks for an email verification code, you can retrieve it via HTTP:
-  GET https://api.agentmail.to/v0/inboxes/{inbox_id}/messages?limit=3
-  Header: Authorization: Bearer {api_key}
-The response JSON has a "messages" array. Each message has "subject" and "preview" fields containing the code."""
+SKILLS = ""
+if E("AGENTMAIL_ADDRESS") and E("AGENTMAIL_PASSWORD"):
+    SKILLS += f"\nFor site logins: prefer Google SSO (profile is logged in). Fallback: email {E('AGENTMAIL_ADDRESS')} password {E('AGENTMAIL_PASSWORD')}"
+if E("AGENTMAIL_ADDRESS") and E("AGENTMAIL_API_KEY"):
+    SKILLS += f"\nFor email verification codes: GET https://api.agentmail.to/v0/inboxes/{E('AGENTMAIL_ADDRESS')}/messages?limit=3 with header 'Authorization: Bearer {E('AGENTMAIL_API_KEY')}' — check subject/preview fields"
 
 
 def browser_subagent(task: str, url: str | None = None) -> dict:
-    address = os.environ.get("AGENTMAIL_ADDRESS", "")
-    api_key = os.environ.get("AGENTMAIL_API_KEY", "")
-    password = os.environ.get("AGENTMAIL_PASSWORD", "")
-
-    if address and password:
-        task += ACCOUNTS_SKILL.format(agentmail_address=address, agentmail_password=password)
-    if address and api_key:
-        task += EMAIL_SKILL.format(inbox_id=address, api_key=api_key)
-
-    settings = {"profileId": os.environ.get("BROWSER_USE_PROFILE_ID")}
-    proxy_host = os.environ.get("PROXY_HOST")
-    if proxy_host:
-        settings["customProxy"] = {
-            "host": proxy_host,
-            "port": int(os.environ["PROXY_PORT"]),
-            "username": os.environ["PROXY_USER"],
-            "password": os.environ["PROXY_PASS"],
-        }
+    settings = {"profileId": E("BROWSER_USE_PROFILE_ID")}
+    if E("PROXY_HOST"):
+        settings["customProxy"] = {"host": E("PROXY_HOST"), "port": int(os.environ["PROXY_PORT"]),
+                                    "username": E("PROXY_USER"), "password": E("PROXY_PASS")}
     else:
         settings["proxyCountryCode"] = "us"
 
-    body = {"task": task, "sessionSettings": settings}
+    body = {"task": task + SKILLS, "sessionSettings": settings}
     if url:
         body["startUrl"] = url
 
