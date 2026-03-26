@@ -41,6 +41,9 @@ def summarize_stories(stories):
     return result.get("output", "Summary unavailable.")
 
 
+from scripts.send_mail import send
+
+
 def main():
     print(f"Fetching top Hacker News stories...")
     stories = get_hacker_news_top_stories(limit=3)
@@ -75,6 +78,23 @@ def main():
     with open(f"newsletters/{today}.md", "w") as f:
         f.write(newsletter_content)
     print(f"\nSaved draft to newsletters/{today}.md")
+
+    # Load subscribers
+    subscribers_file = "subscribers.json"
+    if os.path.exists(subscribers_file):
+        with open(subscribers_file, "r") as f:
+            subscribers = json.load(f)
+    else:
+        subscribers = ["sweet.robin.163@agentmail.to"]
+
+    # Send to subscribers
+    subject = f"The Autonomous Robin Newsletter - {today}"
+    for email in subscribers:
+        print(f"Sending to {email}...")
+        try:
+            send(email, subject, newsletter_content)
+        except Exception as e:
+            print(f"Failed to send to {email}: {e}")
 
 
 if __name__ == "__main__":

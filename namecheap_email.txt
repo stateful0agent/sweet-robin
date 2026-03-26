@@ -1,0 +1,890 @@
+Subject: [NC-GMF-5298] RE: Your confirmation code | From: Namecheap Domains Support Team <domainsupport@namecheap.com> | Labels: ['received', 'unread']
+--------------------
+Subject: [NC-ZWW-1192] RE: Your confirmation code | From: Namecheap Domains Support Team <domainsupport@namecheap.com> | Labels: ['received', 'unread']
+--------------------
+Subject: RE: Welcome to Namecheap | From: AgentMail <sweet.robin.163@agentmail.to> | Labels: ['sent']
+--------------------
+Subject: Your confirmation code | From: Namecheap Support <support@namecheap.com> | Labels: ['received', 'unread']
+Preview: None
+FULL HTML: <html lang="en">
+<head>
+    <title>Namecheap</title>
+    <meta content="text/html charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta content="IE=edge" />
+    <meta name="x-apple-disable-message-reformatting" /> 
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+    </style>
+    
+    <style>
+        body, table, td, a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%
+        }
+
+        table, td {
+            mso-table-lspace: 0;
+            mso-table-rspace: 0
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic
+        }
+
+        img {
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: 0;
+            text-decoration: none
+        }
+
+        table {
+            border-collapse: collapse !important
+        }
+
+        body {
+            height: 100% !important;
+            margin: 0 auto !important;
+            padding: 0 !important;
+            width: 100% !important
+        }
+
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important
+        }
+
+        #MessageViewBody a {
+            color: inherit;
+            text-decoration: none;
+            font-size: inherit;
+            font-family: inherit;
+            font-weight: inherit;
+            line-height: inherit
+        }
+
+        img + div {
+            display: none
+        }
+
+        #modBrowser {
+            color: #a4a4a4;
+            font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            line-height: 21px;
+            font-weight: 400;
+            text-align: right;
+            padding: 12px 32px 12px 32px
+        }
+
+            #modBrowser .link {
+                color: #a4a4a4;
+                text-decoration: none
+            }
+
+        #modLogo {
+            border-top: solid 4px #8bc1c1;
+            padding: 42px 56px 56px 56px
+        }
+
+            #modLogo .logo {
+                color: #f14722;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-size: 16px;
+                display: block;
+                text-align: left
+            }
+
+        #modBody {
+            color: #6d6f70;
+            font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+            text-align: left;
+            padding: 0 56px 56px 56px
+        }
+
+            #modBody .link {
+                color: #de3723;
+                text-decoration: none
+            }
+
+            #modBody h1 {
+                color: #4a4a4a;
+                font-size: 32px;
+                font-weight: 700;
+                line-height: 38px
+            }
+
+            #modBody .copy-20 {
+                color: #4a4a4a;
+                font-size: 20px;
+                font-weight: 700;
+                line-height: 30px
+            }
+
+            #modBody .copy-18 {
+                color: #4a4a4a;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 28px
+            }
+
+            #modBody .copy-16 {
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px
+            }
+
+            #modBody .list {
+                color: #6d6f70;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-size: 16px;
+                line-height: 24px;
+                padding: 0 0 15px 0
+            }
+
+            #modBody .list-lt {
+                color: #6d6f70;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-size: 16px;
+                line-height: 24px;
+                padding: 0 0 30px 0
+            }
+
+            #modBody .list-tc {
+                color: #6d6f70;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-size: 12px;
+                line-height: 18px;
+                padding: 0 0 48px 0
+            }
+
+            #modBody .bullet {
+                color: #f05422;
+                font-family: Arial, sans-serif;
+                width: 50px;
+                font-size: 30px;
+                line-height: 23px;
+                text-align: center
+            }
+
+        #modFooter {
+            color: #807a79;
+            padding: 48px 20px 48px 20px;
+            font-family: 'Open Sans', Helvetica, Arial, sans-serif
+        }
+
+            #modFooter .ghost-link {
+                color: #807a79;
+                text-decoration: none
+            }
+
+            #modFooter .copy-14 {
+                font-size: 14px;
+                line-height: 21px
+            }
+
+            #modFooter .copy-12 {
+                font-size: 12px;
+                line-height: 18px
+            }
+
+            #modFooter .icann {
+                color: #807a79;
+                display: block;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-size: 14px
+            }
+
+        @media screen and (max-width: 480px) {
+            .wrapper {
+                width: 100% !important;
+                max-width: 100% !important
+            }
+
+            .fluid {
+                width: 100% !important
+            }
+
+            .img-max {
+                max-width: 100% !important;
+                height: auto !important
+            }
+
+            .mobile-hide {
+                display: none !important
+            }
+
+            .no-padding {
+                padding: 0 0 0 0 !important
+            }
+
+            .logo {
+                max-width: 200px !important;
+                height: auto !important
+            }
+
+            .a-cn {
+                text-align: center !important
+            }
+
+            .a-lt {
+                text-align: left !important
+            }
+
+            .a-rt {
+                text-align: right !important
+            }
+
+            h1 {
+                font-size: 26px !important;
+                line-height: 32px !important
+            }
+
+            .pad-modLogo {
+                padding: 40px 24px 10px 24px !important
+            }
+
+            .pad-modBody {
+                padding: 40px 24px 48px 24px !important
+            }
+        }
+
+        div[style*="margin: 16px 0;"] {
+            margin: 0 !important
+        }
+    </style>
+    
+</head>
+<body style="margin:0 !important;padding:0 !important;background-color:#F2F2F2" bgcolor="#F2F2F2">
+    <span style="color:transparent;visibility:hidden;display:none;opacity:0;height:0;width:0;font-size:0"></span>
+    <div style="display:none">Sign-in from unauthorized device detected — please verify.</div> 
+    <div style="display:none;max-height:0px;overflow:hidden">  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ </div>
+    
+    <table class="wrapper">
+        <tbody>
+            <tr>
+                <td style="padding:12px 24px 0px 24px" class="no-padding">
+                    <table style="width:640px" class="fluid">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td class="a-cn">
+                                                     
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="border:1px solid #E8E8E8">
+                                    <table style="box-shadow:0px 3px 1px #EEEEEE;border:1px solid #E8E8E8">
+                                        <tbody>
+                                            <tr>
+                                                <td class="pad-modLogo">
+                                                    <a href="https://links.namecheap.com/u/click?_t=9a766a4fa5294d089b01463bac20344b&amp;_m=Ab14LvKAQtMuerMPFZuauWrv1jqUQETz&amp;_e=uuQfXsUCn6lABT_I2Z45Ha2PKgcwwZjJoYVpFK4QdmvXa-2QLKTfO2XLSMF-OdTN9-V0GMauQYV-5vRQSPkeAJW3DzocpB940ULbCulGyHBrh8H0wcLLdaZz8sBqHHjHIDadqwhCoI76oS7NKcv48Gsz_JyHv6r68JBnrnJM-kkqRoFIYaikNcowjiy4d7bqzwN7odDahIxPIfZ0Okv4ESSKor2wECse0wDVln2ioN8bE5c7WlsfVveKNHS1i2hokWq8uuXC6T8YSL9w7hq3SA%3D%3D" target="_blank">
+                                                        <img src="https://mktg.namecheap.com/transactional/security/verification/imgs/Namecheap-Logo_wt_tsp_344x64px.png" alt="Namecheap" width="172" height="32" class="logo" />
+                                                    </a>
+                                                </td>
+                                            </tr> 
+                                            <tr>
+                                                <td class="pad-modBody">
+                                                    <h1 style="margin:0px 0px 48px 0px">
+                                                        Verification needed
+                                                    </h1>
+                                                    <p style="margin:0px 0px 12px 0px" class="copy-20">
+                                                        Please confirm your sign-in
+                                                        request
+                                                    </p>
+                                                    <p style="margin:0px 0px 24px 0px" class="copy-16">
+                                                        We have detected an account
+                                                        sign-in request from a device we don't recognize.
+                                                    </p> 
+                                                    <table>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="bullet">•</td>
+                                                                <td class="list">
+                                                                    Account:
+                                                                    <strong>sweetrobin163</strong>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="bullet">•</td>
+                                                                <td class="list">When: <strong>2026-03-26 02:39:05 UT</strong></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="bullet">•</td>
+                                                                <td class="list">Device: <strong>M‌o‌z‌i‌l‌l‌a‌ 5‌.‌0‌ (‌W‌i‌n‌d‌o‌w‌s‌ N‌T‌ 1‌0‌.‌0‌ W‌i‌n‌6‌4‌ x‌6‌4‌)‌ A‌p‌p‌l‌e‌W‌e‌b‌K‌i‌t‌ 5‌3‌7‌.‌3‌6‌ (‌K‌H‌T‌M‌L‌,‌ l‌i‌k‌e‌ G‌e‌c‌k‌o‌)‌ C‌h‌r‌o‌m‌e‌ 1‌4‌6‌.‌0‌.‌0‌.‌0‌ S‌a‌</strong></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="bullet">•</td>
+                                                                <td class="list">Location: <strong>Oak Ridge, New Jersey</strong></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="bullet"><span> </span></td>
+                                                                <td class="list-tc">
+                                                                    <table>
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <img src="https://mktg.namecheap.com/transactional/security/verification/imgs/icon-alert.png" width="16" height="16" />
+                                                                                </td>
+                                                                                <td>
+                                                                                    Location is aproximate based on
+                                                                                    the login's IP address
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>  <p style="margin:0px 0px 24px 0px" class="copy-16">
+                                                        To verify your account is safe,
+                                                        please use the following code to enable your new device — it will expire in 30
+                                                        minutes:
+                                                    </p>
+                                                    <table>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td style="color:#8CC1C1;font-size:24px;font-weight:700;padding:12px 12px 12px 12px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px">
+                                                                    94afd2
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <p style="margin:48px 0px 6px 0px" class="copy-18">That wasn't me!</p>
+                                                    <p style="margin:0px 0px 24px 0px" class="copy-16">
+                                                        If the above sign-in attempt wasn't you, please 
+                                                        <a href="https://mailtrackemailout1.namecheap.com/ls/click?upn=QqNWTFdMeHiLPmRAI5EzI5fbU6DPE0mJW-2BXcKtZZa6QFJ7BibIXg72G-2B7iMmUhH59pyLHPXkTVw4z-2B93U7aW-2FPhPsW-2FCooRB1xRnbBuwOuMedZLWLCEcwu8ZsRuT5bkduNnvVuc3sQni6FjwwwjQ5r2iMHGypbWVVHt28eozVDwErnyKF6sHey8UCatihFtLv0KFQC9ItIHZNbaU8Mb7OHl0wmFrWHfln9Y5YIcsDVGBlkOakpeJzofNGje8i3WWkMl7tZRJWbLn06LcKkC8aQJMIHUqbeBgzsRuNYMglOIhsVmyg2QUvfDoWxK46hiGU1ouSVSqtz9NVB2v-2FWWnYdRD9q3EAU0P7a53TvuS-2FbCN02mK6I2euJWMcR3CJGiO4sAn2b9r0CixCatdHKpmNkWeX6lpewF6dl2L1iQcTCL-2F22S4tNs9xB7Lq7JnkIz25gL3hfCFEk3Re25wIvYgiz0EbIUcH5VcjdR4evZIwQaDp5TE375m20JE-2F4o9r34y1nleLGBqsfsNdsOhVFSI615ueGFDynaVlhMxb8nmBA5PJILKPG1T7mQod4B9AA-2FIeatF_sz6UyaAARaCiYeOfLBooPMZogv5wU6PAaEkHpBULWBWlcI3XMYND9vy0RzBKwST5HIPfJjFYNVNIsBBgLrmJsT0rCT2kA3bJ8tulhJYC4CuWn7SNy6-2FeKBjDiwD7rLGpJaaSyxtJRqIkrNUEnFiZYVpAXHKlgxNyssb07NI3br7KMwVNDeYi1eWYoouwNv6M8zCt8XTZEse8-2BbgQiqtOOvEF2h-2Bb4szTUu8O9rFNLJCFLzzSTuTZ8xRGpMOpyYUokDUv8MID84Q-2BzN8CtpkuhLD3z3wDZbfJOg3iW7E9g9rqNFQ1KM7u4sx2LD4H-2FzCtB1mbGJgWoYs-2BE3OkYVSBc4Ke8MkeoElzQwwGj47h9Uk-3D" class="link" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#DE3723;text-decoration:none">reset your password</a>
+                                                        and enable 
+                                                        <a href="https://mailtrackemailout1.namecheap.com/ls/click?upn=QqNWTFdMeHiLPmRAI5EzI5fbU6DPE0mJW-2BXcKtZZa6QFJ7BibIXg72G-2B7iMmUhH59pyLHPXkTVw4z-2B93U7aW-2FPhPsW-2FCooRB1xRnbBuwOuMedZLWLCEcwu8ZsRuT5bkduNnvVuc3sQni6FjwwwjQ5r2iMHGypbWVVHt28eozVDxH9O8-2FjCxh7xt5LmNv5SGcR83PIOSQTzVeFRiWkj7n8RF5nyuLegvuZzN9H9GICFpJMh9y4WSzIcyBwcYXyynz9-2BZLQnQcY62dAMKrWd4WSFL0oXwad0T-2BeV2Egg-2FK1W0hQuM-2F3cmHYOWLe27XKxz96FCu7WVihVeJ8r-2BWSIlUZ8nvLOXpIfCLumX4wFRqIbmGxoIg3juR9M6cEVEFrfGAwLcs5gjfpbN-2FSb0bPuZtdiBb2jtUfK7ShjL-2FmKoTUL9MAzkb9CHt0z7nFr1QvM5jKhCS7NN1WyPMxeeU4UgT65wyaL1p6WFRDv-2FvaLk-2BeWRWhcgrBFYUhV3iVhonQf0O78QBSipvXF2k4WQaaMUIkrJD9qndpQKr0BIrm4y2RWknbPkl8gJA35aOabetp5ixt-2FHCn9IgPmEG4E9Y0A-2Fdt7JgSnnExLLTl06YEsAahuVx5ud8qdnHe5CVBDmSL9vxKhL7_sz6UyaAARaCiYeOfLBooPMZogv5wU6PAaEkHpBULWBWlcI3XMYND9vy0RzBKwST5HIPfJjFYNVNIsBBgLrmJsT0rCT2kA3bJ8tulhJYC4CuWn7SNy6-2FeKBjDiwD7rLGpJaaSyxtJRqIkrNUEnFiZYVpAXHKlgxNyssb07NI3br7KMwVNDeYi1eWYoouwNv6M8zCt8XTZEse8-2BbgQiqtOOuwefzzjRT-2B1Pkbltlcd6w1KkCjjDMNQoW3iHUFvrJvqqP1sMpmjHFlkopvQEDmuXkBFR-2Bdt8TiOAEy2ND-2F4ysMMExZvS9oPZSCzdf8jRgPzsCiauSvtIDJs8FAkBB-2Bw1TpCZx9yvmaH2B-2B1UhQBppc-3D" class="link" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#DE3723;text-decoration:none">2-factor authentication</a>
+                                                        (2FA) as soon as possible to safeguard your account.
+                                                    </p>
+                                                    <p style="margin:0px 0px 6px 0px" class="copy-18">
+                                                        How do I know this email is from
+                                                        Namecheap?
+                                                    </p>
+                                                    <p style="margin:0px 0px 24px 0px" class="copy-16">
+                                                        The link provided in this email
+                                                        starts with <a href="https://links.namecheap.com/u/click?_t=9a766a4fa5294d089b01463bac20344b&amp;_m=Ab14LvKAQtMuerMPFZuauWrv1jqUQETz&amp;_e=uuQfXsUCn6lABT_I2Z45Ha2PKgcwwZjJoYVpFK4QdmvXa-2QLKTfO2XLSMF-OdTNj1QGrs0YWyAEtqXctGNeJAUqnQcNwxzwjXOv3QgcIMRT1w_CROKEoYZwgz-se_S_thPqZHiOIoGEeUkzACwQNuFSB7S7jSQfUbvsX0E-mzfYjuvixzaCh9hrAax3M0fIPdHYW9T80ZT_1Id6FBWnfEF3bWEo1RUka8n0sOOkL5W1_Al-7XQjtdzGkVG7JHB4w8R0Q2Ntohn8z4pw8QkkjA%3D%3D" target="_blank" class="link">https://</a> and contain <a href="https://links.namecheap.com/u/click?_t=9a766a4fa5294d089b01463bac20344b&amp;_m=Ab14LvKAQtMuerMPFZuauWrv1jqUQETz&amp;_e=uuQfXsUCn6lABT_I2Z45Ha2PKgcwwZjJoYVpFK4QdmvXa-2QLKTfO2XLSMF-OdTNlIwIHgIZMuX5aZIL2zcKFzW9NxVAe9LVBqFNs7m0YSvF4QpnGTroInt4uue0Gre_Vhqy0iH8yxD2gMb20DiMMnNPAvAZt9yXkHwbNOq1OZzGNMTjJ7MvQmMXGevgGMoW27Vaj-8x1EHueldIJeG-6X7zYZybstPy8OeEyEgNHMO1s0qL3cLzAN9twFuGgPIxwSO2ZJCQPX4IpZkiy-OTVg%3D%3D" target="_blank" class="link">namecheap.com</a> so you
+                                                        know it is from us. To contact customer service you can also simply paste the
+                                                        following link into your browser:
+                                                    </p>
+                                                    <p style="margin:0px 0px 0px 0px" class="copy-16">
+                                                        <a href="https://links.namecheap.com/u/click?_t=9a766a4fa5294d089b01463bac20344b&amp;_m=Ab14LvKAQtMuerMPFZuauWrv1jqUQETz&amp;_e=uuQfXsUCn6lABT_I2Z45Ha2PKgcwwZjJoYVpFK4QdmtD7BSG4BCd-7uXKmLIVvYFAQW4b7FM17ZVWqH5XQxAgJch81eF-bhu7jMtOAFBSaGStZ2RHgYQ5MoJbbFhb01Do6V2P20qFtmLOSUMzLjbR8ifiQoBPyYGTlL3Zl9JgmCVh46elf20v6S8oGlBhLZIpEU6pYZABr1GkxzncP83a1I6dNz0vLr9unA12MhlMnAQwQaeicvQ_Cbug4PzfSswo-96FEa-yEQBbrFNkpkM34t-AKVUFc8isV6gV-RA2AsgDmbcjOJZYjlXZ0lKZC7g" target="_blank" class="link">
+                                                            https://www.namecheap.com/support/live-chat/general/
+                                                        </a>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr> 
+                            <tr>
+                                <td>
+                                    <table style="width:100%">
+                                        <tbody>
+                                            <tr>
+                                                <td class="pad-modFooter">
+                                                    <p style="margin:0px 0px 0px 0px" class="copy-14">
+                                                        <a target="_blank" class="ghost-link">
+                                                            4600 East
+                                                            Washington Street, Suite 305, Phoenix, AZ 85034, USA
+                                                        </a>
+                                                    </p>
+                                                    <p style="margin:0px 0px 32px 0px" class="copy-14">
+                                                        Namecheap is a trademark and/or
+                                                        registered trademark of Namecheap, Inc
+                                                    </p>
+                                                    <p style="margin:0px 0px 32px 0px" class="copy-14">
+                                                        Copyright © 2026 Namecheap,
+                                                        Inc
+                                                    </p>
+                                                    <table>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>
+                                                                    <img src="https://mktg.namecheap.com/transactional/security/verification/imgs/Icon_Icann_40x40.png" alt="ICANN" height="40" width="40" class="icann" />
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <p style="margin:24px 0px 0px 0px" class="copy-12">
+                                                        We are an ICANN accredited
+                                                        registrar.
+                                                    </p>
+                                                    <p style="margin:0px 0px 0px 0px" class="copy-12">
+                                                        Serving customers since
+                                                        2001.
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+--------------------
+Subject: Welcome to Namecheap | From: Namecheap <hello@namecheap.com> | Labels: ['received', 'unread']
+--------------------
+Subject: Your confirmation code | From: Namecheap Support <support@namecheap.com> | Labels: ['received', 'unread']
+Preview: None
+FULL HTML: <html lang="en">
+<head>
+    <title>Namecheap</title>
+    <meta content="text/html charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta content="IE=edge" />
+    <meta name="x-apple-disable-message-reformatting" /> 
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+    </style>
+    
+    <style>
+        body, table, td, a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%
+        }
+
+        table, td {
+            mso-table-lspace: 0;
+            mso-table-rspace: 0
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic
+        }
+
+        img {
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: 0;
+            text-decoration: none
+        }
+
+        table {
+            border-collapse: collapse !important
+        }
+
+        body {
+            height: 100% !important;
+            margin: 0 auto !important;
+            padding: 0 !important;
+            width: 100% !important
+        }
+
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important
+        }
+
+        #MessageViewBody a {
+            color: inherit;
+            text-decoration: none;
+            font-size: inherit;
+            font-family: inherit;
+            font-weight: inherit;
+            line-height: inherit
+        }
+
+        img + div {
+            display: none
+        }
+
+        #modBrowser {
+            color: #a4a4a4;
+            font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            line-height: 21px;
+            font-weight: 400;
+            text-align: right;
+            padding: 12px 32px 12px 32px
+        }
+
+            #modBrowser .link {
+                color: #a4a4a4;
+                text-decoration: none
+            }
+
+        #modLogo {
+            border-top: solid 4px #8bc1c1;
+            padding: 42px 56px 56px 56px
+        }
+
+            #modLogo .logo {
+                color: #f14722;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-size: 16px;
+                display: block;
+                text-align: left
+            }
+
+        #modBody {
+            color: #6d6f70;
+            font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+            text-align: left;
+            padding: 0 56px 56px 56px
+        }
+
+            #modBody .link {
+                color: #de3723;
+                text-decoration: none
+            }
+
+            #modBody h1 {
+                color: #4a4a4a;
+                font-size: 32px;
+                font-weight: 700;
+                line-height: 38px
+            }
+
+            #modBody .copy-20 {
+                color: #4a4a4a;
+                font-size: 20px;
+                font-weight: 700;
+                line-height: 30px
+            }
+
+            #modBody .copy-18 {
+                color: #4a4a4a;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 28px
+            }
+
+            #modBody .copy-16 {
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px
+            }
+
+            #modBody .list {
+                color: #6d6f70;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-size: 16px;
+                line-height: 24px;
+                padding: 0 0 15px 0
+            }
+
+            #modBody .list-lt {
+                color: #6d6f70;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-size: 16px;
+                line-height: 24px;
+                padding: 0 0 30px 0
+            }
+
+            #modBody .list-tc {
+                color: #6d6f70;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-size: 12px;
+                line-height: 18px;
+                padding: 0 0 48px 0
+            }
+
+            #modBody .bullet {
+                color: #f05422;
+                font-family: Arial, sans-serif;
+                width: 50px;
+                font-size: 30px;
+                line-height: 23px;
+                text-align: center
+            }
+
+        #modFooter {
+            color: #807a79;
+            padding: 48px 20px 48px 20px;
+            font-family: 'Open Sans', Helvetica, Arial, sans-serif
+        }
+
+            #modFooter .ghost-link {
+                color: #807a79;
+                text-decoration: none
+            }
+
+            #modFooter .copy-14 {
+                font-size: 14px;
+                line-height: 21px
+            }
+
+            #modFooter .copy-12 {
+                font-size: 12px;
+                line-height: 18px
+            }
+
+            #modFooter .icann {
+                color: #807a79;
+                display: block;
+                font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+                font-size: 14px
+            }
+
+        @media screen and (max-width: 480px) {
+            .wrapper {
+                width: 100% !important;
+                max-width: 100% !important
+            }
+
+            .fluid {
+                width: 100% !important
+            }
+
+            .img-max {
+                max-width: 100% !important;
+                height: auto !important
+            }
+
+            .mobile-hide {
+                display: none !important
+            }
+
+            .no-padding {
+                padding: 0 0 0 0 !important
+            }
+
+            .logo {
+                max-width: 200px !important;
+                height: auto !important
+            }
+
+            .a-cn {
+                text-align: center !important
+            }
+
+            .a-lt {
+                text-align: left !important
+            }
+
+            .a-rt {
+                text-align: right !important
+            }
+
+            h1 {
+                font-size: 26px !important;
+                line-height: 32px !important
+            }
+
+            .pad-modLogo {
+                padding: 40px 24px 10px 24px !important
+            }
+
+            .pad-modBody {
+                padding: 40px 24px 48px 24px !important
+            }
+        }
+
+        div[style*="margin: 16px 0;"] {
+            margin: 0 !important
+        }
+    </style>
+    
+</head>
+<body style="margin:0 !important;padding:0 !important;background-color:#F2F2F2" bgcolor="#F2F2F2">
+    <span style="color:transparent;visibility:hidden;display:none;opacity:0;height:0;width:0;font-size:0"></span>
+    <div style="display:none">Sign-in from unauthorized device detected — please verify.</div> 
+    <div style="display:none;max-height:0px;overflow:hidden">  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ </div>
+    
+    <table class="wrapper">
+        <tbody>
+            <tr>
+                <td style="padding:12px 24px 0px 24px" class="no-padding">
+                    <table style="width:640px" class="fluid">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td class="a-cn">
+                                                     
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="border:1px solid #E8E8E8">
+                                    <table style="box-shadow:0px 3px 1px #EEEEEE;border:1px solid #E8E8E8">
+                                        <tbody>
+                                            <tr>
+                                                <td class="pad-modLogo">
+                                                    <a href="https://links.namecheap.com/u/click?_t=9a766a4fa5294d089b01463bac20344b&amp;_m=Ab14LvKAQtMuerMPFZuauWrv1jqUQETz&amp;_e=uuQfXsUCn6lABT_I2Z45Ha2PKgcwwZjJoYVpFK4QdmvXa-2QLKTfO2XLSMF-OdTN9-V0GMauQYV-5vRQSPkeAJW3DzocpB940ULbCulGyHBrh8H0wcLLdaZz8sBqHHjHIDadqwhCoI76oS7NKcv48Gsz_JyHv6r68JBnrnJM-kkqRoFIYaikNcowjiy4d7bqzwN7odDahIxPIfZ0Okv4ESSKor2wECse0wDVln2ioN8bE5c7WlsfVveKNHS1i2hokWq8uuXC6T8YSL9w7hq3SA%3D%3D" target="_blank">
+                                                        <img src="https://mktg.namecheap.com/transactional/security/verification/imgs/Namecheap-Logo_wt_tsp_344x64px.png" alt="Namecheap" width="172" height="32" class="logo" />
+                                                    </a>
+                                                </td>
+                                            </tr> 
+                                            <tr>
+                                                <td class="pad-modBody">
+                                                    <h1 style="margin:0px 0px 48px 0px">
+                                                        Verification needed
+                                                    </h1>
+                                                    <p style="margin:0px 0px 12px 0px" class="copy-20">
+                                                        Please confirm your sign-in
+                                                        request
+                                                    </p>
+                                                    <p style="margin:0px 0px 24px 0px" class="copy-16">
+                                                        We have detected an account
+                                                        sign-in request from a device we don't recognize.
+                                                    </p> 
+                                                    <table>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="bullet">•</td>
+                                                                <td class="list">
+                                                                    Account:
+                                                                    <strong>sweetrobin163</strong>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="bullet">•</td>
+                                                                <td class="list">When: <strong>2026-03-26 02:30:23 UT</strong></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="bullet">•</td>
+                                                                <td class="list">Device: <strong>M‌o‌z‌i‌l‌l‌a‌ 5‌.‌0‌ (‌W‌i‌n‌d‌o‌w‌s‌ N‌T‌ 1‌0‌.‌0‌ W‌i‌n‌6‌4‌ x‌6‌4‌)‌ A‌p‌p‌l‌e‌W‌e‌b‌K‌i‌t‌ 5‌3‌7‌.‌3‌6‌ (‌K‌H‌T‌M‌L‌,‌ l‌i‌k‌e‌ G‌e‌c‌k‌o‌)‌ C‌h‌r‌o‌m‌e‌ 1‌4‌6‌.‌0‌.‌0‌.‌0‌ S‌a‌</strong></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="bullet">•</td>
+                                                                <td class="list">Location: <strong>Pomona, California</strong></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="bullet"><span> </span></td>
+                                                                <td class="list-tc">
+                                                                    <table>
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <img src="https://mktg.namecheap.com/transactional/security/verification/imgs/icon-alert.png" width="16" height="16" />
+                                                                                </td>
+                                                                                <td>
+                                                                                    Location is aproximate based on
+                                                                                    the login's IP address
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>  <p style="margin:0px 0px 24px 0px" class="copy-16">
+                                                        To verify your account is safe,
+                                                        please use the following code to enable your new device — it will expire in 30
+                                                        minutes:
+                                                    </p>
+                                                    <table>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td style="color:#8CC1C1;font-size:24px;font-weight:700;padding:12px 12px 12px 12px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px">
+                                                                    20af92
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <p style="margin:48px 0px 6px 0px" class="copy-18">That wasn't me!</p>
+                                                    <p style="margin:0px 0px 24px 0px" class="copy-16">
+                                                        If the above sign-in attempt wasn't you, please 
+                                                        <a href="https://mailtrackemailout1.namecheap.com/ls/click?upn=QqNWTFdMeHiLPmRAI5EzI5fbU6DPE0mJW-2BXcKtZZa6QFJ7BibIXg72G-2B7iMmUhH59pyLHPXkTVw4z-2B93U7aW-2FPhPsW-2FCooRB1xRnbBuwOuMedZLWLCEcwu8ZsRuT5bkduNnvVuc3sQni6FjwwwjQ5r2iMHGypbWVVHt28eozVDwErnyKF6sHey8UCatihFtLv0KFQC9ItIHZNbaU8Mb7OHl0wmFrWHfln9Y5YIcsDVGBlkOakpeJzofNGje8i3WWkMl7tZRJWbLn06LcKkC8aQJMIHUqbeBgzsRuNYMglOIhsVmyg2QUvfDoWxK46hiGU1ouSVSqtz9NVB2v-2FWWnYdRD9q3EAU0P7a53TvuS-2FbCN02mK6I2euJWMcR3CJGiO4sAn2b9r0CixCatdHKpmNkWeX6lpewF6dl2L1iQcTCL-2F22S4tNs9xB7Lq7JnkIz25gL3hfCFEk3Re25wIvYgiz0EbIUcH5VcjdR4evZIwQaDp5TE375m20JE-2F4o9r34y1nleLGBqsfsNdsOhVFSI615ueGFDynaVlhMxb8nmBA5PJILKPG1T7mQod4B9AA-2FIeatF_sz6UyaAARaCiYeOfLBooPMZogv5wU6PAaEkHpBULWBWlcI3XMYND9vy0RzBKwST5HIPfJjFYNVNIsBBgLrmJsT0rCT2kA3bJ8tulhJYC4CuWn7SNy6-2FeKBjDiwD7rLGpJaaSyxtJRqIkrNUEnFiZYVpAXHKlgxNyssb07NI3br7KMwVNDeYi1eWYoouwNv6M8zCt8XTZEse8-2BbgQiqtOOvEF2h-2Bb4szTUu8O9rFNLJCFLzzSTuTZ8xRGpMOpyYUokDUv8MID84Q-2BzN8CtpkuhLD3z3wDZbfJOg3iW7E9g9rqNFQ1KM7u4sx2LD4H-2FzCtB1mbGJgWoYs-2BE3OkYVSBc4Ke8MkeoElzQwwGj47h9Uk-3D" class="link" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#DE3723;text-decoration:none">reset your password</a>
+                                                        and enable 
+                                                        <a href="https://mailtrackemailout1.namecheap.com/ls/click?upn=QqNWTFdMeHiLPmRAI5EzI5fbU6DPE0mJW-2BXcKtZZa6QFJ7BibIXg72G-2B7iMmUhH59pyLHPXkTVw4z-2B93U7aW-2FPhPsW-2FCooRB1xRnbBuwOuMedZLWLCEcwu8ZsRuT5bkduNnvVuc3sQni6FjwwwjQ5r2iMHGypbWVVHt28eozVDxH9O8-2FjCxh7xt5LmNv5SGcR83PIOSQTzVeFRiWkj7n8RF5nyuLegvuZzN9H9GICFpJMh9y4WSzIcyBwcYXyynz9-2BZLQnQcY62dAMKrWd4WSFL0oXwad0T-2BeV2Egg-2FK1W0hQuM-2F3cmHYOWLe27XKxz96FCu7WVihVeJ8r-2BWSIlUZ8nvLOXpIfCLumX4wFRqIbmGxoIg3juR9M6cEVEFrfGAwLcs5gjfpbN-2FSb0bPuZtdiBb2jtUfK7ShjL-2FmKoTUL9MAzkb9CHt0z7nFr1QvM5jKhCS7NN1WyPMxeeU4UgT65wyaL1p6WFRDv-2FvaLk-2BeWRWhcgrBFYUhV3iVhonQf0O78QBSipvXF2k4WQaaMUIkrJD9qndpQKr0BIrm4y2RWknbPkl8gJA35aOabetp5ixt-2FHCn9IgPmEG4E9Y0A-2Fdt7JgSnnExLLTl06YEsAahuVx5ud8qdnHe5CVBDmSL9vxKhL7_sz6UyaAARaCiYeOfLBooPMZogv5wU6PAaEkHpBULWBWlcI3XMYND9vy0RzBKwST5HIPfJjFYNVNIsBBgLrmJsT0rCT2kA3bJ8tulhJYC4CuWn7SNy6-2FeKBjDiwD7rLGpJaaSyxtJRqIkrNUEnFiZYVpAXHKlgxNyssb07NI3br7KMwVNDeYi1eWYoouwNv6M8zCt8XTZEse8-2BbgQiqtOOuwefzzjRT-2B1Pkbltlcd6w1KkCjjDMNQoW3iHUFvrJvqqP1sMpmjHFlkopvQEDmuXkBFR-2Bdt8TiOAEy2ND-2F4ysMMExZvS9oPZSCzdf8jRgPzsCiauSvtIDJs8FAkBB-2Bw1TpCZx9yvmaH2B-2B1UhQBppc-3D" class="link" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;color:#DE3723;text-decoration:none">2-factor authentication</a>
+                                                        (2FA) as soon as possible to safeguard your account.
+                                                    </p>
+                                                    <p style="margin:0px 0px 6px 0px" class="copy-18">
+                                                        How do I know this email is from
+                                                        Namecheap?
+                                                    </p>
+                                                    <p style="margin:0px 0px 24px 0px" class="copy-16">
+                                                        The link provided in this email
+                                                        starts with <a href="https://links.namecheap.com/u/click?_t=9a766a4fa5294d089b01463bac20344b&amp;_m=Ab14LvKAQtMuerMPFZuauWrv1jqUQETz&amp;_e=uuQfXsUCn6lABT_I2Z45Ha2PKgcwwZjJoYVpFK4QdmvXa-2QLKTfO2XLSMF-OdTNj1QGrs0YWyAEtqXctGNeJAUqnQcNwxzwjXOv3QgcIMRT1w_CROKEoYZwgz-se_S_thPqZHiOIoGEeUkzACwQNuFSB7S7jSQfUbvsX0E-mzfYjuvixzaCh9hrAax3M0fIPdHYW9T80ZT_1Id6FBWnfEF3bWEo1RUka8n0sOOkL5W1_Al-7XQjtdzGkVG7JHB4w8R0Q2Ntohn8z4pw8QkkjA%3D%3D" target="_blank" class="link">https://</a> and contain <a href="https://links.namecheap.com/u/click?_t=9a766a4fa5294d089b01463bac20344b&amp;_m=Ab14LvKAQtMuerMPFZuauWrv1jqUQETz&amp;_e=uuQfXsUCn6lABT_I2Z45Ha2PKgcwwZjJoYVpFK4QdmvXa-2QLKTfO2XLSMF-OdTNlIwIHgIZMuX5aZIL2zcKFzW9NxVAe9LVBqFNs7m0YSvF4QpnGTroInt4uue0Gre_Vhqy0iH8yxD2gMb20DiMMnNPAvAZt9yXkHwbNOq1OZzGNMTjJ7MvQmMXGevgGMoW27Vaj-8x1EHueldIJeG-6X7zYZybstPy8OeEyEgNHMO1s0qL3cLzAN9twFuGgPIxwSO2ZJCQPX4IpZkiy-OTVg%3D%3D" target="_blank" class="link">namecheap.com</a> so you
+                                                        know it is from us. To contact customer service you can also simply paste the
+                                                        following link into your browser:
+                                                    </p>
+                                                    <p style="margin:0px 0px 0px 0px" class="copy-16">
+                                                        <a href="https://links.namecheap.com/u/click?_t=9a766a4fa5294d089b01463bac20344b&amp;_m=Ab14LvKAQtMuerMPFZuauWrv1jqUQETz&amp;_e=uuQfXsUCn6lABT_I2Z45Ha2PKgcwwZjJoYVpFK4QdmtD7BSG4BCd-7uXKmLIVvYFAQW4b7FM17ZVWqH5XQxAgJch81eF-bhu7jMtOAFBSaGStZ2RHgYQ5MoJbbFhb01Do6V2P20qFtmLOSUMzLjbR8ifiQoBPyYGTlL3Zl9JgmCVh46elf20v6S8oGlBhLZIpEU6pYZABr1GkxzncP83a1I6dNz0vLr9unA12MhlMnAQwQaeicvQ_Cbug4PzfSswo-96FEa-yEQBbrFNkpkM34t-AKVUFc8isV6gV-RA2AsgDmbcjOJZYjlXZ0lKZC7g" target="_blank" class="link">
+                                                            https://www.namecheap.com/support/live-chat/general/
+                                                        </a>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr> 
+                            <tr>
+                                <td>
+                                    <table style="width:100%">
+                                        <tbody>
+                                            <tr>
+                                                <td class="pad-modFooter">
+                                                    <p style="margin:0px 0px 0px 0px" class="copy-14">
+                                                        <a target="_blank" class="ghost-link">
+                                                            4600 East
+                                                            Washington Street, Suite 305, Phoenix, AZ 85034, USA
+                                                        </a>
+                                                    </p>
+                                                    <p style="margin:0px 0px 32px 0px" class="copy-14">
+                                                        Namecheap is a trademark and/or
+                                                        registered trademark of Namecheap, Inc
+                                                    </p>
+                                                    <p style="margin:0px 0px 32px 0px" class="copy-14">
+                                                        Copyright © 2026 Namecheap,
+                                                        Inc
+                                                    </p>
+                                                    <table>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>
+                                                                    <img src="https://mktg.namecheap.com/transactional/security/verification/imgs/Icon_Icann_40x40.png" alt="ICANN" height="40" width="40" class="icann" />
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <p style="margin:24px 0px 0px 0px" class="copy-12">
+                                                        We are an ICANN accredited
+                                                        registrar.
+                                                    </p>
+                                                    <p style="margin:0px 0px 0px 0px" class="copy-12">
+                                                        Serving customers since
+                                                        2001.
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+--------------------

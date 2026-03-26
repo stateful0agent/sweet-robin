@@ -33,11 +33,15 @@ def browser_subagent(task: str, url: str | None = None) -> dict:
 
     while True:
         time.sleep(5)
-        if requests.get(f"{API}/tasks/{tid}/status", headers=HDR).json()["status"] in (
-            "finished",
-            "stopped",
-        ):
-            break
+        try:
+            resp = requests.get(f"{API}/tasks/{tid}/status", headers=HDR)
+            if resp.status_code == 200:
+                if resp.json()["status"] in ("finished", "stopped"):
+                    break
+            else:
+                print(f"Error checking status: {resp.status_code} {resp.text}")
+        except Exception as e:
+            print(f"Polling error: {e}")
 
     detail = requests.get(f"{API}/tasks/{tid}", headers=HDR).json()
     os.makedirs("browser-use-traces", exist_ok=True)

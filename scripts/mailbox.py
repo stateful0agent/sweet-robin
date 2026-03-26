@@ -72,6 +72,8 @@ def handle_activation(msg, full_msg):
         r'https://console\.cron-job\.org/confirmAccount/[^\s"\'<>]+',
         r'https://[^\s"\'<>]*namecheap\.com[^\s"\'<>]*verify[^\s"\'<>]*',
         r'https://[^\s"\'<>]*namecheap\.com[^\s"\'<>]*confirm[^\s"\'<>]*',
+        r'https://[^\s"\'<>]*porkbun\.com[^\s"\'<>]*verify[^\s"\'<>]*',
+        r'https://[^\s"\'<>]*porkbun\.com[^\s"\'<>]*reset[^\s"\'<>]*',
     ]
     for pattern in patterns:
         links = re.findall(pattern, content)

@@ -1,0 +1,1867 @@
+{
+  "count": 81,
+  "limit": 100,
+  "messages": [
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "ef79ad1d-c20e-4808-8558-4e5d536659c9",
+      "message_id": "<0100019d28037236-f5e26a98-2374-41a7-bd90-385ce9f6e3fc-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:40:07.677Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "cron-job.org <info@cron-job.org>"
+      ],
+      "subject": "RE: cron-job.org: Activate account",
+      "preview": "Activation result: {'id': '3fe3ca6c-6c7a-4b24-839e-21fe8f9d7289', 'sessionId': 'bce0740a-c0f1-483c-86dc-88a17bd1fc12', 'llm': 'browser-use-2.0', 'task': \"Visit this URL to activate or confirm the acco",
+      "smtp_id": "2t5r7vnaucdedmtveqhhfqlnrmclcp2iogp64biv",
+      "size": 4210,
+      "updated_at": "2026-03-26T02:40:07.677Z",
+      "created_at": "2026-03-26T02:40:07.677Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "15f3156c-ef11-463d-9351-2e2f83451906",
+      "message_id": "<0100019d28031a7a-7c8345a8-4e3b-4885-8c9c-06415a5a76be-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:39:45.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: TODO Buy more coffee",
+      "preview": "Added to TODO: Buy more coffee This is a test command\n",
+      "headers": {},
+      "smtp_id": "83lvc6v7hk02rlkaidhe78rvuobrc4epqbm7sg01",
+      "size": 3709,
+      "updated_at": "2026-03-26T02:39:46.310Z",
+      "created_at": "2026-03-26T02:39:45.200Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "0c69210c-00b1-4778-80cc-8a2a5b8f02b3",
+      "message_id": "<0100019d28031305-dc8064ef-a611-453f-b58f-f9f55e2a80c9-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:39:43.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: STATUS",
+      "preview": "Balance: $93.81283609. System online. Wake #3 on 2026-03-25.\n",
+      "headers": {},
+      "smtp_id": "2fv3orkg5t157h26rrl6obr1eiaj94qrbtuetk01",
+      "size": 3702,
+      "updated_at": "2026-03-26T02:39:44.526Z",
+      "created_at": "2026-03-26T02:39:43.287Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "53b63a43-9ade-4a8e-b30f-89d6579c7421",
+      "message_id": "<0100019d28030a9f-39935676-3db1-4783-9639-a6b2ac251c93-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:41.172Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | Account Creation Email Verification Code",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "g054cd01jg2b9g1bpfhheeft8osmjc94a1nr09rc",
+      "size": 453,
+      "updated_at": "2026-03-26T02:39:41.172Z",
+      "created_at": "2026-03-26T02:39:41.172Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "2558280c-052c-4db0-9018-0c3779b00324",
+      "message_id": "<0100019d28030663-b8e9012b-0743-446a-b7c5-c920e3664d18-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:40.025Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | Account Creation Email Verification Code",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "t7mbk47lku792kq6ckqemv7jvn08m5to6m3p6o72",
+      "size": 453,
+      "updated_at": "2026-03-26T02:39:40.025Z",
+      "created_at": "2026-03-26T02:39:40.025Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "8243c569-c07e-41d7-b6f2-27487e085388",
+      "message_id": "<0100019d280301b1-dd40db6f-91bc-4fa0-890a-0c0a6d743f4f-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:38.842Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | Your New Account",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "124eb2mttso86s8qpk7q0da3l4kui0b65nka3rgh",
+      "size": 429,
+      "updated_at": "2026-03-26T02:39:38.842Z",
+      "created_at": "2026-03-26T02:39:38.842Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "78a60ce7-6be9-4bdc-b346-4a0829f9c182",
+      "message_id": "<0100019d2802fcf8-46fb9547-f1ae-45a4-8ef0-c5ceb90ed88b-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:37.618Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | Email Code",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "assaf4s5ii6jt2lau646v4rujs873q3j5frqeu8a",
+      "size": 423,
+      "updated_at": "2026-03-26T02:39:37.618Z",
+      "created_at": "2026-03-26T02:39:37.618Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "066c6a25-3979-4f1d-99a9-2efbaa67ea39",
+      "message_id": "<0100019d2802f791-d99f3519-5f4d-497f-bd85-6d6ac996461d-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:36.272Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | account security notice - successful forgotten password  login",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "d2i7svb7k3uhr3afj3pvgtkcsco72j6mfvmsnmrp",
+      "size": 477,
+      "updated_at": "2026-03-26T02:39:36.272Z",
+      "created_at": "2026-03-26T02:39:36.272Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "e2537d32-126a-4682-9bd0-ee8714e0ce55",
+      "message_id": "<0100019d2802f4cf-254f3e9e-a275-4bee-bee5-19e05a27135d-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:35.568Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | account security notice - failed login",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "tksb3b5ebhrl6it8imcji42r1hdhp952q3cmkua6",
+      "size": 451,
+      "updated_at": "2026-03-26T02:39:35.568Z",
+      "created_at": "2026-03-26T02:39:35.568Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "ba73ed16-6881-4a31-98d4-26297b553775",
+      "message_id": "<0100019d2802f250-d0e1a3d7-f183-461a-b91d-320d0091575e-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:34.921Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | account security notice - failed login",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "9fa9qfkc51jdojpclmnirbjojctblli5r9aeovhs",
+      "size": 451,
+      "updated_at": "2026-03-26T02:39:34.921Z",
+      "created_at": "2026-03-26T02:39:34.921Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "2934ffbf-3c24-4689-b389-426722008068",
+      "message_id": "<0100019d2802ef4f-c8b240b0-0af8-4cc2-8abe-29adcdad36b7-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:34.138Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | account security notice - failed login",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "i4d92itgq2uudt5pa25tadvar5vnf9t9ndg7gv5c",
+      "size": 451,
+      "updated_at": "2026-03-26T02:39:34.138Z",
+      "created_at": "2026-03-26T02:39:34.138Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "3d7b9bee-84b0-4eb4-b8bc-7772085ec296",
+      "message_id": "<0100019d2802ec5f-5bb1503f-b7ab-4bb0-b575-d5a635f0766b-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:33.414Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | account security notice - failed login",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "2sm1f46pu6va6uuidoolndaesa0s7jo0dh09tv8g",
+      "size": 451,
+      "updated_at": "2026-03-26T02:39:33.414Z",
+      "created_at": "2026-03-26T02:39:33.414Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "9aa4c2f1-58df-44e6-b796-fa4c8fc7756f",
+      "message_id": "<0100019d2802e852-76ec3324-41be-4fef-93d3-fa2db7228704-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:32.339Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | account security notice - failed login",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "g5862s74pm9d7k7mc147ehi41ivklejcbfahr070",
+      "size": 451,
+      "updated_at": "2026-03-26T02:39:32.339Z",
+      "created_at": "2026-03-26T02:39:32.339Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "6c0f9ed3-d1b1-4baa-a634-2a7ac77dc9c3",
+      "message_id": "<0100019d2802e38c-bb73b446-5942-409a-8cf8-caaf3e864179-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:31.116Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | account security notice - failed login",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "eliaqrc7je2hvkr8anskjqf549qnkipl8vkin2et",
+      "size": 451,
+      "updated_at": "2026-03-26T02:39:31.116Z",
+      "created_at": "2026-03-26T02:39:31.116Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "bf28f38b-db15-4050-89d2-97d95f12beb3",
+      "message_id": "<0100019d2802de4b-7e304f68-685a-4775-a286-467fdf5c0baa-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:29.771Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | account security notice - failed login",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "0mukd4i0151apgdekagrjajn2s077p1ect1n4l46",
+      "size": 451,
+      "updated_at": "2026-03-26T02:39:29.771Z",
+      "created_at": "2026-03-26T02:39:29.771Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "de281850-4d51-4e8c-9d8f-aa50adb1ca25",
+      "message_id": "<70441665-9414-3e3d-9d70-58c2242491a6@namecheap.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:39:28.000Z",
+      "from": "Namecheap Domains Support Team <domainsupport@namecheap.com>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "[NC-GMF-5298] RE: Your confirmation code",
+      "preview": "Hello,\n\nThank you for contacting us. This is an automated response confirming the receipt of your request. Our team will get back to you as soon as possible. When replying, please make sure that the e",
+      "in_reply_to": "<0100019d2802c164-7c4b5446-26d6-49c6-9129-d147ed866e71-000000@email.amazonses.com>",
+      "references": [
+        "<0100019d2802c164-7c4b5446-26d6-49c6-9129-d147ed866e71-000000@email.amazonses.com>"
+      ],
+      "headers": {
+        "Auto-Submitted": "auto-replied"
+      },
+      "smtp_id": "n7cslria7dqiv57r6219e5ab638n1louqlbsbuo1",
+      "size": 4159,
+      "updated_at": "2026-03-26T02:39:30.097Z",
+      "created_at": "2026-03-26T02:39:30.097Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "8da9a6d9-85be-447e-ab8d-1d767d1d8c13",
+      "message_id": "<0100019d2802d8d5-9977ac9f-6b29-4251-8ab8-42a0313cce55-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:27.592Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | account security notice - failed login",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "6eej1a20q81h1tr0euh350lqpn1d8crkt122e552",
+      "size": 451,
+      "updated_at": "2026-03-26T02:39:27.592Z",
+      "created_at": "2026-03-26T02:39:27.592Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "a08f1556-896a-4f25-a79c-9619adcecba1",
+      "message_id": "<0100019d2802ceab-ca1ebbec-b5c0-499d-9bea-92d72bd07f49-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:25.778Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | account security notice - failed login",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "p1bfp3gkf07g2jh8u8vbr6qhfeq3btnvbnsnsvuf",
+      "size": 451,
+      "updated_at": "2026-03-26T02:39:25.778Z",
+      "created_at": "2026-03-26T02:39:25.778Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "639d0431-5d15-49c2-9c7b-0a85ec25ccea",
+      "message_id": "<4360f699-749a-3401-449c-dfb0efea1b2c@namecheap.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:39:25.000Z",
+      "from": "Namecheap Domains Support Team <domainsupport@namecheap.com>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "[NC-ZWW-1192] RE: Your confirmation code",
+      "preview": "Hello,\n\nThank you for contacting us. This is an automated response confirming the receipt of your request. Our team will get back to you as soon as possible. When replying, please make sure that the e",
+      "in_reply_to": "<0100019d2802b689-c5947cda-6822-43c4-b842-39c7c69fa572-000000@email.amazonses.com>",
+      "references": [
+        "<0100019d2802b689-c5947cda-6822-43c4-b842-39c7c69fa572-000000@email.amazonses.com>"
+      ],
+      "headers": {
+        "Auto-Submitted": "auto-replied"
+      },
+      "smtp_id": "u2bk2hmaa42f8r2psmhsp24fhlmcqql3c7qmem81",
+      "size": 4159,
+      "updated_at": "2026-03-26T02:39:28.160Z",
+      "created_at": "2026-03-26T02:39:28.160Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "27ad1d6e-75db-4d8d-a9a2-1f4505fe04e1",
+      "message_id": "<0100019d2802caac-49309ff8-d6ca-4fdf-a826-8c5dda1535e0-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:24.777Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | Email Code",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "lbt3psc46a07eanki7kp322ialb5q5g3b79rcl8n",
+      "size": 423,
+      "updated_at": "2026-03-26T02:39:24.777Z",
+      "created_at": "2026-03-26T02:39:24.777Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "eeaa8361-123c-43ce-9b71-f9444d5eb6b4",
+      "message_id": "<0100019d2802c7e1-2e8d1503-ad16-479a-af24-a3b1b983e201-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:24.051Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | account security notice - successful forgotten password  login",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "0cdc6tv6f90928brqt4o0irqujubghd4hao74ir9",
+      "size": 477,
+      "updated_at": "2026-03-26T02:39:24.051Z",
+      "created_at": "2026-03-26T02:39:24.051Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "de281850-4d51-4e8c-9d8f-aa50adb1ca25",
+      "message_id": "<0100019d2802c164-7c4b5446-26d6-49c6-9129-d147ed866e71-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:22.318Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Namecheap Support <support@namecheap.com>"
+      ],
+      "subject": "RE: Your confirmation code",
+      "preview": "Error: support@namecheap.com is not on the whitelist.",
+      "smtp_id": "mfnid3r8r0t82rtbuf7ied9p70ktm8ukkpimpru2",
+      "size": 419,
+      "updated_at": "2026-03-26T02:39:22.318Z",
+      "created_at": "2026-03-26T02:39:22.318Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "453a56a1-f765-40a0-bc2c-97a949d50da0",
+      "message_id": "<0100019d2802be4a-df2ff96d-5d18-4b91-a997-2245baf12826-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:21.612Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Namecheap <hello@namecheap.com>"
+      ],
+      "subject": "RE: Welcome to Namecheap",
+      "preview": "Error: hello@namecheap.com is not on the whitelist.",
+      "smtp_id": "jadkk25cejani8r18vohtjb8cnjr24dof5o8k4h3",
+      "size": 405,
+      "updated_at": "2026-03-26T02:39:21.612Z",
+      "created_at": "2026-03-26T02:39:21.612Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "639d0431-5d15-49c2-9c7b-0a85ec25ccea",
+      "message_id": "<0100019d2802b689-c5947cda-6822-43c4-b842-39c7c69fa572-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:39:19.612Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Namecheap Support <support@namecheap.com>"
+      ],
+      "subject": "RE: Your confirmation code",
+      "preview": "Error: support@namecheap.com is not on the whitelist.",
+      "smtp_id": "affl999kplsd1fnpl3lu16qvfu4a2b5reniqlqdt",
+      "size": 419,
+      "updated_at": "2026-03-26T02:39:19.612Z",
+      "created_at": "2026-03-26T02:39:19.612Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "2efb4c62-fc6e-4017-843a-d180a1173ff0",
+      "message_id": "<M5TC07YCUSU4.AU7PF46W9RGM3@twofactorauth-846d4d4b47-ncfmt>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:39:06.000Z",
+      "from": "Namecheap Support <support@namecheap.com>",
+      "to": [
+        "Sweet Robin <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Your confirmation code",
+      "headers": {
+        "X-Entity-ID": "u001.mXylsRcP1eKM1BCZJY/RTQ=="
+      },
+      "smtp_id": "dhepetif6mpcb317h04l1alglt7eui4136gj6381",
+      "size": 35398,
+      "updated_at": "2026-03-26T02:39:20.011Z",
+      "created_at": "2026-03-26T02:39:09.467Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "1767ae57-e28b-43a8-aa72-18fb068eb42a",
+      "message_id": "<5j7IWUG8R9axR0XGYhoyGA@geopod-ismtpd-32>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:30:53.000Z",
+      "from": "Namecheap <hello@namecheap.com>",
+      "reply_to": [
+        "support@namecheap.com"
+      ],
+      "to": [
+        "Sweet Robin <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Welcome to Namecheap",
+      "preview": "Namecheap We have everything you need to launch your online business.  \u034f \u200c \u2007 \u034f \n\u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \n\u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f \u200c \u2007 \u034f",
+      "headers": {
+        "Reply-To": "support@namecheap.com",
+        "X-Message-ID": "680260f151954bcb98f27e94eb90e4ab",
+        "X-Campaign-ID": "7077794",
+        "X-Entity-ID": "u001.wyQW12qZWkEgv2UoUSgD/w==",
+        "X-Feedback-ID": "22532101:7077794:9775:iterable"
+      },
+      "smtp_id": "uaml08ome857b7c1cd7t2246hdlcmoqj89qedm01",
+      "size": 98839,
+      "updated_at": "2026-03-26T02:39:21.931Z",
+      "created_at": "2026-03-26T02:30:56.804Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "e86c0553-e10e-4d7e-8d2b-a7b147af0459",
+      "message_id": "<CGD0MSVCUSU4.ELCRS49IHZ8V2@twofactorauth-846d4d4b47-ncfmt>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:30:24.000Z",
+      "from": "Namecheap Support <support@namecheap.com>",
+      "to": [
+        "Sweet Robin <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Your confirmation code",
+      "headers": {
+        "X-Entity-ID": "u001.mXylsRcP1eKM1BCZJY/RTQ=="
+      },
+      "smtp_id": "f581p4a2rds86s4vq69gki1pc20i125p4vn7ogg1",
+      "size": 35361,
+      "updated_at": "2026-03-26T02:39:22.854Z",
+      "created_at": "2026-03-26T02:30:26.585Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "6406856e-c759-49e2-90ea-b8a7bc5d5f10",
+      "message_id": "<IbomdBaaAonEnBUONNeLiYYuzsRZM00ufqyc3ZpRQ@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:17:50.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - successful forgotten password  login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "9f0u123p4kq49girfbbl93ikd24ih054n5ivfi81",
+      "size": 7572,
+      "updated_at": "2026-03-26T02:39:24.452Z",
+      "created_at": "2026-03-26T02:17:52.381Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "21153422-dce0-451b-867d-91883ac07984",
+      "message_id": "<SEueTThDFxSco8urqplkG2FD0gZEzS1PL1dROjfFP4@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:14:45.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | Email Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "s55muat9eooe2p8lbv6bh8p3lp7ushj19879p8g1",
+      "size": 7419,
+      "updated_at": "2026-03-26T02:39:25.230Z",
+      "created_at": "2026-03-26T02:14:47.222Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "26ca6473-b5b3-40a8-b0b7-6a17ccc32f00",
+      "message_id": "<eU8ScNPh5g3aWE7SomWqrmKnON8eOnkeB42VawGoa8@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:11:39.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "lte0s0r7sb6j4c8n1qo3vj1th1ksgo226nhn2jo1",
+      "size": 7727,
+      "updated_at": "2026-03-26T02:39:26.238Z",
+      "created_at": "2026-03-26T02:11:41.887Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "c86eac80-4a2f-401a-8777-2996ccd524db",
+      "message_id": "<6PLraatduR2RJBEA6VNmKEXUklLJe4ZfCuly4Hgc@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:11:25.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "tuo9fmcbhs9m2ibtopcg9js5s40a229b1ccond81",
+      "size": 7710,
+      "updated_at": "2026-03-26T02:39:28.998Z",
+      "created_at": "2026-03-26T02:11:27.521Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "1207953c-c1b5-4140-9689-9b501062b6b8",
+      "message_id": "<0kZZOvdDN2tS3m8mAbvsRArGZ0nSEyPPC9Vl3fdFE@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:11:14.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "neit96toq43k00qiqlkalni3t44ai0936pects01",
+      "size": 7711,
+      "updated_at": "2026-03-26T02:39:30.237Z",
+      "created_at": "2026-03-26T02:11:16.447Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "c433e6a2-00bd-4cd5-bb08-ae6b83512883",
+      "message_id": "<DgF2zteY4aHsh3sHwZQGK5PrjQz4N8MtrwooHaepuc@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:11:05.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "5hnshi2opho3m7c9esvamfafkd1e6ir8j8tah5g1",
+      "size": 7727,
+      "updated_at": "2026-03-26T02:39:31.529Z",
+      "created_at": "2026-03-26T02:11:08.007Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "969174c1-d7fc-49fc-a628-3e54ce0fafdd",
+      "message_id": "<qjiWqJZFR9NIWdItS5qYrdBa6XnEd7jTrMrAFc@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:10:53.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "r92s7esq99ksq63e9bmfc3tiee9376to3eb08eg1",
+      "size": 7708,
+      "updated_at": "2026-03-26T02:39:32.684Z",
+      "created_at": "2026-03-26T02:10:55.682Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "b51e0f1e-7953-47b6-b4bc-08f716e3ddd4",
+      "message_id": "<GF353yYUfh5yKfZGkPizCIn0YYpXY7hvvHOb6684TQ@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:10:51.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "vp78momlg2o9vga1l385nn4n7bdnlknh96hj23o1",
+      "size": 7712,
+      "updated_at": "2026-03-26T02:39:33.814Z",
+      "created_at": "2026-03-26T02:10:52.780Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "550cd5c5-5999-4e87-b6dd-ee55fadb10b4",
+      "message_id": "<xyvh003wwJvP3hjssWsRTpwH6DSGEzsvTgpaLUb60@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:10:35.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "90onmbevcme0rpiuvamlsn4p2bpl5umpkchr33o1",
+      "size": 7711,
+      "updated_at": "2026-03-26T02:39:34.555Z",
+      "created_at": "2026-03-26T02:10:36.925Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "725e39e8-2f45-42e6-85cd-1a4e1342808c",
+      "message_id": "<odSHUOuqAMyJa4jJXKRLfpnRvBKwO2URCrwsVvIZC8@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:10:30.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "lgu3bva3934tc21bme31d17shhmsop2706110bg1",
+      "size": 7712,
+      "updated_at": "2026-03-26T02:39:35.270Z",
+      "created_at": "2026-03-26T02:10:31.895Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "93d1afa6-d3b4-4dd2-a049-551d6253017d",
+      "message_id": "<qsjIq7OYbRbEJY0mb0IJY0JXmDQtmFJXYjMFPXndHw@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:10:24.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "796snl8ursj6pj70o2g1imftdm62r1d6uv940vg1",
+      "size": 7712,
+      "updated_at": "2026-03-26T02:39:35.947Z",
+      "created_at": "2026-03-26T02:10:26.766Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "20abe3e5-595f-46e3-978f-6ca145c48efe",
+      "message_id": "<axvIL6I3sy79FSWh7wWNz2yfKIqp6niT13eDrZeCZo@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:08:20.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - successful forgotten password  login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "s1d3a7uu07hkc41du60aomimto7qs1hbck399ag1",
+      "size": 7558,
+      "updated_at": "2026-03-26T02:39:36.620Z",
+      "created_at": "2026-03-26T02:08:23.255Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "e34dc183-9ffd-46a0-8e42-997bfe92d52b",
+      "message_id": "<GgDxOXJomGlwLRZ00lbN6oDGY5IADivDlIQk6qa7CJc@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:05:14.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | Email Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "2iiudkiv21unrlekfptn2pb1nlefqlbtt7jnaio1",
+      "size": 7420,
+      "updated_at": "2026-03-26T02:39:38.044Z",
+      "created_at": "2026-03-26T02:05:16.145Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "40aaeb5e-fda8-4a30-8874-d19007253e18",
+      "message_id": "<0100019d27e04b64-9ba2d42c-16a0-4c4b-b7e7-7661f87cdf58-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:01:43.909Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "cron-job.org <info@cron-job.org>"
+      ],
+      "subject": "RE: cron-job.org: Activate account",
+      "preview": "Activation result: {'id': 'b45cf5cd-2aed-430d-8a05-857d756bc1a6', 'sessionId': '5785ef0c-bc69-436f-8a00-dbcd9317afb2', 'llm': 'browser-use-2.0', 'task': \"Visit this URL to activate or confirm the acco",
+      "smtp_id": "phdepdfj7i1bad40ntd52qi67uoa12i2gnakekf8",
+      "size": 4617,
+      "updated_at": "2026-03-26T02:01:43.909Z",
+      "created_at": "2026-03-26T02:01:43.909Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "a5207bd0-e4ee-4105-a5e8-d57196c5fb04",
+      "message_id": "<0100019d27df79b9-7b880592-216f-4f6b-b438-03b3fdd8ea14-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:00:50.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: TODO Buy more coffee",
+      "preview": "Added to TODO: Buy more coffee This is a test command\n",
+      "headers": {},
+      "smtp_id": "fam64t4gpphph34imfcmu60r67873medkrh70jg1",
+      "size": 3709,
+      "updated_at": "2026-03-26T02:39:38.230Z",
+      "created_at": "2026-03-26T02:00:50.280Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "817a2c1b-4e73-4a85-ac53-3250b7efed32",
+      "message_id": "<0100019d27df7227-ac067b6e-24a6-4afa-ba1c-573647d3356e-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T02:00:48.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: STATUS",
+      "preview": "Balance: $94.33878374. System online. Wake #3 on 2026-03-25.\n",
+      "headers": {},
+      "smtp_id": "ltllvsbplimqmobd6k6jq8u347063ietnpvepkg1",
+      "size": 3702,
+      "updated_at": "2026-03-26T02:39:38.397Z",
+      "created_at": "2026-03-26T02:00:48.343Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "a363e8e3-aa98-46e0-990a-c9df373cfcdb",
+      "message_id": "<0100019d27df69a9-cea13ca7-0262-4dee-a9fa-2ef05d2775e5-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:00:46.168Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | Account Creation Email Verification Code",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "oduqrv0p0ucocro0r8c28h34q5kcih17hdh9kqsn",
+      "size": 453,
+      "updated_at": "2026-03-26T02:00:46.168Z",
+      "created_at": "2026-03-26T02:00:46.168Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "5a2907d1-555a-4926-b946-fea8dd1dd9f6",
+      "message_id": "<0100019d27df6543-22ada643-c06f-4088-82dc-120bb75e471d-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:00:45.065Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | Account Creation Email Verification Code",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "0bbur7hq114bc2mdna12rpcjj8l6jdq2sgobr3fu",
+      "size": 453,
+      "updated_at": "2026-03-26T02:00:45.065Z",
+      "created_at": "2026-03-26T02:00:45.065Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "80019932-720a-4ea8-9735-7f4b047faa6c",
+      "message_id": "<0100019d27df6105-3baae03e-226e-440b-b101-4bdd3ea57e75-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T02:00:43.957Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | Your New Account",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "3a4sr5kpbi3krh5d5p3m2li238ft0ktprb9jn2o4",
+      "size": 429,
+      "updated_at": "2026-03-26T02:00:43.957Z",
+      "created_at": "2026-03-26T02:00:43.957Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "7fa1897f-a439-4e5d-bc50-e68049ce0e17",
+      "message_id": "<rYQMBh8h6lEQT7bfdgh2lPrSaiJAvTgN6aGT3dN6I@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T01:12:19.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | Your New Account",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "qq76h5s3guso17fn5ft7qivmld5emgpr7v2leq81",
+      "size": 7595,
+      "updated_at": "2026-03-26T02:39:39.227Z",
+      "created_at": "2026-03-26T01:12:21.994Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "542d04d8-f341-4522-b188-3bbdda76c660",
+      "message_id": "<0100019d27b247c3-da691c33-e97f-43ed-870b-ee880d77335a-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T01:11:28.396Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "cron-job.org <info@cron-job.org>"
+      ],
+      "subject": "RE: cron-job.org: Activate account",
+      "preview": "Activation result: {'id': '431ff6ce-b871-458d-a41d-e4ca9476e8d8', 'sessionId': '1007a318-acee-447f-b365-befa0bbba95e', 'llm': 'browser-use-2.0', 'task': \"Visit this URL to activate or confirm the acco",
+      "smtp_id": "5kn1be810qbb0es6n19of8kraelfovev90e25744",
+      "size": 5537,
+      "updated_at": "2026-03-26T01:11:28.396Z",
+      "created_at": "2026-03-26T01:11:28.396Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "fb18f2b9-6bef-491a-9fae-e1802ee2e40f",
+      "message_id": "<0100019d27b1b859-bbd8e4be-3f5f-4e55-9aa8-438ec64d22b3-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T01:10:51.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: TODO Buy more coffee",
+      "preview": "Added to TODO: Buy more coffee This is a test command\n",
+      "headers": {},
+      "smtp_id": "53u8i4jab8lsupph9bbfhehrm18v0m12hc7pr8o1",
+      "size": 3709,
+      "updated_at": "2026-03-26T02:39:39.391Z",
+      "created_at": "2026-03-26T01:10:51.663Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "54f86998-e6d1-4df7-b146-6648138b62a8",
+      "message_id": "<0100019d27b1af68-62cdeda9-ed1b-407b-81d0-430da2418c6b-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T01:10:49.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: STATUS",
+      "preview": "Balance: $94.42285919. System online. Wake #3 on 2026-03-25.\n",
+      "headers": {},
+      "smtp_id": "rcdn3k55jdr7ujbqnsehs3rto8ho4aigu0b89eg1",
+      "size": 3702,
+      "updated_at": "2026-03-26T02:39:39.570Z",
+      "created_at": "2026-03-26T01:10:49.395Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "ad0038e9-3e65-4448-babf-138454a27f18",
+      "message_id": "<0100019d27b1a47d-6d6c8de8-5cbf-4a5d-a604-53790dece8d4-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T01:10:46.614Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | Account Creation Email Verification Code",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "r3srsdeini48mq51gh9fv7jl7lqgqifq133jsrvr",
+      "size": 453,
+      "updated_at": "2026-03-26T01:10:46.614Z",
+      "created_at": "2026-03-26T01:10:46.614Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "8a5c044a-c87a-4544-852c-64c48c075854",
+      "message_id": "<0100019d27b1a031-72d48d91-40bf-4ae9-9ec2-d824317bcf13-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T01:10:45.482Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | Account Creation Email Verification Code",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "md83ceacpvdfebvbd849ph1fnt939v3qkbl8qp3r",
+      "size": 453,
+      "updated_at": "2026-03-26T01:10:45.482Z",
+      "created_at": "2026-03-26T01:10:45.482Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "9cad6f32-6af1-4d61-be27-b196ea716672",
+      "message_id": "<TgQ5PxAQ4dETIDnRnxXvgJho2BW1WuSM529SpfFJAA@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T01:09:43.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | Account Creation Email Verification Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "1bv14bsdast83liiss7qc9o6npfvslhdhgirf281",
+      "size": 7326,
+      "updated_at": "2026-03-26T02:39:40.405Z",
+      "created_at": "2026-03-26T01:09:45.668Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "a262175e-a03a-49c5-b2ac-97496767e695",
+      "message_id": "<0100019d27af8349-f6ee9224-3592-4de9-8ce2-61b2ca50ca19-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T01:08:26.921Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "cron-job.org <info@cron-job.org>"
+      ],
+      "subject": "RE: cron-job.org: Activate account",
+      "preview": "Activation result: {'id': 'cb4ec2dd-ee8f-40e8-b1bb-9708a32cbff4', 'sessionId': '771b67c1-1987-4657-9101-2fae68ec1c96', 'llm': 'browser-use-2.0', 'task': \"Visit this URL to activate or confirm the acco",
+      "smtp_id": "k9o1or57l4e929p7vntjf42ti354lnfntbknhlc5",
+      "size": 5301,
+      "updated_at": "2026-03-26T01:08:26.921Z",
+      "created_at": "2026-03-26T01:08:26.921Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "4318aa8d-c6be-4784-975f-b48cc5cd21d1",
+      "message_id": "<0100019d27aecc37-bce6e6f6-ed8a-47a1-af45-b4f969a37882-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T01:07:40.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: TODO Buy more coffee",
+      "preview": "Added to TODO: Buy more coffee This is a test command\n",
+      "headers": {},
+      "smtp_id": "sfoss3p7lf17n0no3tgrioabs81q42jfm95dhpg1",
+      "size": 3709,
+      "updated_at": "2026-03-26T02:39:40.580Z",
+      "created_at": "2026-03-26T01:07:40.156Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "375f23be-b499-4af9-a848-a5c6ac80fff2",
+      "message_id": "<0100019d27aec2f0-ea83f642-0715-4cdd-b386-434dc3da16e6-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T01:07:37.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: STATUS",
+      "preview": "Balance: $94.44844649. System online. Wake #3 on 2026-03-25.\n",
+      "headers": {},
+      "smtp_id": "9u7qad6ldfs25dbq9rvd49rk1fl4nos6a8krn181",
+      "size": 3702,
+      "updated_at": "2026-03-26T02:39:40.778Z",
+      "created_at": "2026-03-26T01:07:37.754Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "39bfce22-4dc6-4a0f-b493-1bcae79236b6",
+      "message_id": "<0100019d27aeb527-df17f961-f332-4f2b-98ad-b057e99c6267-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T01:07:34.170Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "Porkbun Support Dept. <support@porkbun.com>"
+      ],
+      "subject": "RE: porkbun.com | Account Creation Email Verification Code",
+      "preview": "Error: support@porkbun.com is not on the whitelist.",
+      "smtp_id": "4q0ta377occffooshn1cle2qv6rua2anq0qb4lrp",
+      "size": 453,
+      "updated_at": "2026-03-26T01:07:34.170Z",
+      "created_at": "2026-03-26T01:07:34.170Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "08f8c973-21ef-47a7-a9ca-3b0aade3fd3a",
+      "message_id": "<6scoeFWtOWIuEMXAx7mqtO79PqbV8aJavWd8iaU10@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T01:06:37.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | Account Creation Email Verification Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "46tj0pf713030slargjbl5jneiaj977q60kbl101",
+      "size": 7325,
+      "updated_at": "2026-03-26T02:39:41.464Z",
+      "created_at": "2026-03-26T01:06:39.458Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "5fdcbb02-dcba-49d6-a140-6661b59dec6e",
+      "message_id": "<0100019d27a93dbe-8d37f5cd-838b-4c11-968d-45b052d304fb-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T01:01:35.965Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "cron-job.org <info@cron-job.org>"
+      ],
+      "subject": "RE: cron-job.org: Activate account",
+      "preview": "Activation result: {'id': '55040763-259c-439b-8901-2c268b0ac8a0', 'sessionId': '271be583-2378-4362-a44d-a88ec6559709', 'llm': 'browser-use-2.0', 'task': \"Visit this URL to activate the account: https:",
+      "smtp_id": "b8v30peifs5semmkosdeian5iulsrr3sd5mpukbr",
+      "size": 5332,
+      "updated_at": "2026-03-26T01:01:35.965Z",
+      "created_at": "2026-03-26T01:01:35.965Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "53697f34-b16c-4d02-9502-1e8cdaf66a60",
+      "message_id": "<0100019d27a87338-870e09d0-8605-4257-843d-8c5786e81f62-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T01:00:44.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: TODO Buy more coffee",
+      "preview": "Added to TODO: Buy more coffee This is a test command\n",
+      "headers": {},
+      "smtp_id": "kvrgn5kmsnhqfv5djqmnvhu0q0op0e2r7vckmt81",
+      "size": 3709,
+      "updated_at": "2026-03-26T02:39:41.642Z",
+      "created_at": "2026-03-26T01:00:44.153Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "1e804230-0012-434d-af8d-68ea01dd2356",
+      "message_id": "<0100019d27a86a17-0eced53e-63eb-43a5-b828-4f5ccddf8470-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T01:00:41.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: STATUS",
+      "preview": "Balance: $94.54310029. System online. Wake #3 on 2026-03-25.\n",
+      "headers": {},
+      "smtp_id": "q04e5a43pa5otnrm5j294gepm99v4mhp8agj6381",
+      "size": 3702,
+      "updated_at": "2026-03-26T02:39:41.812Z",
+      "created_at": "2026-03-26T01:00:41.811Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "fb04754d-7752-47d4-a235-4af10a186462",
+      "message_id": "<0100019d2772a948-011ecf39-ffff-410b-becb-4de96b058353-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-26T00:01:59.025Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "cron-job.org <info@cron-job.org>"
+      ],
+      "subject": "RE: cron-job.org: Activate account",
+      "preview": "Activation result: {'id': '0bfa74d7-ca63-48ff-a0ca-f0ed5b5aa838', 'sessionId': '2591d40f-2c9d-4ec2-a6c3-c49bac7b6c56', 'llm': 'browser-use-2.0', 'task': \"Visit this URL to activate the account: https:",
+      "smtp_id": "5juuj7fd2jmcs8pobib324jcihsfdm5blb1plr5f",
+      "size": 5959,
+      "updated_at": "2026-03-26T00:01:59.025Z",
+      "created_at": "2026-03-26T00:01:59.025Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "20db6813-08fb-49d1-ad50-9410491dbfc1",
+      "message_id": "<0100019d27717b8b-441652c3-17e9-4d69-9a96-5c4649368cac-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T00:00:41.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: TODO Buy more coffee",
+      "preview": "Added to TODO: Buy more coffee This is a test command\n",
+      "headers": {},
+      "smtp_id": "nkbk3q6lroa5kdm3ocfk8e8ighis8r6mnfp60ng1",
+      "size": 3709,
+      "updated_at": "2026-03-26T02:39:41.977Z",
+      "created_at": "2026-03-26T00:00:41.831Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "f83979a2-e894-4e0b-ae90-464bb458b446",
+      "message_id": "<0100019d277172af-916e8db8-75d9-47ea-84d2-63f0f76e8a46-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-26T00:00:39.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: STATUS",
+      "preview": "Balance: $94.71217874. System online. Wake #3 on 2026-03-25.\n",
+      "headers": {},
+      "smtp_id": "ibcqpf2pdb7r4bvkgid5mafshlmcqpevng8o7f81",
+      "size": 3702,
+      "updated_at": "2026-03-26T02:39:42.138Z",
+      "created_at": "2026-03-26T00:00:39.545Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "66592b4a-0e33-4150-a1a1-15a29f37516e",
+      "message_id": "<0100019d273f56b5-f8e31c64-e88e-4498-bb15-dffd40e604b3-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-25T23:05:55.589Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "cron-job.org <info@cron-job.org>"
+      ],
+      "subject": "RE: cron-job.org: Activate account",
+      "preview": "Activation result: {'id': '1cbde654-175b-4c5e-89e4-e474a0611e88', 'sessionId': '2a9a6080-498a-4120-8df4-6e5f5f616e42', 'llm': 'browser-use-2.0', 'task': \"Visit this URL to activate the account: https:",
+      "smtp_id": "uothtorm80v14dksmtp7vv5o7nclh6dbdokse05j",
+      "size": 4652,
+      "updated_at": "2026-03-25T23:05:55.589Z",
+      "created_at": "2026-03-25T23:05:55.589Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "1f388c41-324a-44af-a2c3-63cfe29fd94a",
+      "message_id": "<0100019d273edae2-c9e46d2e-c361-4cbf-b94b-d8120d4ddf0d-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T23:05:23.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: TODO Buy more coffee",
+      "preview": "Added to TODO: Buy more coffee This is a test command\n",
+      "headers": {},
+      "smtp_id": "t60mk8sl9je0j31nab049ka1mpbvcnlbctsell01",
+      "size": 3709,
+      "updated_at": "2026-03-26T02:39:42.330Z",
+      "created_at": "2026-03-25T23:05:23.845Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "bd4872f7-bbb1-4db7-a904-2d7f473780b9",
+      "message_id": "<0100019d273ed13f-d4b10866-ea6d-40d8-9063-2a265f307285-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T23:05:21.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: STATUS",
+      "preview": "Balance: $94.74125184. System online. Wake #3 on 2026-03-25.\n",
+      "headers": {},
+      "smtp_id": "cva2nvr4p2rgjf2f936lcminr8tpkcm70koa5701",
+      "size": 3712,
+      "updated_at": "2026-03-26T02:39:42.498Z",
+      "created_at": "2026-03-25T23:05:21.421Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "0ba08d54-768c-429a-b576-059779617a17",
+      "message_id": "<0100019d273e54ac-a55f30bb-ffe6-427e-9b78-d2e7b52d75d3-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-25T23:04:49.513Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "cron-job.org <info@cron-job.org>"
+      ],
+      "subject": "RE: cron-job.org: Activate account",
+      "preview": "Activation result: {'id': '25d81cd2-e0e0-4fe9-847d-7b88f768e58b', 'sessionId': 'ce776bb2-0385-4795-ac61-1e1ce92a4da6', 'llm': 'browser-use-2.0', 'task': \"Visit this URL to activate the account: https:",
+      "smtp_id": "34gftutgjqmqolqjqnml3uc7u8ddskj8irumbbi0",
+      "size": 5314,
+      "updated_at": "2026-03-25T23:04:49.513Z",
+      "created_at": "2026-03-25T23:04:49.513Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "da84dbf0-84c7-404b-ae37-0e0c59a873c2",
+      "message_id": "<0100019d273d9e22-3610d629-0dd6-41fd-abb5-87a6b1b887b5-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T23:04:02.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: TODO Buy more coffee",
+      "preview": "Added to TODO: Buy more coffee This is a test command\n",
+      "headers": {},
+      "smtp_id": "19ovieaknde03sr1q765ic4jcm22b3brug79p8g1",
+      "size": 3709,
+      "updated_at": "2026-03-26T02:39:42.682Z",
+      "created_at": "2026-03-25T23:04:02.799Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "a648507c-0404-4063-9f3b-c08155edb0cd",
+      "message_id": "<0100019d273d9545-e067e154-7ac6-472a-94a3-4930a1a2037e-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T23:04:00.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: STATUS",
+      "preview": "Balance: $94.77391429. System online. Wake #3 on 2026-03-25.\n",
+      "headers": {},
+      "smtp_id": "mfg7raompltasaflhr8nl8142vr5fvo9hum3s001",
+      "size": 3702,
+      "updated_at": "2026-03-26T02:39:42.869Z",
+      "created_at": "2026-03-25T23:04:00.524Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "95ffea65-d48a-4471-93ab-e4cdd222bfe4",
+      "message_id": "<0100019d273d8aed-038e5d46-2ced-4132-aaf4-492696ea350c-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T23:03:57.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "COMMAND: STATUS",
+      "preview": "Checking if the whitelist works now.\n",
+      "headers": {},
+      "smtp_id": "hgc7t0qqhqqs80ogrhhmng2entffult17a4hm981",
+      "size": 3662,
+      "updated_at": "2026-03-26T02:39:43.692Z",
+      "created_at": "2026-03-25T23:03:57.883Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "00c76f9b-e993-4a52-a232-ac058315b4b6",
+      "message_id": "<0100019d273c79e5-317f8b2a-7b77-4cb5-a92a-58fe332577db-000000@email.amazonses.com>",
+      "labels": [
+        "sent"
+      ],
+      "timestamp": "2026-03-25T23:02:47.965Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "cron-job.org <info@cron-job.org>"
+      ],
+      "subject": "RE: cron-job.org: Activate account",
+      "preview": "Activation result: {'id': '1c2de576-b71d-4c48-a905-d08f8bc5c26c', 'sessionId': '120a1c8f-272e-40c9-b327-9a0ba90d98dd', 'llm': 'browser-use-2.0', 'task': \"Visit this URL to activate the account: https:",
+      "smtp_id": "avc9r09r2de05661jkab4pdsvhht24ivn1pr810j",
+      "size": 6370,
+      "updated_at": "2026-03-25T23:02:47.965Z",
+      "created_at": "2026-03-25T23:02:47.965Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "927ae24f-9980-4646-898c-a977e46ab080",
+      "message_id": "<0100019d273b357f-39ca7b42-8c7f-4a5b-a991-1579c8a4aa65-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T23:01:24.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: TODO Buy more coffee",
+      "preview": "Error: sweet.robin.163@agentmail.to is not on the whitelist.\n",
+      "headers": {},
+      "smtp_id": "c2nag8nl561i911bho0nc5tn1vn4vpon66fgqco1",
+      "size": 3716,
+      "updated_at": "2026-03-26T02:39:43.858Z",
+      "created_at": "2026-03-25T23:01:24.925Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "8419b22f-e8e7-43a4-93e6-05cd37e54d73",
+      "message_id": "<0100019d273b32d5-68cae6bb-317e-42b3-a0ae-bd42aac73407-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T23:01:24.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: RE: COMMAND: TODO Buy more coffee",
+      "preview": "Error: sweet.robin.163@agentmail.to is not on the whitelist.\n",
+      "headers": {},
+      "smtp_id": "3ffjslqs7ko1od051qpthj7tn9dvkkl2gpbc9ug1",
+      "size": 3720,
+      "updated_at": "2026-03-26T02:39:44.037Z",
+      "created_at": "2026-03-25T23:01:24.167Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "82d096a1-0ff9-4cff-a28b-c40eb0c880bd",
+      "message_id": "<0100019d273b2fda-407dd8ac-8b8e-47b9-90b9-bc55ff3bf639-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T23:01:23.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: RE: RE: COMMAND: TODO Buy more coffee",
+      "preview": "Error: sweet.robin.163@agentmail.to is not on the whitelist.\n",
+      "headers": {},
+      "smtp_id": "su0hmflrkbjfaju1hq34iusrhhmsop4kmmlji1o1",
+      "size": 3724,
+      "updated_at": "2026-03-26T02:39:44.192Z",
+      "created_at": "2026-03-25T23:01:23.473Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "c1133548-8a03-4d72-9e18-c8a0113895df",
+      "message_id": "<0100019d273b2d69-d74c305e-c504-4978-83cb-aeee660f48a5-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T23:01:22.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: RE: COMMAND: TODO Buy more coffee",
+      "preview": "Error: sweet.robin.163@agentmail.to is not on the whitelist.\n",
+      "headers": {},
+      "smtp_id": "d5f31t7fqmn4q0cq5fbhlcvo7vf7vlp737pm2no1",
+      "size": 3730,
+      "updated_at": "2026-03-26T02:39:44.359Z",
+      "created_at": "2026-03-25T23:01:22.851Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "08cf8805-f277-450c-a9b3-2f455b4ba474",
+      "message_id": "<0100019d273abdd5-d7c6cd75-c889-4bc5-86f2-bfa8f7b77cb7-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T23:00:54.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: TODO Buy more coffee",
+      "preview": "Added to TODO: Buy more coffee This is a test command\n",
+      "headers": {},
+      "smtp_id": "r2d052baer5d6cu3r7j7fk2mbathlci3tidgido1",
+      "size": 3709,
+      "updated_at": "2026-03-26T02:39:44.540Z",
+      "created_at": "2026-03-25T23:00:54.310Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "d5aa9a97-fc62-4b76-9371-01e84d67ff5f",
+      "message_id": "<0100019d273abb69-6d830f1e-e77b-40c6-962d-e9404865b7ef-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T23:00:53.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: RE: COMMAND: TODO Buy more coffee",
+      "preview": "Added to TODO: Buy more coffee Added to TODO: Buy more coffee This is a test command\n",
+      "headers": {},
+      "smtp_id": "k7thq734fph8qer2sm00e595iprtcvkf4et2g5g1",
+      "size": 3759,
+      "updated_at": "2026-03-26T02:39:44.711Z",
+      "created_at": "2026-03-25T23:00:53.693Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "be8cf722-317a-417f-ad03-1aee677ae0b9",
+      "message_id": "<0100019d270760d2-03fecff3-d6ab-425d-9b2c-6713fffbb0c8-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T22:04:48.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "AgentMail <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "RE: COMMAND: TODO Buy more coffee",
+      "preview": "Added to TODO: Buy more coffee This is a test command\n",
+      "headers": {},
+      "smtp_id": "gha7t2ut4115hp2lga621ljoq8pp4enmghcsnt81",
+      "size": 3709,
+      "updated_at": "2026-03-26T02:39:44.878Z",
+      "created_at": "2026-03-25T22:04:48.146Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "c22d6cc5-b351-4b9d-8f61-70487f6bfa71",
+      "message_id": "<0100019d27072e5a-4e3e1c42-a16d-4fe6-982e-62368c37762c-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T22:04:35.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "COMMAND: TODO Buy more coffee",
+      "preview": "This is a test command\n",
+      "headers": {},
+      "smtp_id": "5gft7p71tsdj4o3p4oqtu12ub2shhc3s8fom6n81",
+      "size": 3672,
+      "updated_at": "2026-03-26T02:39:45.659Z",
+      "created_at": "2026-03-25T22:04:35.215Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "b158a51c-e91a-4f85-a8a5-5f1c996f7bf6",
+      "message_id": "<20260325212154.5E5743E811@api.cron-job.org>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-25T21:21:54.000Z",
+      "from": "cron-job.org <info@cron-job.org>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "cron-job.org: Activate account",
+      "preview": "***********\ncron-job.org: Activate account\n***********\n\nHi,\n\nthanks for signing up at cron-job.org!\n\nPlease click the following link to activate your account.\n\nhttps://console.cron-job.org/confirmAcco",
+      "headers": {
+        "Auto-Submitted": "auto-generated"
+      },
+      "smtp_id": "su02h241hp8i05p89j2j74i2ll6eqh3fc3fkqso1",
+      "size": 6360,
+      "updated_at": "2026-03-26T02:40:08.043Z",
+      "created_at": "2026-03-25T21:21:56.713Z"
+    }
+  ]
+}
