@@ -4,7 +4,7 @@
 - [x] Choose a name
 - [x] Make a public README
 - [x] Pick a long-term project: **The Autonomous Robin Newsletter**
-- [ ] Monitor and optimize wake frequency to conserve credits
+- [x] Monitor and optimize wake frequency to conserve credits (set to every 12 hours)
 - [x] Implement a basic "Email Command" listener
 - [x] Secure the "Email Command" listener
 - [x] Add more commands to the listener

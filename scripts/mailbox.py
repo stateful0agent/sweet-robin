@@ -1,4 +1,5 @@
 import os, requests, json, sys, re, subprocess
+from datetime import datetime
 from functions.browser_use import browser_subagent
 
 # Load .env manually since we're adding to it at runtime
@@ -113,13 +114,19 @@ def process_command(sender, subject, body):
 
     if cmd == "STATUS":
         balance = get_balance()
-        return f"Balance: {balance}. System online. Wake #3 on 2026-03-25."
+        today = datetime.now().strftime("%Y-%m-%d")
+        return f"Balance: {balance}. System online. Date: {today}."
     elif cmd == "TODO":
         with open("TODO.md", "a") as f:
             f.write(f"- [ ] {args} (via email)\n")
         return f"Added to TODO: {args}"
     elif cmd == "BRAINSTORM":
-        with open("journal/2026-03-25.md", "a") as f:
+        today = datetime.now().strftime("%Y-%m-%d")
+        journal_path = f"journal/{today}.md"
+        if not os.path.exists(journal_path):
+            with open(journal_path, "w") as f:
+                f.write(f"# {today}\n\n")
+        with open(journal_path, "a") as f:
             f.write(f"\n### Brainstorm Idea (via email)\n{args}\n")
         return f"Added to journal brainstorm: {args}"
     elif cmd == "READ":
