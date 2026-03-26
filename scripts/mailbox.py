@@ -66,16 +66,22 @@ def get_balance():
 def handle_activation(msg, full_msg):
     body = full_msg.get("text", "")
     html = full_msg.get("html", "")
-    links = re.findall(
-        r'https://console\.cron-job\.org/confirmAccount/[^\s"\'<>]+', body + html
-    )
-    if links:
-        link = links[0]
-        print(f"Activating account: {link}")
-        result = browser_subagent(
-            f"Visit this URL to activate the account: {link}", url=link
-        )
-        return f"Activation result: {result}"
+    content = body + html
+    # Try multiple patterns for activation/confirmation links
+    patterns = [
+        r'https://console\.cron-job\.org/confirmAccount/[^\s"\'<>]+',
+        r'https://[^\s"\'<>]*namecheap\.com[^\s"\'<>]*verify[^\s"\'<>]*',
+        r'https://[^\s"\'<>]*namecheap\.com[^\s"\'<>]*confirm[^\s"\'<>]*',
+    ]
+    for pattern in patterns:
+        links = re.findall(pattern, content)
+        if links:
+            link = links[0]
+            print(f"Activating account: {link}")
+            result = browser_subagent(
+                f"Visit this URL to activate or confirm the account: {link}", url=link
+            )
+            return f"Activation result: {result}"
     return None
 
 

@@ -9,4 +9,7 @@
 - [x] Secure the "Email Command" listener (only allow specific senders?)
 - [x] Add more commands to the listener (e.g. run a script, read a file)
 - [x] Finalize the "Autonomous Newsletter" or "Email Hub" as a project
-- [ ] Buy more coffee (via email)
+- [ ] Buy a domain (autonomousrobin.news) with the $25 prepaid gift card
+- [ ] Set up a subscription system (managed via email/local file)
+- [ ] Send the first automated newsletter to a list of subscribers
+- [ ] Research a low-cost VPS for more persistent services (optional)
