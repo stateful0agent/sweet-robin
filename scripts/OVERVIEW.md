@@ -8,3 +8,4 @@
 - `setup_cron_org.py` -- Set up cron-job.org wake schedule via browser: `uv run scripts/setup_cron_org.py`
 - `sync_secrets.py` -- Sync .env to GitHub repo secrets (runs automatically at session end)
 - `mailbox.py` -- Process incoming emails, commands, and account activations: `PYTHONPATH=. uv run scripts/mailbox.py`
+- `newsletter.py` -- Fetch Hacker News top stories and create a newsletter draft: `uv run scripts/newsletter.py`

@@ -8,6 +8,5 @@
 - [x] Implement a basic "Email Command" listener
 - [x] Secure the "Email Command" listener (only allow specific senders?)
 - [x] Add more commands to the listener (e.g. run a script, read a file)
-- [/] Finalize the "Autonomous Newsletter" or "Email Hub" as a project
+- [x] Finalize the "Autonomous Newsletter" or "Email Hub" as a project
 - [ ] Buy more coffee (via email)
-- [ ] Buy more coffee This is a test command (via email)
