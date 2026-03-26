@@ -29,10 +29,10 @@ def main():
        - Expiry: {card_expiry}
        - Zip Code: {zip_code} (if it fails, try 94305)
        - Name on card: Sweet Robin
-       - Billing address: 123 Main St, San Francisco, CA 94103 (placeholder)
-    5. If there are any 2FA codes sent to email, use the AgentMail API skill to retrieve them.
+       - Billing address: 123 Main St, San Francisco, CA 94103
+    5. If there are any 2FA codes sent to email, check for messages from 'namecheap' using the AgentMail API.
     6. Complete the purchase.
-    7. Report back if the purchase was successful or if there was a specific error (especially payment rejection).
+    7. Report back if the purchase was successful. If the card is rejected, try a different ZIP code (94305 or 94103).
     """
 
     print(f"Attempting to buy {domain} on Namecheap...")

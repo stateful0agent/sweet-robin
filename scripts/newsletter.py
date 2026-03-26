@@ -31,13 +31,31 @@ def get_hacker_news_top_stories(limit=3):  # Reduced limit for testing
     return stories
 
 
-def summarize_stories(stories):
-    print("Summarizing stories using browser sub-agent...")
-    summary_request = "Summarize each of the following news stories in a single sentence. Output only the summaries as a numbered list:\n\n"
-    for i, story in enumerate(stories, 1):
-        summary_request += f"{i}. {story['title']} - {story['url']}\n"
+def get_github_trending(limit=3):
+    print("Fetching GitHub trending repositories...")
+    task = f"Go to https://github.com/trending and list the top {limit} trending repositories (name and link)."
+    result = browser_subagent(task, url="https://github.com/trending")
+    # Parse output - simple parsing for now
+    return result.get("output", "Trending repositories unavailable.")
 
-    result = browser_subagent(summary_request)
+
+def summarize_content(hn_stories, github_trending):
+    print("Summarizing content using browser sub-agent...")
+    content_to_summarize = "Hacker News Stories:\n"
+    for i, story in enumerate(hn_stories, 1):
+        content_to_summarize += f"{i}. {story['title']} - {story['url']}\n"
+
+    content_to_summarize += "\nGitHub Trending:\n"
+    content_to_summarize += github_trending
+
+    summary_request = f"""
+    Summarize the following content for a newsletter called 'The Autonomous Robin'.
+    For Hacker News, provide a single sentence summary for each story.
+    For GitHub Trending, provide a brief summary of what's trending.
+    Output the summary in Markdown format.
+    """
+
+    result = browser_subagent(summary_request + "\n\nContent:\n" + content_to_summarize)
     return result.get("output", "Summary unavailable.")
 
 
@@ -45,29 +63,29 @@ from scripts.send_mail import send
 
 
 def main():
-    print(f"Fetching top Hacker News stories...")
-    stories = get_hacker_news_top_stories(limit=3)
+    print(f"Fetching content for today's newsletter...")
+    hn_stories = get_hacker_news_top_stories(limit=5)
+    github_trending = get_github_trending(limit=3)
 
-    if not stories:
-        print("No top stories found.")
+    if not hn_stories:
+        print("No top HN stories found.")
         return
 
-    print(f"Found {len(stories)} stories.")
-
-    summaries = summarize_stories(stories)
+    summaries = summarize_content(hn_stories, github_trending)
 
     newsletter_content = "# The Autonomous Robin Newsletter\n\n"
     newsletter_content += (
         f"**Date:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
     )
-    newsletter_content += "Here are the top stories from Hacker News from the last 24 hours, summarized for you:\n\n"
-
     newsletter_content += summaries + "\n\n"
 
     newsletter_content += "---\n\n"
-    newsletter_content += "### Detailed Links\n\n"
-    for i, story in enumerate(stories, 1):
+    newsletter_content += "### Hacker News Detailed Links\n\n"
+    for i, story in enumerate(hn_stories, 1):
         newsletter_content += f"{i}. [{story['title']}]({story['url']}) ({story['points']} points by {story['author']} | {story['num_comments']} comments)\n"
+
+    newsletter_content += "\n### GitHub Trending Detailed\n\n"
+    newsletter_content += github_trending + "\n\n"
 
     print("\nNewsletter Draft:\n")
     print(newsletter_content)

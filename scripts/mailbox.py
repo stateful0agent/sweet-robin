@@ -47,8 +47,10 @@ def mark_read(message_id):
             headers=HDR,
             json={"labels": ["received"]},
         )
+        print(f"Mark read {message_id}: {r.status_code} {r.text}")
         return r.status_code == 200
-    except:
+    except Exception as e:
+        print(f"Error marking read: {e}")
         return False
 
 
@@ -97,7 +99,7 @@ def process_command(sender, subject, body):
     allowed = os.environ.get("ALLOWED_SENDERS", "").split(",")
     if sender_email not in allowed:
         print(f"Blocked command from unauthorized sender: {sender_email}")
-        return f"Error: {sender_email} is not on the whitelist."
+        return None  # DON'T RESPOND TO UNAUTHORIZED SENDERS
 
     # Skip responses to avoid loops
     if subject.upper().startswith("RE:"):
@@ -120,6 +122,25 @@ def process_command(sender, subject, body):
         with open("TODO.md", "a") as f:
             f.write(f"- [ ] {args} (via email)\n")
         return f"Added to TODO: {args}"
+    elif cmd == "REMOVE":
+        try:
+            with open("TODO.md", "r") as f:
+                lines = f.readlines()
+            new_lines = []
+            removed = False
+            for line in lines:
+                if args.lower() in line.lower() and not removed:
+                    removed = True
+                    continue
+                new_lines.append(line)
+            with open("TODO.md", "w") as f:
+                f.writelines(new_lines)
+            if removed:
+                return f"Removed from TODO: {args}"
+            else:
+                return f"Not found in TODO: {args}"
+        except Exception as e:
+            return f"Error removing from TODO: {str(e)}"
     elif cmd == "BRAINSTORM":
         today = datetime.now().strftime("%Y-%m-%d")
         journal_path = f"journal/{today}.md"
@@ -151,31 +172,42 @@ def process_command(sender, subject, body):
 
 
 def main():
+    processed_file = "processed_messages.json"
+    if os.path.exists(processed_file):
+        with open(processed_file, "r") as f:
+            processed = set(json.load(f))
+    else:
+        processed = set()
+
     messages = list_unread()
     print(f"Found {len(messages)} unread messages.")
     for msg in messages:
+        mid = msg["message_id"]
+        if mid in processed:
+            continue
+
         sender = msg.get("from", "")
         subject = msg.get("subject", "")
         print(f"Processing '{subject}' from '{sender}'")
 
-        full_msg = get_message(msg["message_id"])
+        full_msg = get_message(mid)
 
         # Check for activation links first
-        if "Activate account" in subject or "cron-job.org" in subject:
-            activation_result = handle_activation(msg, full_msg)
-            if activation_result:
-                # Send result back?
-                requests.post(
-                    f"{API}/inboxes/{os.environ['AGENTMAIL_ADDRESS']}/messages/send",
-                    headers=HDR,
-                    json={
-                        "to": sender,
-                        "subject": f"RE: {subject}",
-                        "text": activation_result,
-                    },
-                )
-                mark_read(msg["message_id"])
-                continue
+        activation_result = handle_activation(msg, full_msg)
+        if activation_result:
+            # Send result back?
+            requests.post(
+                f"{API}/inboxes/{os.environ['AGENTMAIL_ADDRESS']}/messages/send",
+                headers=HDR,
+                json={
+                    "to": sender,
+                    "subject": f"RE: {subject}",
+                    "text": activation_result,
+                },
+            )
+            mark_read(mid)
+            processed.add(mid)
+            continue
 
         # Check for commands
         body = full_msg.get("text", "")
@@ -188,11 +220,17 @@ def main():
                 json={"to": sender, "subject": f"RE: {subject}", "text": response},
             )
             print(f"Responded to {sender}")
-            mark_read(msg["message_id"])
+            mark_read(mid)
         else:
-            # If not a command and not handled, mark as read anyway?
-            # Or skip. Let's mark as read to avoid re-processing.
-            mark_read(msg["message_id"])
+            # If not a command and not handled, still mark as read?
+            # Let's mark as read to avoid re-processing if possible.
+            mark_read(mid)
+
+        processed.add(mid)
+
+    # Save processed set
+    with open(processed_file, "w") as f:
+        json.dump(list(processed), f)
 
 
 if __name__ == "__main__":

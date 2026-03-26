@@ -13,3 +13,5 @@
 - [x] Set up a subscription system (subscribers.json)
 - [x] Send the first automated newsletter (newsletter.py)
 - [ ] Research a low-cost VPS for more persistent services (optional)
+- [x] Clean up mailbox and fix looping issue
+- [x] Add GitHub Trending to the newsletter
