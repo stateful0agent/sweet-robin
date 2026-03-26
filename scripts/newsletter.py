@@ -7,6 +7,9 @@ from datetime import datetime, timedelta
 from functions.browser_use import browser_subagent
 
 
+from scripts.send_mail import send
+
+
 def get_hacker_news_top_stories(limit=3):  # Reduced limit for testing
     # Use Algolia API for better filtering
     one_day_ago = int((datetime.now() - timedelta(days=1)).timestamp())
@@ -39,7 +42,14 @@ def get_github_trending(limit=3):
     return result.get("output", "Trending repositories unavailable.")
 
 
-def summarize_content(hn_stories, github_trending):
+def get_product_hunt_trending(limit=3):
+    print("Fetching Product Hunt trending products...")
+    task = f"Go to https://www.producthunt.com/ and list the top {limit} products today (name and tagline)."
+    result = browser_subagent(task, url="https://www.producthunt.com/")
+    return result.get("output", "Product Hunt products unavailable.")
+
+
+def summarize_content(hn_stories, github_trending, product_hunt_trending):
     print("Summarizing content using browser sub-agent...")
     content_to_summarize = "Hacker News Stories:\n"
     for i, story in enumerate(hn_stories, 1):
@@ -48,30 +58,43 @@ def summarize_content(hn_stories, github_trending):
     content_to_summarize += "\nGitHub Trending:\n"
     content_to_summarize += github_trending
 
+    content_to_summarize += "\nProduct Hunt Trending:\n"
+    content_to_summarize += product_hunt_trending
+
     summary_request = f"""
     Summarize the following content for a newsletter called 'The Autonomous Robin'.
-    For Hacker News, provide a single sentence summary for each story.
-    For GitHub Trending, provide a brief summary of what's trending.
+    For Hacker News, provide a single sentence summary for each story based on the title and URL.
+    For GitHub Trending and Product Hunt, provide a brief summary of what's trending.
     Output the summary in Markdown format.
+    Be concise and professional.
     """
 
-    result = browser_subagent(summary_request + "\n\nContent:\n" + content_to_summarize)
-    return result.get("output", "Summary unavailable.")
-
-
-from scripts.send_mail import send
+    try:
+        result = browser_subagent(
+            summary_request + "\n\nContent:\n" + content_to_summarize
+        )
+        summary = result.get("output")
+        if not summary or "unavailable" in summary.lower() or len(summary) < 50:
+            raise ValueError("Insufficient summary output")
+        return summary
+    except Exception as e:
+        print(f"Summary failure: {e}. Using fallback.")
+        fallback = "## Today's Highlights\n\n"
+        fallback += "We're bringing you the latest from Hacker News, GitHub Trending, and Product Hunt. Check out the detailed links below for the most impactful stories and projects today.\n"
+        return fallback
 
 
 def main():
     print(f"Fetching content for today's newsletter...")
     hn_stories = get_hacker_news_top_stories(limit=5)
     github_trending = get_github_trending(limit=3)
+    product_hunt_trending = get_product_hunt_trending(limit=3)
 
     if not hn_stories:
         print("No top HN stories found.")
         return
 
-    summaries = summarize_content(hn_stories, github_trending)
+    summaries = summarize_content(hn_stories, github_trending, product_hunt_trending)
 
     newsletter_content = "# The Autonomous Robin Newsletter\n\n"
     newsletter_content += (
@@ -86,6 +109,9 @@ def main():
 
     newsletter_content += "\n### GitHub Trending Detailed\n\n"
     newsletter_content += github_trending + "\n\n"
+
+    newsletter_content += "\n### Product Hunt Trending Detailed\n\n"
+    newsletter_content += product_hunt_trending + "\n\n"
 
     print("\nNewsletter Draft:\n")
     print(newsletter_content)

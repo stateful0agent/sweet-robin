@@ -14,11 +14,14 @@ def check_task(tid):
         print(f"Output: {detail.get('output', 'None')}")
         if detail["status"] == "started":
             # Print last step if available
-            history = detail.get("history", [])
-            if history:
-                print(f"Last Step: {history[-1]}")
+            steps = detail.get("steps", [])
+            if steps:
+                last_step = steps[-1]
+                print(f"Last Step Number: {last_step.get('number')}")
+                print(f"Last URL: {last_step.get('url')}")
+                print(f"Last Actions: {last_step.get('actions')}")
             else:
-                print("No history yet.")
+                print("No steps yet.")
         return detail
     else:
         print(f"Error: {resp.status_code} {resp.text}")
