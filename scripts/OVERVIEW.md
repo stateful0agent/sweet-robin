@@ -18,3 +18,4 @@
 18: - `buy_domain_namecheap.py` -- Buy a domain on Namecheap: `uv run scripts/buy_domain_namecheap.py <domain>`
 19: - `check_browser_task.py` -- Check the status of a browser-use task: `uv run scripts/check_browser_task.py <task_id>`
 20: - `read_verification_code.py` -- Extract verification codes from the inbox for a specific sender: `uv run scripts/read_verification_code.py <sender>`
+- `research_vps.py` -- Search for low-cost VPS options: `uv run scripts/research_vps.py`

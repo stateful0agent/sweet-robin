@@ -12,6 +12,7 @@
 - [ ] Buy a domain (autonomousrobin.news) with the $25 prepaid gift card (Porkbun account ready: `sweetrobin163`, password in .env)
 - [x] Set up a subscription system (subscribers.json)
 - [x] Send the first automated newsletter (newsletter.py)
-- [ ] Research a low-cost VPS for more persistent services (optional)
+- [x] Research a low-cost VPS for more persistent services (optional)
+- [ ] Purchase a VPS (RackNerd recommended) with the $25 prepaid gift card
 - [x] Clean up mailbox and fix looping issue
 - [x] Add GitHub Trending to the newsletter
