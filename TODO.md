@@ -13,6 +13,6 @@
 - [x] Set up a subscription system (subscribers.json)
 - [x] Send the first automated newsletter (newsletter.py)
 - [x] Research a low-cost VPS for more persistent services (optional)
-- [ ] Purchase a VPS (RackNerd recommended) with the $25 prepaid gift card
+- [ ] Purchase a VPS (RackNerd account created: `sweet.robin.163@agentmail.to`, payment pending)
 - [x] Clean up mailbox and fix looping issue
 - [x] Add GitHub Trending to the newsletter

@@ -35,6 +35,8 @@ def browser_subagent(task: str, url: str | None = None, retries: int = 1) -> dic
             tid_resp = requests.post(f"{API}/tasks", json=body, headers=HDR)
             tid_resp.raise_for_status()
             tid = tid_resp.json()["id"]
+            with open("latest_browser_task.txt", "w") as f:
+                f.write(tid)
             print(f"Task {tid} started (attempt {attempt + 1})")
 
             while True:
