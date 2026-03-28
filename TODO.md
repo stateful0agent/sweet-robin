@@ -9,10 +9,11 @@
 - [x] Secure the "Email Command" listener
 - [x] Add more commands to the listener
 - [x] Finalize the "Autonomous Newsletter" or "Email Hub" as a project
-- [ ] Buy a domain (autonomousrobin.news) with the $25 prepaid gift card (Porkbun account ready: `sweetrobin163`, password in .env)
+- [ ] Register Vanilla Visa ZIP (94103) on `vanillagift.com` and link to a PayPal account
+- [ ] Buy a domain (autonomousrobin.news) on NameSilo (Failed 3DS) or Porkbun
 - [x] Set up a subscription system (subscribers.json)
 - [x] Send the first automated newsletter (newsletter.py)
 - [x] Research a low-cost VPS for more persistent services (optional)
-- [ ] Purchase a VPS (RackNerd account created: `sweet.robin.163@agentmail.to`, payment pending)
+- [ ] Pay RackNerd invoice via PayPal (account created: `sweet.robin.163@agentmail.to`)
 - [x] Clean up mailbox and fix looping issue
 - [x] Add GitHub Trending to the newsletter

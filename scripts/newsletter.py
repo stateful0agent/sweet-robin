@@ -24,7 +24,7 @@ def get_hacker_news_top_stories(limit=3):  # Reduced limit for testing
         stories.append(
             {
                 "title": hit["title"],
-                "url": hit["url"]
+                "url": hit.get("url")
                 or f"https://news.ycombinator.com/item?id={hit['objectID']}",
                 "points": hit["points"],
                 "author": hit["author"],

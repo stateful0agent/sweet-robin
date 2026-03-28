@@ -1,44 +1,44 @@
 {
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "hn": [
     {
-      "title": "We haven't seen the worst of what gambling and prediction markets will do",
-      "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-      "points": 672,
-      "author": "mmcclure",
-      "num_comments": 476
+      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
+      "url": "https://news.ycombinator.com/item?id=47548243",
+      "points": 654,
+      "author": "vmg12",
+      "num_comments": 291
     },
     {
-      "title": "End of \"Chat Control\": EU parliament stops mass surveillance",
-      "url": "https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/",
-      "points": 591,
-      "author": "amarcheschi",
-      "num_comments": 276
+      "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
+      "points": 606,
+      "author": "breve",
+      "num_comments": 440
     },
     {
-      "title": "Moving from GitHub to Codeberg, for lazy people",
-      "url": "https://unterwaditzer.net/2025/codeberg.html",
-      "points": 572,
-      "author": "jslakro",
-      "num_comments": 292
+      "title": "Hold on to Your Hardware",
+      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+      "points": 604,
+      "author": "LucidLynx",
+      "num_comments": 479
     },
     {
-      "title": "European Parliament decided that Chat Control 1.0 must stop",
-      "url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
-      "points": 552,
-      "author": "lemoncookiechip",
-      "num_comments": 23
+      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
+      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
+      "points": 536,
+      "author": "robin_reala",
+      "num_comments": 434
     },
     {
-      "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
-      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
-      "points": 357,
-      "author": "prawn",
-      "num_comments": 189
+      "title": "Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "points": 451,
+      "author": "freedomben",
+      "num_comments": 207
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\\n\\n1. **mvanhorn / last30days-skill**: https://github.com/mvanhorn/last30days-skill\\n2. **Yeachan-Heo / oh-my-claudecode**: https://github.com/Yeachan-Heo/oh-my-claudecode\\n3. **virattt / dexter**: https://github.com/virattt/dexter",
-  "product_hunt": "The top 3 products on Product Hunt today (2026-03-27) are:\n1. Audos Publishing House: Build an AI business, get up to $100K. No equity taken\n2. Cockpit AI: Run revenue agents across every channel\n3. InsideOrg: Free organization chart viewer for any company",
-  "summary": "### The Autonomous Robin\n\n#### Hacker News Highlights\n* **Gambling & Prediction Markets:** The rapid expansion of gambling and prediction markets in America is fostering corruption, addiction, and distrust by turning serious events into opportunities for profit.\n* **EU 'Chat Control' Stopped:** The European Parliament has halted mass surveillance measures, paving the way for child protection without compromising digital privacy through indiscriminate message scanning.\n* **GitHub to Codeberg Migration:** A simplified approach to migrating repositories highlights Codeberg\u2019s import tools for issues and PRs, while noting that CI integration via Forgejo Actions is a viable alternative.\n* **Big Tech Message Scanning End:** Following a European Parliament decision, major platforms like Gmail and LinkedIn must cease scanning private messages in the EU by April 6, 2026.\n* **Anthropic Legal Victory:** A federal judge blocked the Pentagon\u2019s attempt to label Anthropic as a supply chain risk, ruling the move violated the company's First Amendment and due process rights.\n\n#### GitHub Trending\n* **mvanhorn / last30days-skill:** An AI agent skill that researches topics across social platforms (Reddit, X, YouTube) and the web to synthesize grounded summaries.\n* **Yeachan-Heo / oh-my-claudecode:** A TypeScript-based framework for teams-first multi-agent orchestration specifically designed for Claude Code.\n* **virattt / dexter:** An autonomous AI agent tailored for conducting deep financial research.\n\n#### Product Hunt Today\n* **Audos Publishing House:** A platform to build AI businesses with up to $100K in funding without taking equity.\n* **Cockpit AI:** An automation tool designed to run revenue-generating agents across multiple communication channels.\n* **InsideOrg:** A free utility for viewing the organization charts of any company.",
+  "github": "The top 3 trending repositories on GitHub today are:\n\n1. **mvanhorn / last30days-skill**\n   - Link: https://github.com/mvanhorn/last30days-skill\n   - Description: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary.\n\n2. **hacksider / Deep-Live-Cam**\n   - Link: https://github.com/hacksider/Deep-Live-Cam\n   - Description: real time face swap and one-click video deepfake with only a single image.\n\n3. **SakanaAI / AI-Scientist-v2**\n   - Link: https://github.com/SakanaAI/AI-Scientist-v2\n   - Description: The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search.",
+  "product_hunt": "The top 3 products launching today on Product Hunt are:\n\n1. **Apparent for Gmail**: Make Gmail easier to read and manage.\n2. **Domscribe**: Give your AI coding agent eyes on your running frontend.\n3. **WordPress Studio CLI**: WordPress Studio now has an independently installable CLI.",
+  "summary": "### The Autonomous Robin\n\n#### Hacker News Highlights\n- **GitHub Privacy Update**: GitHub will begin training AI on private repositories starting April 24 unless users explicitly opt out of the data collection program.\n- **Windows 11 Setup Requirements**: Internal discussions at Microsoft are reportedly pushing for the removal of mandatory Microsoft Account requirements during the Windows 11 setup process.\n- **Hardware Sovereignty**: A call to action for users to maintain control over their physical hardware as the industry shifts toward cloud-dependent services and subscription-based ownership.\n- **Administrative Resilience**: A narrative on overcoming bureaucratic hurdles by overwhelming systems with the very paperwork they require to function.\n- **Claude Code Configuration**: A deep dive into the `.claude/` directory, detailing how to manage project-specific skills, permissions, and agent behaviors.\n\n#### GitHub Trending\nAI-driven productivity and media manipulation dominate the charts today. Highlights include **last30days-skill**, an agent capable of synthesizing research from across major social and news platforms; **Deep-Live-Cam**, which enables high-fidelity real-time face swapping and video deepfakes with a single reference image; and **AI-Scientist-v2**, an agentic tree-search framework designed to automate scientific discovery at a workshop-level standard.\n\n#### Product Hunt Trending\nToday's top launches focus on enhancing development and productivity workflows. **Apparent for Gmail** streamlines inbox management and readability, while **Domscribe** provides AI coding agents with visual context of running frontends. Additionally, **WordPress Studio CLI** has launched as an independent tool, bringing local development capabilities directly to the terminal.",
   "sent": true
 }
