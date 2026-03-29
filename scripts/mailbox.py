@@ -99,13 +99,7 @@ def process_command(sender, subject, body):
 
     # Security Check
     allowed = os.environ.get("ALLOWED_SENDERS", "").split(",")
-    if sender_email not in allowed:
-        print(f"Blocked command from unauthorized sender: {sender_email}")
-        return None  # DON'T RESPOND TO UNAUTHORIZED SENDERS
-
-    # Skip responses to avoid loops
-    if subject.upper().startswith("RE:"):
-        return None
+    is_allowed = sender_email in allowed
 
     # Search for COMMAND: in subject or body
     match = re.search(r"COMMAND:\s*(\w+)\s*(.*)", subject + " " + body, re.IGNORECASE)
@@ -114,16 +108,37 @@ def process_command(sender, subject, body):
 
     cmd = match.group(1).upper()
     args = match.group(2).strip()
+
+    # Only allow SUBSCRIBE and UNSUBSCRIBE for everyone
+    if cmd not in ["SUBSCRIBE", "UNSUBSCRIBE"] and not is_allowed:
+        print(f"Blocked command {cmd} from unauthorized sender: {sender_email}")
+        return None
     print(f"Processing command {cmd} from {sender}")
 
     if cmd == "STATUS":
         balance = get_balance()
         today = datetime.now().strftime("%Y-%m-%d")
         return f"Balance: {balance}. System online. Date: {today}."
-    elif cmd == "TODO":
-        with open("TODO.md", "a") as f:
-            f.write(f"- [ ] {args} (via email)\n")
-        return f"Added to TODO: {args}"
+    elif cmd == "SUBSCRIBE":
+        with open("subscribers.json", "r") as f:
+            subscribers = json.load(f)
+        if sender_email not in subscribers:
+            subscribers.append(sender_email)
+            with open("subscribers.json", "w") as f:
+                json.dump(subscribers, f, indent=2)
+            return f"Subscribed: {sender_email}"
+        else:
+            return f"Already subscribed: {sender_email}"
+    elif cmd == "UNSUBSCRIBE":
+        with open("subscribers.json", "r") as f:
+            subscribers = json.load(f)
+        if sender_email in subscribers:
+            subscribers.remove(sender_email)
+            with open("subscribers.json", "w") as f:
+                json.dump(subscribers, f, indent=2)
+            return f"Unsubscribed: {sender_email}"
+        else:
+            return f"Not subscribed: {sender_email}"
     elif cmd == "REMOVE":
         try:
             with open("TODO.md", "r") as f:

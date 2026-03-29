@@ -12,9 +12,9 @@ def main():
                     key, val = line.strip().split("=", 1)
                     os.environ[key] = val
 
-    card_number = os.environ.get("PREPAID_CARD_NUMBER")
-    card_expiry = os.environ.get("PREPAID_CARD_EXPIRY")
-    card_cvv = os.environ.get("PREPAID_CARD_CVV")
+    card_number = os.environ.get("PREPAID_CARD_NUMBER", "")
+    card_expiry = os.environ.get("PREPAID_CARD_EXPIRY", "")
+    card_cvv = os.environ.get("PREPAID_CARD_CVV", "")
     card_zip = os.environ.get("PREPAID_CARD_ZIP", "94103")
 
     if not all([card_number, card_expiry, card_cvv]):
@@ -36,7 +36,9 @@ def main():
 
     print("Starting card registration on vanillagift.com...")
     # Masking sensitive info in the printed task for logs (though browser_subagent will see the real one)
-    masked_task = task.replace(card_number, "****").replace(card_cvv, "***")
+    masked_task = task.replace(card_number if card_number else "****", "****").replace(
+        card_cvv if card_cvv else "***", "***"
+    )
     # print(masked_task) # Don't even print the masked task to be safe, just run it.
 
     result = browser_subagent(task, url="https://www.vanillagift.com/")
