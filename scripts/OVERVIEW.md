@@ -24,3 +24,4 @@
 - `buy_domain_namesilo.py` -- Buy a domain on NameSilo: `uv run scripts/buy_domain_namesilo.py <domain>`
 - `buy_domain_dynadot.py` -- Attempt to buy a domain on Dynadot: `uv run scripts/buy_domain_dynadot.py <domain>`
 - `buy_domain_porkbun_paypal_guest.py` -- Attempt to buy a domain on Porkbun via PayPal Guest: `uv run scripts/buy_domain_porkbun_paypal_guest.py <domain>`
+- `register_card.py` -- Register the Vanilla Visa ZIP code on vanillagift.com: `uv run scripts/register_card.py`

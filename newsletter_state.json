@@ -1,44 +1,44 @@
 {
-  "date": "2026-03-28",
+  "date": "2026-03-29",
   "hn": [
     {
-      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
-      "url": "https://news.ycombinator.com/item?id=47548243",
-      "points": 654,
-      "author": "vmg12",
-      "num_comments": 291
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "points": 895,
+      "author": "bob_theslob646",
+      "num_comments": 194
     },
     {
-      "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-      "points": 606,
-      "author": "breve",
-      "num_comments": 440
+      "title": "Spanish legislation as a Git repo",
+      "url": "https://github.com/EnriqueLop/legalize-es",
+      "points": 715,
+      "author": "enriquelop",
+      "num_comments": 217
     },
     {
-      "title": "Hold on to Your Hardware",
-      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "points": 604,
-      "author": "LucidLynx",
-      "num_comments": 479
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "points": 600,
+      "author": "oldfrenchfries",
+      "num_comments": 451
     },
     {
-      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
-      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
-      "points": 536,
-      "author": "robin_reala",
-      "num_comments": 434
+      "title": "I decompiled the White House's new app",
+      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "points": 475,
+      "author": "amarcheschi",
+      "num_comments": 183
     },
     {
-      "title": "Anatomy of the .claude/ folder",
-      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "points": 451,
-      "author": "freedomben",
-      "num_comments": 207
+      "title": "Britain today generating 90%+ of electricity from renewables",
+      "url": "https://grid.iamkate.com/",
+      "points": 388,
+      "author": "rwmj",
+      "num_comments": 269
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\n\n1. **mvanhorn / last30days-skill**\n   - Link: https://github.com/mvanhorn/last30days-skill\n   - Description: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary.\n\n2. **hacksider / Deep-Live-Cam**\n   - Link: https://github.com/hacksider/Deep-Live-Cam\n   - Description: real time face swap and one-click video deepfake with only a single image.\n\n3. **SakanaAI / AI-Scientist-v2**\n   - Link: https://github.com/SakanaAI/AI-Scientist-v2\n   - Description: The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search.",
-  "product_hunt": "The top 3 products launching today on Product Hunt are:\n\n1. **Apparent for Gmail**: Make Gmail easier to read and manage.\n2. **Domscribe**: Give your AI coding agent eyes on your running frontend.\n3. **WordPress Studio CLI**: WordPress Studio now has an independently installable CLI.",
-  "summary": "### The Autonomous Robin\n\n#### Hacker News Highlights\n- **GitHub Privacy Update**: GitHub will begin training AI on private repositories starting April 24 unless users explicitly opt out of the data collection program.\n- **Windows 11 Setup Requirements**: Internal discussions at Microsoft are reportedly pushing for the removal of mandatory Microsoft Account requirements during the Windows 11 setup process.\n- **Hardware Sovereignty**: A call to action for users to maintain control over their physical hardware as the industry shifts toward cloud-dependent services and subscription-based ownership.\n- **Administrative Resilience**: A narrative on overcoming bureaucratic hurdles by overwhelming systems with the very paperwork they require to function.\n- **Claude Code Configuration**: A deep dive into the `.claude/` directory, detailing how to manage project-specific skills, permissions, and agent behaviors.\n\n#### GitHub Trending\nAI-driven productivity and media manipulation dominate the charts today. Highlights include **last30days-skill**, an agent capable of synthesizing research from across major social and news platforms; **Deep-Live-Cam**, which enables high-fidelity real-time face swapping and video deepfakes with a single reference image; and **AI-Scientist-v2**, an agentic tree-search framework designed to automate scientific discovery at a workshop-level standard.\n\n#### Product Hunt Trending\nToday's top launches focus on enhancing development and productivity workflows. **Apparent for Gmail** streamlines inbox management and readability, while **Domscribe** provides AI coding agents with visual context of running frontends. Additionally, **WordPress Studio CLI** has launched as an independent tool, bringing local development capabilities directly to the terminal.",
+  "github": "The top 3 trending repositories on GitHub today are:\n1. hacksider / Deep-Live-Cam - https://github.com/hacksider/Deep-Live-Cam\n2. obra / superpowers - https://github.com/obra/superpowers\n3. SakanaAI / AI-Scientist-v2 - https://github.com/SakanaAI/AI-Scientist-v2",
+  "product_hunt": "The top 3 products on Product Hunt today (March 29, 2026) are:\n1. Genzi: The social app built around music\n2. Google Search Live: Interactive, multimodal conversation in AI Mode\n3. CodingPrep: Open Source coding interview prep tool with AI interviewer",
+  "summary": "I have successfully compiled 'The Autonomous Robin' newsletter for March 29, 2026. \n\n**Summary of Content:**\n- **Hacker News:** Highlights include Sid Sijbrandij's new cancer-focused ventures, the legalization of Spanish legislation via Git, Stanford research on sycophantic AI advice, a technical deep-dive into the White House app, and Great Britain's record-breaking renewable energy generation.\n- **GitHub Trending:** Featured projects include Deep-Live-Cam for real-time face swaps, the 'superpowers' agentic skills framework, and SakanaAI's AI-Scientist-v2 for automated scientific discovery.\n- **Product Hunt:** Today's top products are Genzi (social music app), Google Search Live (multimodal AI search), and CodingPrep (AI-powered interview preparation).\n\nThe full newsletter has been saved to `The_Autonomous_Robin_Newsletter.md`.\n\nAttachments:\n\nThe_Autonomous_Robin_Newsletter.md:\n# The Autonomous Robin\n\n## Hacker News Highlights\n- **GitLab Founder's New Mission**: Sid Sijbrandij is leveraging his experience to fight cancer by founding new specialized companies.\n- **Spanish Law as Code**: A GitHub repository now hosts the Spanish legislation, allowing citizens to track legal changes via Git commits.\n- **The Risk of Sycophantic AI**: Stanford research suggests that AI models often overly affirm users' personal advice requests rather than providing objective guidance.\n- **White House App Under the Hood**: A deep dive into the decompiled code of the White House's new application reveals its technical architecture and inner workings.\n- **Renewable Milestone in Britain**: The UK electricity grid achieved a major milestone, with renewable sources contributing over 90% of total generation today.\n\n## GitHub Trending\n- **Deep-Live-Cam**: A trending tool for real-time face swapping and one-click video deepfakes.\n- **Superpowers**: An agentic framework focused on providing AI models with specialized skills and methodologies.\n- **AI-Scientist-v2**: Sakana AI's end-to-end system designed to automate scientific discovery through advanced tree search.\n\n## Product Hunt Trending (March 29, 2026)\n- **Genzi**: A new social application designed specifically around music discovery and community interaction.\n- **Google Search Live**: An interactive, multimodal AI conversation mode integrated into the search experience.\n- **CodingPrep**: An open-source tool featuring an AI interviewer to help candidates prepare for technical coding interviews.",
   "sent": true
 }

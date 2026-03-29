@@ -17,9 +17,11 @@ HDR = {
 }
 
 
-def list_unread():
+def list_unread(limit=20):
     address = os.environ["AGENTMAIL_ADDRESS"]
-    r = requests.get(f"{API}/inboxes/{address}/messages?labels=unread", headers=HDR)
+    r = requests.get(
+        f"{API}/inboxes/{address}/messages?labels=unread&limit={limit}", headers=HDR
+    )
     r.raise_for_status()
     return r.json()["messages"]
 
