@@ -29,7 +29,9 @@ def main():
     9. Report the final result: success or specific error message.
     """
 
-    settings = {"profileId": E("BROWSER_USE_PROFILE_ID")}
+    from typing import Any
+
+    settings: dict[str, Any] = {"profileId": E("BROWSER_USE_PROFILE_ID")}
     if E("PROXY_HOST"):
         settings["customProxy"] = {
             "host": E("PROXY_HOST"),

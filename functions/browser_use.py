@@ -17,7 +17,7 @@ def browser_subagent(task: str, url: str | None = None, retries: int = 1) -> dic
         try:
             settings: dict[str, Any] = {"profileId": E("BROWSER_USE_PROFILE_ID")}
             if (
-                E("PROXY_HOST") and attempt == 0
+                E("PROXY_HOST") and E("PROXY_PORT") and attempt == 0
             ):  # Try with proxy first, then without on retry
                 settings["customProxy"] = {
                     "host": E("PROXY_HOST"),
