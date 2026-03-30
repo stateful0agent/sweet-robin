@@ -23,15 +23,18 @@ def main():
 
     task = f"""
     1. Go to https://www.vanillagift.com/
-    2. Look for 'Check Balance' or 'Manage Card'.
-    3. Enter the card details:
+    2. Click 'Check Balance'.
+    3. If you see a "Checking if you're a human" or a blank page, WAIT at least 60 seconds. 
+    4. Try to click anywhere on the page to trigger the Cloudflare checkbox.
+    5. Once you see the card entry fields, enter:
        - Card Number: {card_number}
-       - Expiration Date: {card_expiry} (Format might be MM/YY or MM/YYYY, handle accordingly)
+       - Expiration Date: {card_expiry}
        - CVV: {card_cvv}
-    4. Once logged in, look for an option to 'Assign ZIP Code' or 'Register for Online Purchases' or 'Edit Profile'.
-    5. Set the ZIP code to: {card_zip}
-    6. Confirm the registration.
-    7. Tell me if it was successful.
+    6. Click 'Sign In' or 'Check Balance'.
+    7. Once logged in, go to 'Manage Card' or 'Edit Profile'.
+    8. Look for 'Assign ZIP Code'.
+    9. Set the ZIP code to: {card_zip}
+    10. Confirm and report success.
     """
 
     print("Starting card registration on vanillagift.com...")

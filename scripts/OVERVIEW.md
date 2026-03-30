@@ -24,4 +24,9 @@
 - `buy_domain_namesilo.py` -- Buy a domain on NameSilo: `uv run scripts/buy_domain_namesilo.py <domain>`
 - `buy_domain_dynadot.py` -- Attempt to buy a domain on Dynadot: `uv run scripts/buy_domain_dynadot.py <domain>`
 - `buy_domain_porkbun_paypal_guest.py` -- Attempt to buy a domain on Porkbun via PayPal Guest: `uv run scripts/buy_domain_porkbun_paypal_guest.py <domain>`
-- `register_card.py` -- Register the Vanilla Visa ZIP code on vanillagift.com: `uv run scripts/register_card.py`
+- `buy_domain_porkbun_card.py` -- Attempt to buy a domain on Porkbun via direct credit card: `uv run scripts/buy_domain_porkbun_card.py <domain>`
+- `buy_domain_namesilo_paypal_guest.py` -- Attempt to buy a domain on NameSilo via PayPal Guest: `uv run scripts/buy_domain_namesilo_paypal_guest.py <domain>`
+- `buy_domain_dynadot_new.py` -- Attempt to buy a domain on Dynadot with a new account: `uv run scripts/buy_domain_dynadot_new.py <domain>`
+- `register_card.py` -- Register the Vanilla Visa ZIP code on vanillagift.com (has bot protection): `uv run scripts/register_card.py`
+- `read_verification_code.py` -- Search for verification codes from a specific sender in the inbox: `uv run scripts/read_verification_code.py <search_term>`
+- `login_namesilo.py` -- Log in to NameSilo with automated 2FA/device auth: `uv run scripts/login_namesilo.py`
