@@ -1,44 +1,44 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "hn": [
     {
-      "title": "LinkedIn uses 2.4 GB RAM across two tabs",
-      "url": "https://news.ycombinator.com/item?id=47561489",
-      "points": 701,
-      "author": "hrncode",
-      "num_comments": 400
+      "title": "How to turn anything into a router",
+      "url": "https://nbailey.ca/post/router/",
+      "points": 653,
+      "author": "yabones",
+      "num_comments": 227
     },
     {
-      "title": "Say No to Palantir in Europe",
-      "url": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
-      "points": 542,
-      "author": "Betelbuddy",
-      "num_comments": 154
-    },
-    {
-      "title": "Nitrile and latex gloves may cause overestimation of microplastics",
-      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "points": 537,
-      "author": "giuliomagnifico",
-      "num_comments": 242
-    },
-    {
-      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "points": 519,
-      "author": "alberto-m",
-      "num_comments": 349
-    },
-    {
-      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
-      "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "points": 490,
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "points": 530,
       "author": "speckx",
-      "num_comments": 184
+      "num_comments": 166
+    },
+    {
+      "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "points": 508,
+      "author": "mtud",
+      "num_comments": 156
+    },
+    {
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "points": 479,
+      "author": "karimf",
+      "num_comments": 175
+    },
+    {
+      "title": "CodingFont: A game to help you pick a coding font",
+      "url": "https://www.codingfont.com/",
+      "points": 388,
+      "author": "nvahalik",
+      "num_comments": 193
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\n1. luongnv89 / claude-howto (https://github.com/luongnv89/claude-howto)\n2. Yeachan-Heo / oh-my-claudecode (https://github.com/Yeachan-Heo/oh-my-claudecode)\n3. microsoft / VibeVoice (https://github.com/microsoft/VibeVoice)",
-  "product_hunt": "The top 3 products on Product Hunt today (2026-03-30) are:\n\n1. MulmoChat: Modular Interface for visually interactive AI responses\n2. Letterbook: AI support platform built for founders\n3. Latchkey: Credential layer for local AI agents",
-  "summary": "### The Autonomous Robin Newsletter\n\n#### Hacker News\n* **LinkedIn Memory Usage:** Users report that LinkedIn consumes up to 2.4 GB of RAM when running across just two browser tabs.\n* **European Palantir Petition:** A new petition urges European leaders to reject the implementation of Palantir's surveillance and data technologies within the EU.\n* **Microplastics Research:** A University of Michigan study suggests that the use of nitrile and latex gloves during research may lead to the overestimation of microplastic concentrations.\n* **ChatGPT Security:** A technical deep dive reveals that ChatGPT restricts user input until Cloudflare completes a scan of the React state.\n* **Voyager 1 Engineering:** Despite being billions of miles away, Voyager 1 continues to operate using only 69 KB of memory and a vintage 8-track tape recorder.\n\n#### GitHub Trending\n* **luongnv89 / claude-howto:** A comprehensive, visual guide for Claude Code that provides templates and examples ranging from basic setup to advanced AI agent orchestration.\n* **Yeachan-Heo / oh-my-claudecode:** A framework designed for teams to manage multi-agent orchestration within Claude Code, supporting parallel execution for complex coding tasks.\n* **microsoft / VibeVoice:** Microsoft's open-source frontier Voice AI system that power advanced speech-to-text and voice-powered applications like Vibing.\n\n#### Product Hunt\n* **MulmoChat:** A modular interface designed for creating visually interactive and flexible AI responses.\n* **Letterbook:** An AI-powered support platform specifically tailored to help founders manage their communications and customer support.\n* **Latchkey:** A specialized credential management layer built for securing and managing local AI agents.",
+  "github": "The top 3 trending repositories on GitHub today are:\n\n1. **microsoft / VibeVoice**\n   - URL: https://github.com/microsoft/VibeVoice\n2. **luongnv89 / claude-howto**\n   - URL: https://github.com/luongnv89/claude-howto\n3. **shanraisshan / claude-code-best-practice**\n   - URL: https://github.com/shanraisshan/claude-code-best-practice",
+  "product_hunt": "The top 3 products on Product Hunt today (March 31, 2026) are:\n1. Cosmic Team Agents - AI team members that live in Slack, WhatsApp, and Telegram\n2. Viktor for Media Buyers - Manages your Meta and Google Ads from Slack\n3. Planana AI - Break any skill into a plan you can actually follow",
+  "summary": "## Today's Highlights\n\nWelcome to another edition of The Autonomous Robin. Today's top stories from Hacker News include a creative guide on turning anything into a router, a critical look at 'Fedware' and government app surveillance, a security alert regarding compromised Axios versions on NPM, a thought-provoking piece on why you should do your own writing, and a fun game to help you find your perfect coding font.\n\nOn GitHub, Microsoft's VibeVoice is gaining traction alongside Claude-related best practices. Product Hunt features innovative AI team agents and tools for media buyers and personal skill planning.",
   "sent": true
 }
