@@ -1,44 +1,44 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "hn": [
     {
-      "title": "How to turn anything into a router",
-      "url": "https://nbailey.ca/post/router/",
-      "points": 653,
-      "author": "yabones",
-      "num_comments": 227
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "points": 1962,
+      "author": "treexs",
+      "num_comments": 960
     },
     {
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "points": 530,
-      "author": "speckx",
-      "num_comments": 166
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "points": 1096,
+      "author": "alex000kim",
+      "num_comments": 425
     },
     {
-      "title": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
-      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "points": 508,
-      "author": "mtud",
-      "num_comments": 156
+      "title": "Oracle slashes 30k jobs",
+      "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+      "points": 857,
+      "author": "pje",
+      "num_comments": 780
     },
     {
-      "title": "Do your own writing",
-      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "points": 479,
-      "author": "karimf",
-      "num_comments": 175
+      "title": "Microsoft: Copilot is for entertainment purposes only",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+      "points": 504,
+      "author": "lpcvoid",
+      "num_comments": 181
     },
     {
-      "title": "CodingFont: A game to help you pick a coding font",
-      "url": "https://www.codingfont.com/",
-      "points": 388,
-      "author": "nvahalik",
-      "num_comments": 193
+      "title": "GitHub's Historic Uptime",
+      "url": "https://damrnelson.github.io/github-historical-uptime/",
+      "points": 455,
+      "author": "todsacerdoti",
+      "num_comments": 111
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\n\n1. **microsoft / VibeVoice**\n   - URL: https://github.com/microsoft/VibeVoice\n2. **luongnv89 / claude-howto**\n   - URL: https://github.com/luongnv89/claude-howto\n3. **shanraisshan / claude-code-best-practice**\n   - URL: https://github.com/shanraisshan/claude-code-best-practice",
-  "product_hunt": "The top 3 products on Product Hunt today (March 31, 2026) are:\n1. Cosmic Team Agents - AI team members that live in Slack, WhatsApp, and Telegram\n2. Viktor for Media Buyers - Manages your Meta and Google Ads from Slack\n3. Planana AI - Break any skill into a plan you can actually follow",
-  "summary": "## Today's Highlights\n\nWelcome to another edition of The Autonomous Robin. Today's top stories from Hacker News include a creative guide on turning anything into a router, a critical look at 'Fedware' and government app surveillance, a security alert regarding compromised Axios versions on NPM, a thought-provoking piece on why you should do your own writing, and a fun game to help you find your perfect coding font.\n\nOn GitHub, Microsoft's VibeVoice is gaining traction alongside Claude-related best practices. Product Hunt features innovative AI team agents and tools for media buyers and personal skill planning.",
+  "github": "The top 3 trending repositories on GitHub today are:\n\n1. **luongnv89 / claude-howto**\n   - URL: https://github.com/luongnv89/claude-howto\n   - Description: A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\n\n2. **microsoft / VibeVoice**\n   - URL: https://github.com/microsoft/VibeVoice\n   - Description: Open-Source Frontier Voice AI\n\n3. **Yeachan-Heo / oh-my-claudecode**\n   - URL: https://github.com/Yeachan-Heo/oh-my-claudecode\n   - Description: Teams-first Multi-agent orchestration for Claude Code",
+  "product_hunt": "The top 3 products on Product Hunt today (2026-04-01) are:\n1. Baton - Orchestrate your AI coding agents\n2. Ollama v0.19 - Massive local model speedup on Apple Silicon with MLX\n3. SubscriptionFlow IQ - Turn Website Visitors into Customers with AI Conversations",
+  "summary": "The newsletter summary for 'The Autonomous Robin' has been completed and saved to `newsletter_summary.md`.\n\nSummary Highlights:\n- **Hacker News**: Covers the Claude Code source leak, Oracle's workforce reduction, Microsoft's Copilot terms of use, and GitHub's historical uptime.\n- **GitHub Trending**: Features `claude-howto`, Microsoft's `VibeVoice`, and `oh-my-claudecode`.\n- **Product Hunt**: Highlights Baton (AI agent orchestration), Ollama v0.19 (Apple Silicon speedup), and SubscriptionFlow IQ (AI conversational sales).\n\nAttachments:\n\nnewsletter_summary.md:\n# The Autonomous Robin\n\n## Hacker News Highlights\n- A leaked map file in the NPM registry has reportedly exposed the source code for Claude Code.\n- An analysis of the Claude Code leak reveals unexpected contents, including undercover modes and frustration-themed regexes.\n- Oracle has significantly reduced its workforce, reportedly cutting 30,000 jobs in a major restructuring.\n- Microsoft's updated terms of use specify that Copilot is intended for entertainment purposes only.\n- A historical analysis examines GitHub's uptime performance and its evolution over time.\n\n## GitHub Trending\nInnovation in AI orchestration and voice technology leads the charts today. Highlights include **claude-howto**, a comprehensive visual guide for mastering Claude Code; **VibeVoice**, Microsoft's new open-source frontier voice AI; and **oh-my-claudecode**, a multi-agent orchestration framework designed for team environments.\n\n## Product Hunt Trending\nToday's top products focus on AI efficiency and conversion. **Baton** leads the pack by orchestrating AI coding agents, followed by **Ollama v0.19**, which introduces significant speed improvements for local models on Apple Silicon. Rounding out the top three is **SubscriptionFlow IQ**, an AI-driven tool for converting website visitors through conversational interfaces.",
   "sent": true
 }
