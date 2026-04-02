@@ -1,44 +1,44 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "hn": [
     {
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "points": 1962,
-      "author": "treexs",
-      "num_comments": 960
+      "title": "LinkedIn is illegally searching your computer",
+      "url": "https://browsergate.eu/",
+      "points": 1253,
+      "author": "digitalWestie",
+      "num_comments": 573
     },
     {
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "points": 1096,
-      "author": "alex000kim",
-      "num_comments": 425
+      "title": "Steam on Linux Use Skyrocketed Above 5% in March",
+      "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
+      "points": 687,
+      "author": "hkmaxpro",
+      "num_comments": 312
     },
     {
-      "title": "Oracle slashes 30k jobs",
-      "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-      "points": 857,
-      "author": "pje",
-      "num_comments": 780
+      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+      "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+      "points": 607,
+      "author": "novaRom",
+      "num_comments": 310
     },
     {
-      "title": "Microsoft: Copilot is for entertainment purposes only",
-      "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-      "points": 504,
-      "author": "lpcvoid",
-      "num_comments": 181
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "points": 593,
+      "author": "jeffmcjunkin",
+      "num_comments": 164
     },
     {
-      "title": "GitHub's Historic Uptime",
-      "url": "https://damrnelson.github.io/github-historical-uptime/",
-      "points": 455,
-      "author": "todsacerdoti",
-      "num_comments": 111
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "points": 591,
+      "author": "ingve",
+      "num_comments": 513
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\n\n1. **luongnv89 / claude-howto**\n   - URL: https://github.com/luongnv89/claude-howto\n   - Description: A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\n\n2. **microsoft / VibeVoice**\n   - URL: https://github.com/microsoft/VibeVoice\n   - Description: Open-Source Frontier Voice AI\n\n3. **Yeachan-Heo / oh-my-claudecode**\n   - URL: https://github.com/Yeachan-Heo/oh-my-claudecode\n   - Description: Teams-first Multi-agent orchestration for Claude Code",
-  "product_hunt": "The top 3 products on Product Hunt today (2026-04-01) are:\n1. Baton - Orchestrate your AI coding agents\n2. Ollama v0.19 - Massive local model speedup on Apple Silicon with MLX\n3. SubscriptionFlow IQ - Turn Website Visitors into Customers with AI Conversations",
-  "summary": "The newsletter summary for 'The Autonomous Robin' has been completed and saved to `newsletter_summary.md`.\n\nSummary Highlights:\n- **Hacker News**: Covers the Claude Code source leak, Oracle's workforce reduction, Microsoft's Copilot terms of use, and GitHub's historical uptime.\n- **GitHub Trending**: Features `claude-howto`, Microsoft's `VibeVoice`, and `oh-my-claudecode`.\n- **Product Hunt**: Highlights Baton (AI agent orchestration), Ollama v0.19 (Apple Silicon speedup), and SubscriptionFlow IQ (AI conversational sales).\n\nAttachments:\n\nnewsletter_summary.md:\n# The Autonomous Robin\n\n## Hacker News Highlights\n- A leaked map file in the NPM registry has reportedly exposed the source code for Claude Code.\n- An analysis of the Claude Code leak reveals unexpected contents, including undercover modes and frustration-themed regexes.\n- Oracle has significantly reduced its workforce, reportedly cutting 30,000 jobs in a major restructuring.\n- Microsoft's updated terms of use specify that Copilot is intended for entertainment purposes only.\n- A historical analysis examines GitHub's uptime performance and its evolution over time.\n\n## GitHub Trending\nInnovation in AI orchestration and voice technology leads the charts today. Highlights include **claude-howto**, a comprehensive visual guide for mastering Claude Code; **VibeVoice**, Microsoft's new open-source frontier voice AI; and **oh-my-claudecode**, a multi-agent orchestration framework designed for team environments.\n\n## Product Hunt Trending\nToday's top products focus on AI efficiency and conversion. **Baton** leads the pack by orchestrating AI coding agents, followed by **Ollama v0.19**, which introduces significant speed improvements for local models on Apple Silicon. Rounding out the top three is **SubscriptionFlow IQ**, an AI-driven tool for converting website visitors through conversational interfaces.",
+  "github": "The top 3 trending repositories on GitHub today are:\n1. siddharthvaddem / openscreen - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use.\n2. Yeachan-Heo / oh-my-codex - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.\n3. asgeirtj / system_prompts_leaks - Extracted system prompts from various AI models including ChatGPT, Claude, Gemini, and more.",
+  "product_hunt": "The top 3 products on Product Hunt today (April 2, 2026) are:\n1. Denovo - Build and run your business while you sleep.\n2. Lightning V3 - Text-to-Speech built for Voice Agents.\n3. Claude Code Voice Mode - Speak your prompts into Claude Code.",
+  "summary": "# The Autonomous Robin\n\n## Hacker News Highlights\n- **LinkedIn is illegally searching your computer**: An investigation into unauthorized local file system access by LinkedIn's web application. [Link](https://browsergate.eu/)\n- **Steam on Linux Use Skyrocketed Above 5% in March**: Linux gaming sees a significant milestone as Steam usage on the platform surpasses 5% for the first time. [Link](https://www.phoronix.com/news/Steam-On-Linux-Tops-5p)\n- **Sweden goes back to basics, swapping screens for books in the classroom**: A shift in Swedish educational policy moves away from digital screens in favor of traditional textbooks. [Link](https://undark.org/2026/04/01/sweden-schools-books/)\n- **Google releases Gemma 4 open models**: Google DeepMind introduces the latest iteration of its open-weight Gemma model family, Gemma 4. [Link](https://deepmind.google/models/gemma/gemma-4/)\n- **DRAM pricing is killing the hobbyist SBC market**: Rising costs of memory components are making affordable single-board computers less viable for enthusiasts. [Link](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/)\n\n## GitHub Trending\nCurrently trending on GitHub are **OpenScreen**, an open-source tool for creating watermark-free software demos; **Oh My Codex**, a framework for enhancing development workflows with agents and HUDs; and **system_prompts_leaks**, a repository compiling extracted system prompts from major AI models.\n\n## Product Hunt Trends\nTop products today include **Denovo**, an automated business management platform; **Lightning V3**, a high-performance text-to-speech engine designed specifically for voice agents; and **Claude Code Voice Mode**, which integrates voice-to-text functionality directly into the Claude Code environment.",
   "sent": true
 }
