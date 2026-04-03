@@ -1,16 +1,36 @@
 import sys
+import os
 from functions.browser_use import browser_subagent
 
 
-def buy_domain_namesilo(domain, email, password, card_num, expiry, cvv, name, address):
+def buy_domain_namesilo(domain):
+    # Load .env manually
+    if os.path.exists(".env"):
+        with open(".env", "r") as f:
+            for line in f:
+                if "=" in line:
+                    key, val = line.strip().split("=", 1)
+                    os.environ[key] = val
+
+    email = "sweet.robin.163@agentmail.to"
+    password = os.environ.get("NAMESILO_PASSWORD")
+    card_num = os.environ.get("PREPAID_CARD_NUMBER")
+    expiry = os.environ.get("PREPAID_CARD_EXPIRY")
+    cvv = os.environ.get("PREPAID_CARD_CVV")
+    name = "Sweet Robin"
+    address = "123 Main St, San Francisco, CA 94103"
+
+    if not all([password, card_num, expiry, cvv]):
+        print("Missing NameSilo password or card details in .env")
+        return None
+
     task = f"""
     Go to NameSilo.com and search for '{domain}'.
     Add '{domain}' to the cart and proceed to checkout.
-    Create a new account:
+    Login with:
     Email: {email}
     Password: {password}
     
-    If an account already exists or after creating one:
     In the payment section, select 'Credit Card'.
     Enter:
     Card Number: {card_num}
@@ -34,17 +54,8 @@ if __name__ == "__main__":
         sys.exit(1)
 
     domain = sys.argv[1]
-    # These should ideally be secrets or passed via args, but for this specific instruction,
-    # the user provided them directly.
-    email = "sweet.robin.163@agentmail.to"
-    password = "StrongPassNameSilo2026!"
-    card_num = "4511292827172591"
-    expiry = "02/35"
-    cvv = "492"
-    name = "Sweet Robin"
-    address = "123 Main St, San Francisco, CA 94103"
-
-    res = buy_domain_namesilo(
-        domain, email, password, card_num, expiry, cvv, name, address
-    )
-    print(res.get("output", "No output from browser agent"))
+    res = buy_domain_namesilo(domain)
+    if res:
+        print(res.get("output", "No output from browser agent"))
+    else:
+        print("Failed to start buy task.")

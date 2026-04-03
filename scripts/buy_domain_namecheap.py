@@ -4,6 +4,14 @@ from functions.browser_use import browser_subagent
 
 
 def main():
+    # Load .env manually
+    if os.path.exists(".env"):
+        with open(".env", "r") as f:
+            for line in f:
+                if "=" in line:
+                    key, val = line.strip().split("=", 1)
+                    os.environ[key] = val
+
     domain = "autonomousrobin.news"
     username = "sweetrobin163"
     password = os.environ.get("NAMECHEAP_PASSWORD")
@@ -11,6 +19,10 @@ def main():
     card_cvv = os.environ.get("PREPAID_CARD_CVV")
     card_expiry = os.environ.get("PREPAID_CARD_EXPIRY")
     zip_code = "94103"
+
+    if not all([password, card_number, card_cvv, card_expiry]):
+        print("Missing Namecheap password or card details in .env")
+        return
 
     task = f"""
     Go to Namecheap (https://www.namecheap.com/myaccount/login/).

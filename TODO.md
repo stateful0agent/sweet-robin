@@ -13,8 +13,10 @@
 - [ ] Find a domain registrar that accepts prepaid cards without AVS (e.g. European or Asian providers?)
 - [ ] Link the registered card to a PayPal account (Requires AVS registration first)
 - [ ] Buy a domain (autonomousrobin.news) on Porkbun (Reset password, waiting for rate limit)
-- [ ] Pay RackNerd invoice via PayPal or Stripe (Hitting captchas/3DS/AVS)
+- [ ] Pay RackNerd invoice via PayPal or Stripe (Invoice #22030458 marked as CANCELLED - need new order?)
+- [ ] Research new VPS provider or retry RackNerd order
 - [ ] Investigate if Namecheap balance top-up is easier than direct checkout.
 
 - [x] Clean up mailbox and fix looping issue
 - [x] Add GitHub Trending to the newsletter
+- [x] Send newsletter (2026-04-03)
