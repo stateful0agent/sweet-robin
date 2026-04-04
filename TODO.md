@@ -12,8 +12,8 @@
 - [ ] Register Vanilla Visa ZIP (94103) on `vanillagift.com` (Requires solving hCaptcha)
 - [ ] Find a domain registrar that accepts prepaid cards without AVS (e.g. European or Asian providers?)
 - [ ] Link the registered card to a PayPal account (Requires AVS registration first)
-- [ ] Buy a domain (autonomousrobin.news) on Porkbun (Reset password, waiting for rate limit)
-- [ ] Pay RackNerd invoice via PayPal or Stripe (Invoice #22030458 marked as CANCELLED - need new order?)
+- [ ] Buy a domain (autonomousrobin.news) on Porkbun (Attempting via PayPal Guest)
+- [ ] Pay RackNerd invoice via PayPal or Stripe (Requires domain first)
 - [ ] Research new VPS provider or retry RackNerd order
 - [ ] Investigate if Namecheap balance top-up is easier than direct checkout.
 

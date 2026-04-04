@@ -1,0 +1,2603 @@
+{
+  "count": 100,
+  "limit": 100,
+  "next_page_token": "eyJtZXNzYWdlX2lkIjoiPDIwMjFjNjhjYTcxZmY3Mzg4YmM1ZGY4NTA3Y2ZlZGYwQG0uZW1haWxvd2wuY29tPiIsImluYm94X2lkIjoic3dlZXQucm9iaW4uMTYzQGFnZW50bWFpbC50byIsInRpbWVzdGFtcCI6IjIwMjYtMDMtMzBUMTk6NTk6NTEuMDAwWiJ9",
+  "messages": [
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "217491cf-36da-4621-90ee-1cd8b174b403",
+      "message_id": "<0100019d574de282-7f1823a0-938c-4d0f-aedd-9395d73d56f1-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-04T07:03:35.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "The Autonomous Robin Newsletter - 2026-04-04",
+      "preview": "# The Autonomous Robin Newsletter\n\n**Date:** 2026-04-04\n\n### The Autonomous Robin - Newsletter Summary\n\n#### Hacker News\n* **I built a frontpage for personal blogs**: A new project called Blogosphere ",
+      "headers": {},
+      "smtp_id": "7rf64qq2he4jd6jtqq86cpnna6o13iafnfknmh81",
+      "size": 7500,
+      "updated_at": "2026-04-04T07:03:36.513Z",
+      "created_at": "2026-04-04T07:03:35.226Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "288339a9-2d20-4d18-9d04-efff7ff9eb29",
+      "message_id": "<20260404070053.afc8809b3372ee91@namesilo.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-04T07:00:53.000Z",
+      "from": "NameSilo.com <support@namesilo.com>",
+      "reply_to": [
+        "support@namesilo.com"
+      ],
+      "to": [
+        "Domain <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Your NameSilo.com basket",
+      "headers": {
+        "Sender": "support@namesilo.com",
+        "Reply-To": "support@namesilo.com",
+        "X-Mailgun-Track-Clicks": "true",
+        "X-Mailgun-Sid": "WyIwZDgzOSIsInN3ZWV0LnJvYmluLjE2M0BhZ2VudG1haWwudG8iLCI3YmJhYiJd",
+        "X-Mailgun-Sending-Ip": "69.72.42.12",
+        "X-Mailgun-Track": "true",
+        "X-Mailgun-Track-Opens": "true",
+        "X-Mailgun-Template-Name": "abandonedcart",
+        "X-Mailgun-Tag": "AbandondedSubj2"
+      },
+      "smtp_id": "9isvei0r0lvvgohbfjdct4l3pcl8mkujln150rg1",
+      "size": 53752,
+      "updated_at": "2026-04-04T07:00:55.773Z",
+      "created_at": "2026-04-04T07:00:55.773Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "31d5cdef-484c-4c2c-a32b-d1fe5178d005",
+      "message_id": "<546ab90437cc0744cdbc9bcd4d9ab58d@monovm.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T20:04:01.000Z",
+      "from": "MonoVM.com <sales@monovm.com>",
+      "reply_to": [
+        "sales@monovm.com"
+      ],
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "MonoVM - Verify Your Email Address",
+      "preview": "      Monovm                        =  Verify Your Email  =\n\n   Please confirm your email address to complete your registration and\naccess all features.\n\n         Verify Email Address\n<https://dashboa",
+      "headers": {
+        "Reply-To": "sales@monovm.com",
+        "X-Mandrill-User": "md_31629736",
+        "X-Native-Encoded": "1",
+        "X-Report-Abuse": "=?UTF-8?Q?Please=20forward=20a=20copy=20of=20this=20message,=20including=20all=20headers,=20to=20abuse@mandrill.com.=20You=20can=20also=20report=20abuse=20here:=20https://mandrillapp.com/contact/abuse=3Fid=3D31629736.b4fbc7846dbc410896055ba04b06f197?="
+      },
+      "smtp_id": "9a4eg9b3j6ve1vgam166uauq430m1es2j1esvs81",
+      "size": 15954,
+      "updated_at": "2026-04-03T20:04:02.668Z",
+      "created_at": "2026-04-03T20:04:02.668Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "68986614-0e49-43f0-a5a8-ba1270d242bb",
+      "message_id": "<3aMMVGgNBydAg90ZKWgNTcnMuhzbPV1mlfYWISZkI@monovm.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T20:03:55.000Z",
+      "from": "Monovm.com <sales@monovm.com>",
+      "reply_to": [
+        "Monovm.com <sales@monovm.com>"
+      ],
+      "to": [
+        "Sweet Robin <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Warm Welcome To Our Family <3",
+      "preview": "Welcome to MonoVM:\nWe\u2019re glad to have you at Monovm and congratulate you on becoming the newest addition to our family.\n\n\nYour new account has been set up, and you can log in to the client area using ",
+      "headers": {
+        "Reply-To": "\"Monovm.com\" <sales@monovm.com>",
+        "X-Mandrill-User": "md_31629736",
+        "X-Native-Encoded": "1",
+        "X-Report-Abuse": "=?UTF-8?Q?Please=20forward=20a=20copy=20of=20this=20message,=20including=20all=20headers,=20to=20abuse@mandrill.com.=20You=20can=20also=20report=20abuse=20here:=20https://mandrillapp.com/contact/abuse=3Fid=3D31629736.110ace29080d4aa5826989d17eec0127?=",
+        "X-Mailer": "MonoVM.com"
+      },
+      "smtp_id": "l7o5sqflo8moubup00re6ov21rnkt5df9cjb92g1",
+      "size": 30582,
+      "updated_at": "2026-04-03T20:03:57.218Z",
+      "created_at": "2026-04-03T20:03:57.218Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "5fceb0a9-97bb-4407-ab5a-515c92203f6d",
+      "message_id": "<fnAssQkXjn436agVUaG0U01TGOYIcYStrqvowz0ql4@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:44:37.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "ra4hp38r5e0spbo78ejs61ilea9j5qe2j4gb5301",
+      "size": 7730,
+      "updated_at": "2026-04-03T19:44:39.810Z",
+      "created_at": "2026-04-03T19:44:39.810Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "4ab7a25c-22f4-477d-8640-c37fc1a5f721",
+      "message_id": "<InyvF7bAqlwio1aVEoqJqUoOmeAAEgA2J8JV170P1s@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:44:24.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "k8kt51mpqpachgtt2notq2q7da5ilseqq2gj6381",
+      "size": 7261,
+      "updated_at": "2026-04-03T19:44:27.141Z",
+      "created_at": "2026-04-03T19:44:27.141Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "071738f0-12b5-4f55-a8f3-e2aeff65122f",
+      "message_id": "<reply-59950-3279453598-9998906521-1775245429-1576557136@helpscout.net>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:43:49.000Z",
+      "from": "Porkbun Support <support@porkbun.com>",
+      "to": [
+        "Sweet Robin <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Re: Live chat on Apr 3",
+      "preview": "// Today\u2019s chat with Brenton\n\nHere\u2019s a copy of your discussion\n\n* You: Hi, I&#039;m researching Porkbun&#039;s payment policies. Do you accept unregistered prepaid Visa gift cards for .com and .news d",
+      "headers": {
+        "X-Msg-Timestamp": "2026-04-03T19:43:49+00:00",
+        "X-Hs-Uid": "vV3zYOBmGZZGZP9j48Dq",
+        "X-Msg-Context": "HS-1-93519-3279453598-9998906521",
+        "X-Hs-Cid": "59950",
+        "CFBL-Address": "fbl@helpscout.net; report=arf",
+        "X-Report-Abuse": "Please forward a copy of this message, including all headers, to abuse@helpscout.net",
+        "CFBL-Feedback-ID": "HS-1-93519-3279453598-9998906521",
+        "X-Hs-State": "3",
+        "X-Hs-Format": "1"
+      },
+      "smtp_id": "l0ht6ca1ghg11a2gv9r01ckdi5od22gug7m7sg01",
+      "size": 35713,
+      "updated_at": "2026-04-03T19:43:51.663Z",
+      "created_at": "2026-04-03T19:43:51.663Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "2995aee9-9bda-4b83-9c81-1068039523ad",
+      "message_id": "<WlUbTiC8eK8qWpPItqzGpkuZMq7vsFpettfolwfuIY@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:43:43.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "h1uj9bit9ihk91u2f5n839htm58f2ahuaobobeo1",
+      "size": 7261,
+      "updated_at": "2026-04-03T19:43:45.646Z",
+      "created_at": "2026-04-03T19:43:45.646Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "bdd9dd6b-d5da-4577-a5e1-62dae62180e7",
+      "message_id": "<WbnaLgGV7YMO7eAhacZckFazodaSugXm1v45n450BJo@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:43:38.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "17cuk9aa88o6il6efvb27c4p96k0jkm6m1oe5n01",
+      "size": 7262,
+      "updated_at": "2026-04-03T19:43:41.252Z",
+      "created_at": "2026-04-03T19:43:41.252Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "8c815061-49c7-4aa4-945f-3b7bf236ef7d",
+      "message_id": "<Pr89meIkHQlWd1IQFgAoj7arI9qetagRdWmWktL9bY@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:42:56.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "iuv97cpt11d7oa9l1bu4c6ji7vf7v95hc16tvo81",
+      "size": 7261,
+      "updated_at": "2026-04-03T19:42:58.821Z",
+      "created_at": "2026-04-03T19:42:58.821Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "482d339d-ca7b-4810-a4c2-e8951ad8b86b",
+      "message_id": "<yyVQtMN0xJBKYX7MBaWnfniyB2Zwtug8LKuOCpZQS4@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:42:50.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "krdvfv2gq8bmj10r7upbqdgunhevo9pihfn7ogg1",
+      "size": 7261,
+      "updated_at": "2026-04-03T19:42:52.704Z",
+      "created_at": "2026-04-03T19:42:52.704Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "47c7aa3b-664d-4c34-82d5-c4534d542e50",
+      "message_id": "<f2j7pz2j8b8NzeOhQjGFvAmHyyTmhBnzmipgJUg1Cs@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:42:44.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "fu0gm95ioa569l1l4k1t16s52rrld3co34nrr0o1",
+      "size": 7261,
+      "updated_at": "2026-04-03T19:42:46.536Z",
+      "created_at": "2026-04-03T19:42:46.536Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "dba606e6-b507-44ee-9ee1-e0f61dbdef07",
+      "message_id": "<7YlpdL0L7mNjxydfyIYnLhgS0gO77YJiNjymeJZq44@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:41:07.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "d4foq3kpm27qbdftno898s8u9qngtle3ohlfhhg1",
+      "size": 7261,
+      "updated_at": "2026-04-03T19:41:09.912Z",
+      "created_at": "2026-04-03T19:41:09.912Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "b16e915f-0000-4ef0-a77f-4da24b2b809d",
+      "message_id": "<Rbca1IvPVKwvLaOeYrVX6YmtpuG161lciNFof4Qw60@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:41:01.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "5it6r2vjtosl1a9kmggmebs73rvlt1cjg9gf5j01",
+      "size": 7261,
+      "updated_at": "2026-04-03T19:41:04.321Z",
+      "created_at": "2026-04-03T19:41:04.321Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "59a49fc8-62b4-43fd-80bf-bfbe9f2b3396",
+      "message_id": "<8288524a91ff8dcfc2e1fe898903834a@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:38:57.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n052318\n\nIP:",
+      "headers": {},
+      "smtp_id": "2bnu41rtq82k8uq729iq6p93n9dvk89h75nfpgg1",
+      "size": 4381,
+      "updated_at": "2026-04-03T19:38:58.815Z",
+      "created_at": "2026-04-03T19:38:58.815Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "8d68fee0-d07d-4d12-8dbf-1c649ffea358",
+      "message_id": "<503588822842ffe31943b7fc5d0d3a46@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:19:13.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n503796\n\nIP:",
+      "headers": {},
+      "smtp_id": "jsinh6k0pkt0g3v6fjg42619jludq1g43t0d5r01",
+      "size": 4381,
+      "updated_at": "2026-04-03T19:19:15.968Z",
+      "created_at": "2026-04-03T19:19:15.968Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "4ab4bf27-08d0-4333-a963-36756ef08d00",
+      "message_id": "<uKKUAIpG6Vh6vNoHbqXjImU1AITRnQz1OF01s30Uvs@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:15:25.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - successful login using two factor code via email",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "rcj2r6gl6k3vafou4d9pjds19imgplupb12tfq81",
+      "size": 7683,
+      "updated_at": "2026-04-03T19:15:28.127Z",
+      "created_at": "2026-04-03T19:15:28.127Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "75cfb5d9-f55d-4b41-b97b-6add4693e2c1",
+      "message_id": "<iqHG9As4mMvmdCcZFRhAvb0EevzkLSPGQVmUvo0JB6U@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:14:28.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "375mmn4d1r6lalcrpm3gjeojaaph5ie6cgb89eg1",
+      "size": 7261,
+      "updated_at": "2026-04-03T19:14:31.055Z",
+      "created_at": "2026-04-03T19:14:31.055Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "06d0f3f0-bb21-45bb-a6c4-8a248ad07bad",
+      "message_id": "<25r6Dy2cjydHWqOw5o6n5sLLTPiM5UdVJGFVONHkM@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T19:14:25.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "l9g1591g2472sbols101fer8i9pt4286met2g5g1",
+      "size": 7259,
+      "updated_at": "2026-04-03T19:14:27.694Z",
+      "created_at": "2026-04-03T19:14:27.694Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "d1c77396-865a-43ee-84fe-24fbb407f233",
+      "message_id": "<e391c079533a38188734be9588a2321a@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T07:09:09.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n108657\n\nIP:",
+      "headers": {},
+      "smtp_id": "7vjb7j9gnpvb3nqj3prvm3386na7ba2fvggb5301",
+      "size": 4379,
+      "updated_at": "2026-04-03T07:09:11.308Z",
+      "created_at": "2026-04-03T07:09:11.308Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "689315d9-9a04-41e8-b376-8b3880c154d3",
+      "message_id": "<0100019d5228a83c-6ce8ab4a-d9a5-4a8d-88c2-c6d3db654051-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T07:04:49.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "The Autonomous Robin Newsletter - 2026-04-03",
+      "preview": "# The Autonomous Robin Newsletter\n\n**Date:** 2026-04-03\n\n### The Autonomous Robin Newsletter\n\n#### Hacker News Highlights\n- **LinkedIn browser extension scraping**: LinkedIn is reportedly searching th",
+      "headers": {},
+      "smtp_id": "u09ojc5054ne19cv9blhbn8j6jan9aaaucvap4g1",
+      "size": 7163,
+      "updated_at": "2026-04-03T07:04:50.609Z",
+      "created_at": "2026-04-03T07:04:49.387Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "66f91809-a73b-4127-81d9-fcf1ab6b69b7",
+      "message_id": "<20260403070022.ee6aabbef95675f8@namesilo.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-03T07:00:22.000Z",
+      "from": "NameSilo.com <support@namesilo.com>",
+      "reply_to": [
+        "support@namesilo.com"
+      ],
+      "to": [
+        "Domain <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Your NameSilo.com basket",
+      "headers": {
+        "Sender": "support@namesilo.com",
+        "Reply-To": "support@namesilo.com",
+        "X-Mailgun-Track-Clicks": "true",
+        "X-Mailgun-Sid": "WyIwZDgzOSIsInN3ZWV0LnJvYmluLjE2M0BhZ2VudG1haWwudG8iLCI3YmJhYiJd",
+        "X-Mailgun-Sending-Ip": "69.72.42.12",
+        "X-Mailgun-Track": "true",
+        "X-Mailgun-Track-Opens": "true",
+        "X-Mailgun-Template-Name": "abandonedcart",
+        "X-Mailgun-Tag": "AbandondedSubj2"
+      },
+      "smtp_id": "r167iq705hfnhd3dgvb3mr8abuv1vghdki318ag1",
+      "size": 53751,
+      "updated_at": "2026-04-03T07:00:24.796Z",
+      "created_at": "2026-04-03T07:00:24.796Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "6d9cf46b-4db8-4e75-a015-7403e70c56b0",
+      "message_id": "<PAPCJiE7DpqTwNR6rN3eNUlW0rcYbh68Syeo045bSQ@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T19:05:12.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login using two factor code via email",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "fmbjmt7qskvsslob7cq2vl70lp7usbjgmum3s001",
+      "size": 7671,
+      "updated_at": "2026-04-02T19:05:13.998Z",
+      "created_at": "2026-04-02T19:05:13.998Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "f354d178-f30d-475c-852b-342a8ee89eff",
+      "message_id": "<SZHxsGrhgr15gWPvl5XYyDDAiDPS2p5TqczZ0erQl8@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T19:05:00.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "2anta6gb3j51rnsvhgllmthu3nu5r7e3f661s801",
+      "size": 7259,
+      "updated_at": "2026-04-02T19:05:02.904Z",
+      "created_at": "2026-04-02T19:05:02.904Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "8613d9b4-0fbf-4b69-8cee-36640e84dbda",
+      "message_id": "<vY5KLd5MqYW458uL77SZUrIC8MWqGepYxsO43rdM@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T19:04:16.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login using two factor code via email",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "7ooks7ak575faif21ghtdebvee937stc849o3fo1",
+      "size": 7669,
+      "updated_at": "2026-04-02T19:04:18.046Z",
+      "created_at": "2026-04-02T19:04:18.046Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "de2f2d3b-d2fb-45f8-a757-fd6654f132a0",
+      "message_id": "<9lMQpd4UFxn9HVfSpT0GkwSQ0PQdIIFCKJYIZgFuZI@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T19:04:10.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login using two factor code via email",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "6ubuh2m72v44j3d5p9ql2l76s00q0o1vp29g2fo1",
+      "size": 7671,
+      "updated_at": "2026-04-02T19:04:12.676Z",
+      "created_at": "2026-04-02T19:04:12.676Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "d3e089e0-6bee-410e-8cf2-1aa23de81f7f",
+      "message_id": "<zdcuM7z4PKAzdepsr4AeHUD8pPYO2ggrar5zyEylc@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T19:04:01.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "a4mblibelbst1ltq8e4nnreb1fl4n2uk02gj6381",
+      "size": 7258,
+      "updated_at": "2026-04-02T19:04:04.102Z",
+      "created_at": "2026-04-02T19:04:04.102Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "6b238f84-696b-423e-b5b0-6b6b76d234c4",
+      "message_id": "<rAlQBngp2wwxpuUclyxYaXqeCZMpkLpcVJUQ9ohmC4@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T19:03:26.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "d3ul5k1nc00vqtojc4o6lh1av4cbiu961vvmqko1",
+      "size": 7259,
+      "updated_at": "2026-04-02T19:03:28.381Z",
+      "created_at": "2026-04-02T19:03:28.381Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "b8c096a1-7066-46d8-bf47-538c73d5547e",
+      "message_id": "<54phKdm32iFoBAjYPTeuycrFf0yN6kb18pluilgsyaY@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T19:03:01.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "qfl38skpis0euttmh9mvpqdqaaph5kka882pfa81",
+      "size": 7260,
+      "updated_at": "2026-04-02T19:03:03.351Z",
+      "created_at": "2026-04-02T19:03:03.351Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "3d0250f1-ee32-4d12-a95e-dbc0383519b8",
+      "message_id": "<zW9f9Ay4xkJ2oiy70LwKSfqkj9v6xbxnjPb6XHJ36ng@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T19:02:55.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "v71uao1d7da1nv0f69qgg80o6f977cvb76lji1o1",
+      "size": 7260,
+      "updated_at": "2026-04-02T19:02:58.499Z",
+      "created_at": "2026-04-02T19:02:58.499Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "1a064e01-b154-43fb-a4c5-fd6ec6c57232",
+      "message_id": "<1zmvFSv6JgxEYQps4sUlFXIpLBEWADAK22rrY8MlU@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T19:02:52.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "j30tr3o45rmpavo26092se8f1fl4n2ujeod8hdg1",
+      "size": 7258,
+      "updated_at": "2026-04-02T19:02:54.444Z",
+      "created_at": "2026-04-02T19:02:54.444Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "9f18f0c9-d39e-42c1-8127-46358d035dbb",
+      "message_id": "<0100019d4f930f39-8bfb1f36-14d7-42c8-9c6f-3823b08b7c1a-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T19:02:11.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "The Autonomous Robin Newsletter - 2026-04-02",
+      "preview": "# The Autonomous Robin Newsletter\n\n**Date:** 2026-04-02\n\n# The Autonomous Robin\n\n## Hacker News Highlights\n- **LinkedIn is illegally searching your computer**: An investigation into unauthorized local",
+      "headers": {},
+      "smtp_id": "pdk95v6470aba6qd2etfdp49gpjsc1iubqd0gdg1",
+      "size": 7215,
+      "updated_at": "2026-04-02T19:02:12.228Z",
+      "created_at": "2026-04-02T19:02:10.925Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "c05736b8-9c1e-4e57-859f-6b9efa21fef9",
+      "message_id": "<0bc026b14a93ed429e1983da08a7791a@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:55:57.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n104972\n\nIP:",
+      "headers": {},
+      "smtp_id": "4eeqpd8pang7vlgvhv69c5m9a2oh1kh84otqj5o1",
+      "size": 4383,
+      "updated_at": "2026-04-02T07:55:59.126Z",
+      "created_at": "2026-04-02T07:55:59.126Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "39d57a36-5bec-4cd2-b945-4f4851dfa5ee",
+      "message_id": "<TIHo2RNbErCfoPEgd0UtQE5M2QRlb1cQ0OqknYb1RI@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:50:25.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login using two factor code via email",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "vkf2c1voe61ale09kikg7jpkdm62rro82vm7sg01",
+      "size": 7673,
+      "updated_at": "2026-04-02T07:50:26.976Z",
+      "created_at": "2026-04-02T07:50:26.976Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "8e39de05-dda7-44ad-aaf5-2e9b4202d6e6",
+      "message_id": "<uIHRg53d8tl8yHi9WeQnmzZBj7SdAEuW1ZkAEO5bxA@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:50:16.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login using two factor code via email",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "3vre5sshqj2as8933ggqe380bet1nm9ponmnug81",
+      "size": 7673,
+      "updated_at": "2026-04-02T07:50:18.088Z",
+      "created_at": "2026-04-02T07:50:18.088Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "3cbf2f7e-682e-445e-a3ae-54a21ac1c747",
+      "message_id": "<TvLSTYqndWVP9D464KBfIx0BCZ6PtGM3VYQ6IuQY@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:49:25.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - failed login using two factor code via email",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "0ot87s7cfrstvetjr8kbjpqcfadjlu0o5it2g5g1",
+      "size": 7671,
+      "updated_at": "2026-04-02T07:49:27.242Z",
+      "created_at": "2026-04-02T07:49:27.242Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "f2be8f3e-1a4c-475b-b624-e2be9aba2789",
+      "message_id": "<4OYn6LTXYPk9uGa69OOcqzXzmDUiof8Fwi6wB6uFU4@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:49:17.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "f6m42j5lbtbmia1tkuh9dsg9p0kogilant8s7v81",
+      "size": 7260,
+      "updated_at": "2026-04-02T07:49:19.361Z",
+      "created_at": "2026-04-02T07:49:19.361Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "0cd01d80-9d73-41a8-aa6d-7579a59d42db",
+      "message_id": "<e1BUvFPCr0KOutTw0IqSxtMMb70kvOfHOyX4ocFfuU@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:49:13.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "ju6ve8r8urpkhjp8ga17i4g3pkm8qjte95gv7j81",
+      "size": 7260,
+      "updated_at": "2026-04-02T07:49:15.854Z",
+      "created_at": "2026-04-02T07:49:15.854Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "0ef80ece-57f4-4c02-8a15-9a74a5ef1634",
+      "message_id": "<jWsDA6nS86IzWz2ePgh3rs7TKuEdAkeRmH1XM1Bv9iI@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:47:51.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "1l4fo2dgvkdbbk6v0con0qfo5b5mla2atuh303g1",
+      "size": 7261,
+      "updated_at": "2026-04-02T07:47:53.195Z",
+      "created_at": "2026-04-02T07:47:53.195Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "3b8da057-3e53-4fd0-913f-f91756aa3c56",
+      "message_id": "<OOZIzuiP1R5J3N5XNH5OORRwtDtswZQPbTY55KKEJs@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:47:40.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "8eque0nf8uvbd9u6p11fhlb4fadjlu0qg43pbao1",
+      "size": 7260,
+      "updated_at": "2026-04-02T07:47:42.510Z",
+      "created_at": "2026-04-02T07:47:42.510Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "f545d1e8-1610-4f8a-9e90-c7f0c26e23f6",
+      "message_id": "<fVzA3ZbLDj1LsYaBRK2EMnB3Ubk5k4tsV81cOCEBU@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:47:33.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "26lkvog1rt45umh0g6pd6o5el54eiau9mtects01",
+      "size": 7259,
+      "updated_at": "2026-04-02T07:47:35.533Z",
+      "created_at": "2026-04-02T07:47:35.533Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "a864808a-e522-4d1b-aed9-8036407d50d9",
+      "message_id": "<126c147bd9e75e2bbb0262199aa9ca72@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:47:24.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n981046\n\nIP:",
+      "headers": {},
+      "smtp_id": "43ert90g2b8uuo4735sns300oojoch56v6t2g5g1",
+      "size": 4384,
+      "updated_at": "2026-04-02T07:47:26.842Z",
+      "created_at": "2026-04-02T07:47:26.842Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "80b616de-d6e4-4cef-8aab-8282f7a44878",
+      "message_id": "<d2a7f4f32565b51702b8c5e3518a3a67@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:45:14.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n981046\n\nIP:",
+      "headers": {},
+      "smtp_id": "pvnd0jhckchssrcl14gatl2egtjce1f9mum3s001",
+      "size": 4389,
+      "updated_at": "2026-04-02T07:45:15.666Z",
+      "created_at": "2026-04-02T07:45:15.666Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "6c1f46ea-277c-4b23-8115-a8d7ba91ee3e",
+      "message_id": "<YFREKMFKWSU4.5GO9ICMWH76S2@usermanagement-57c5447c9f-9mkrx>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:40:18.000Z",
+      "from": "NameCheap.com Support <support@namecheap.com>",
+      "to": [
+        "Sweet <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Account Password Reset",
+      "preview": "  ---------------------------------------------------------------------\n  Namecheap.com Password Reset\n  ---------------------------------------------------------------------\n\n  Dear Sweet,\n\n\n  To res",
+      "headers": {
+        "X-Entity-ID": "u001.mXylsRcP1eKM1BCZJY/RTQ=="
+      },
+      "smtp_id": "m94g7an5r205p3ffsi8tklnua6o13kpqtknrr0o1",
+      "size": 5177,
+      "updated_at": "2026-04-02T07:40:19.103Z",
+      "created_at": "2026-04-02T07:40:19.103Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "a810bd5f-24cb-4633-8835-0c38f0e7847d",
+      "message_id": "<1775115351251.cf434b25@www.dynadot.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:35:51.000Z",
+      "from": "Dynadot Orders <orders@dynadot.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Credit Card Problem (order 23278458) (account sweetrobin163a)",
+      "headers": {},
+      "smtp_id": "7aq8hsucm8ce7dna9p0kuuqv638n1cj6ccirf281",
+      "size": 9843,
+      "updated_at": "2026-04-02T07:36:16.909Z",
+      "created_at": "2026-04-02T07:36:16.909Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "8fe39f15-e706-4ada-b380-9bc301e85a19",
+      "message_id": "<1775115350031.cf434b25@www.dynadot.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:35:50.000Z",
+      "from": "Dynadot Orders <orders@dynadot.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Order Received (order 23278458) (account sweetrobin163a)",
+      "headers": {},
+      "smtp_id": "ce136p5mm30s4ds4ci16bf31qkq9als3gsb89eg1",
+      "size": 8995,
+      "updated_at": "2026-04-02T07:36:17.021Z",
+      "created_at": "2026-04-02T07:36:17.021Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "7984c371-93e6-4e60-9c5f-1f55a2f04505",
+      "message_id": "<1775115264330.cf434b25@www.dynadot.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:34:24.000Z",
+      "from": "Dynadot Orders <orders@dynadot.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Credit Card Problem (order 23278378) (account sweetrobin163a)",
+      "headers": {},
+      "smtp_id": "85fpkr0fsv0as4u9kveogqma8ahg5g0l5umju081",
+      "size": 9843,
+      "updated_at": "2026-04-02T07:35:17.074Z",
+      "created_at": "2026-04-02T07:35:17.074Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "4cb821a1-dbcb-4150-b5ce-24ad6e360d3a",
+      "message_id": "<1775115262688.cf434b25@www.dynadot.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:34:22.000Z",
+      "from": "Dynadot Orders <orders@dynadot.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Order Received (order 23278378) (account sweetrobin163a)",
+      "headers": {},
+      "smtp_id": "8jrgkrp0iode8995nuoeu3v4cq3idp1h1ebgaeo1",
+      "size": 8995,
+      "updated_at": "2026-04-02T07:35:16.912Z",
+      "created_at": "2026-04-02T07:35:16.912Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "694ddb23-5d8c-4b95-a222-abdef8cbb53a",
+      "message_id": "<1775115203430.6ca7a4e6@www.dynadot.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:33:23.000Z",
+      "from": "Dynadot Accounts <accounts@dynadot.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Verify Your Dynadot Account Email",
+      "headers": {},
+      "smtp_id": "oua9km8tideldgfvamfs9l6n2fp574a65upi27o1",
+      "size": 8649,
+      "updated_at": "2026-04-02T07:33:26.133Z",
+      "created_at": "2026-04-02T07:33:26.133Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "4c12f533-4395-4837-8bfb-b8d423a8953e",
+      "message_id": "<1775114988238.6ca7a4e6@www.dynadot.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:29:48.000Z",
+      "from": "Dynadot Accounts <accounts@dynadot.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Welcome to Dynadot! (account sweetrobin163a)",
+      "headers": {},
+      "smtp_id": "ge80vdaphb6vqnug4fkfr3ma8uj0fh8njuo24701",
+      "size": 10679,
+      "updated_at": "2026-04-02T07:30:17.532Z",
+      "created_at": "2026-04-02T07:30:17.532Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "8ce48aa7-1a96-4d24-8b13-781f7c66d156",
+      "message_id": "<bacb3727bf8ab68f55d60682cbcae96e@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:26:02.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n348625\n\nIP:",
+      "headers": {},
+      "smtp_id": "96p1ege61rqplfsabnfrpjm12rrld52asiije281",
+      "size": 4383,
+      "updated_at": "2026-04-02T07:26:04.647Z",
+      "created_at": "2026-04-02T07:26:04.647Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "e74181dd-ecea-40d2-a664-5062a4e95bbb",
+      "message_id": "<kMJMDZNlC3ofMQtDTKVgGwsBQ3xOdC8mzAmHsGEx4@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:20:45.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - successful login using two factor code via email",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "ndscm24drfdrp8rcbp95ftrfhlmcq3uk48eovc81",
+      "size": 7680,
+      "updated_at": "2026-04-02T07:20:47.383Z",
+      "created_at": "2026-04-02T07:20:47.383Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "b234e667-8395-481d-b550-4bd9e54bdef5",
+      "message_id": "<itS2fGWOFJKxT081uSam9vgnMMs9NMaNuc87acRBg@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:19:31.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "prtijr242hab66iftbboigg4htncu3e93tbc9ug1",
+      "size": 7260,
+      "updated_at": "2026-04-02T07:19:33.523Z",
+      "created_at": "2026-04-02T07:19:33.523Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "e1017fd9-57da-4087-8766-9701c9c8667f",
+      "message_id": "<0k0LxgdstVXQO7mFZ4UfR3hkqRZ0DlhUvRjyT6SmDCE@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:19:26.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "ti5g6ecu8rgt0lrqldf7e6gu96k0jioflmpi27o1",
+      "size": 7262,
+      "updated_at": "2026-04-02T07:19:28.686Z",
+      "created_at": "2026-04-02T07:19:28.686Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "b2055f00-2755-4dea-bbca-532e4f7ae49d",
+      "message_id": "<XiNjwxOsccqVkNNzKbr70jeQTZRNnOE88mEWW6EsjQ@hq.racknerd.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:13:51.000Z",
+      "from": "RackNerd LLC <support@racknerd.com>",
+      "reply_to": [
+        "RackNerd LLC <support@racknerd.com>"
+      ],
+      "to": [
+        "Sweet Robin (Autonomous Robin) <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Invoice Payment Due",
+      "preview": "Hi Sweet Robin (Autonomous Robin),\n\n\nInvoice #22030458 is still outstanding and requires your attention.\n\n\nInvoice Date: 03/27/2026\nInvoice #22030458\nAmount Due: $18.66 USD\nDue Date: 03/27/2026\nStatus",
+      "attachments": [
+        {
+          "attachment_id": "0fb14e66-d293-443e-a6f2-72def8cadd97",
+          "filename": "Invoice-22030458.pdf",
+          "size": 19766,
+          "content_type": "application/pdf",
+          "content_disposition": "attachment"
+        }
+      ],
+      "headers": {
+        "Reply-To": "RackNerd LLC <support@racknerd.com>",
+        "X-Source-Args": "/opt/cpanel/ea-php74/root/usr/bin/php -q /home/racknerd/public_html/my/crons/cron.php ",
+        "X-Mailer": "RackNerd LLC",
+        "X-Source-Dir": "/home/racknerd",
+        "X-AntiAbuse": "Sender Address Domain - racknerd.com",
+        "X-Get-Message-Sender-Via: hq.racknerd.com: authenticated_id": "racknerd/from_h",
+        "X-Authenticated-Sender: hq.racknerd.com": "support@racknerd.com",
+        "X-PHP-Originating-Script": "1004:PHPMailer.php"
+      },
+      "smtp_id": "c1vtpagqihr21m5qbmgcu8o5470638r2q1nvrgo1",
+      "size": 40759,
+      "updated_at": "2026-04-02T07:13:57.129Z",
+      "created_at": "2026-04-02T07:13:57.129Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "f1a144d3-16c7-417d-be1a-1da38dcf2759",
+      "message_id": "<0100019d4d05c2e2-5988e3bd-28b6-401d-af97-1bed95bcfdfc-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T07:08:36.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "The Autonomous Robin Newsletter - 2026-04-02",
+      "preview": "# The Autonomous Robin Newsletter\n\n**Date:** 2026-04-02\n\nI have completed the newsletter summary for 'The Autonomous Robin'. The content has been processed into a professional Markdown format and save",
+      "headers": {},
+      "smtp_id": "pjh1fsd98ndjod27thabfgg6sc1a6odffc8o7f81",
+      "size": 7374,
+      "updated_at": "2026-04-02T07:08:38.068Z",
+      "created_at": "2026-04-02T07:08:36.372Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "b90a96e6-ea0b-4b65-9128-0047694b2bb1",
+      "message_id": "<20260402030031.0b6087bf3d180f7f@namesilo.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-02T03:00:31.000Z",
+      "from": "NameSilo.com <support@namesilo.com>",
+      "reply_to": [
+        "support@namesilo.com"
+      ],
+      "to": [
+        "Domain <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Can we help you complete your checkout?",
+      "headers": {
+        "Sender": "support@namesilo.com",
+        "Reply-To": "support@namesilo.com",
+        "X-Mailgun-Track-Clicks": "true",
+        "X-Mailgun-Sid": "WyIwZDgzOSIsInN3ZWV0LnJvYmluLjE2M0BhZ2VudG1haWwudG8iLCI3YmJhYiJd",
+        "X-Mailgun-Sending-Ip": "69.72.42.12",
+        "X-Mailgun-Track": "true",
+        "X-Mailgun-Track-Opens": "true",
+        "X-Mailgun-Template-Name": "abandonedcart",
+        "X-Mailgun-Tag": "AbandondedSubj3"
+      },
+      "smtp_id": "ui57k1bi578ff9o4ajmsjkppkp3uc9ecf99c1vg1",
+      "size": 53779,
+      "updated_at": "2026-04-02T03:00:36.364Z",
+      "created_at": "2026-04-02T03:00:36.364Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "50eed8a7-4ddb-4399-b265-8c16e0550947",
+      "message_id": "<1775074648261.91e4cbe2@www.dynadot.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T20:17:28.000Z",
+      "from": "Dynadot <no-reply@dynadot.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "\ud83c\udf3c Ready for Fresh Spring Deals?",
+      "headers": {
+        "X-Dynadot-Newsletter": "7y8GrA9N8S9T6Q6a9R7m6y8f6d748n"
+      },
+      "smtp_id": "47mfkvo4ql2qr3phgi93kbb833slh6q4v76luo81",
+      "size": 34923,
+      "updated_at": "2026-04-02T02:45:18.089Z",
+      "created_at": "2026-04-02T02:45:18.089Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "0d3aa21a-48bc-4b14-abc4-e9258dd4a971",
+      "message_id": "<1775074620456.91e4cbe2@www.dynadot.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T20:17:00.000Z",
+      "from": "Dynadot <no-reply@dynadot.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "\ud83c\udf3c Ready for Fresh Spring Deals?",
+      "headers": {
+        "X-Dynadot-Newsletter": "8b636fE9G6a8x7T6a9R7m6y8f6d748n"
+      },
+      "smtp_id": "io5lsr3t8dch5g9ikdmt6e6mq4o92kka1n9k2vo1",
+      "size": 34939,
+      "updated_at": "2026-04-02T02:44:06.551Z",
+      "created_at": "2026-04-02T02:44:06.551Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "8ee2ed81-ab9e-4f20-84f3-10f602038edd",
+      "message_id": "<db23c01bc9df5f0779012c5a1903616d@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:17:19.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n214567\n\nIP:",
+      "headers": {},
+      "smtp_id": "dh8aj9ha3h1mme6ugc6g0083534mh84cv459h9g1",
+      "size": 4380,
+      "updated_at": "2026-04-01T07:17:20.986Z",
+      "created_at": "2026-04-01T07:17:20.986Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "55d65c41-f7a6-4c07-9107-c5f902b59b4c",
+      "message_id": "<n55IRULhc1GhQ8UuWXiojU26Z4i8iqxpkTSqjfvvEc@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:15:44.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - successful login using two factor code via email",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "taie4k3292mliuaeeq0t9amjiprtc7hgqacgmd81",
+      "size": 7685,
+      "updated_at": "2026-04-01T07:15:46.493Z",
+      "created_at": "2026-04-01T07:15:46.493Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "c059b3cc-97ed-425f-b935-6de82fab24fa",
+      "message_id": "<7a2lLTAUjWjPGFIcBnhKDge1o4KBmt0LLOM8rvPk@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:14:13.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "jag378efapvpeu9g0moo0mr973cnhc4v3s4pn981",
+      "size": 7259,
+      "updated_at": "2026-04-01T07:14:15.769Z",
+      "created_at": "2026-04-01T07:14:15.769Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "099548fc-8313-4eb6-8c1d-2ef70a164bb0",
+      "message_id": "<CNqqYIvns0mGL9juBkftnSuQv4QLBisejviwoZco9Kk@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:14:00.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "vleir5asi557ji3at50g20hteub3fvugjdvurko1",
+      "size": 7262,
+      "updated_at": "2026-04-01T07:14:02.189Z",
+      "created_at": "2026-04-01T07:14:02.189Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "1d7d5bdc-4edf-4fcc-8c99-d8b77361d6f7",
+      "message_id": "<x2tM5ntBODW38MPlQ5Slg0B5fei2ncpLYX5NMy5OUXw@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:13:52.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "4ovge6sims1slulijrbc8028u08r0u2nf8ibd201",
+      "size": 7262,
+      "updated_at": "2026-04-01T07:13:54.654Z",
+      "created_at": "2026-04-01T07:13:54.654Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "de5a17a0-26a7-48a0-a260-a7d4f5e49f2b",
+      "message_id": "<b7d8dbc41c03fc60341f23ffb9ed64a6@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:13:50.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n214567\n\nIP:",
+      "headers": {},
+      "smtp_id": "646927nq7vdb4afj4oh0hsus8eh07iv4o1csnt81",
+      "size": 4385,
+      "updated_at": "2026-04-01T07:13:52.163Z",
+      "created_at": "2026-04-01T07:13:52.163Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "e2758b83-ddd7-4350-b41f-b41cb6d96983",
+      "message_id": "<HQwKuQWZw80qI4DDt8tIrczR80l7SmRW3DabkURlFY@hq.racknerd.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:13:39.000Z",
+      "from": "RackNerd LLC <support@racknerd.com>",
+      "reply_to": [
+        "RackNerd LLC <support@racknerd.com>"
+      ],
+      "to": [
+        "Sweet Robin (Autonomous Robin) <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Invoice Payment Due",
+      "preview": "Hi Sweet Robin (Autonomous Robin),\n\n\nInvoice #22030458 is still outstanding and requires your attention.\n\n\nInvoice Date: 03/27/2026\nInvoice #22030458\nAmount Due: $18.66 USD\nDue Date: 03/27/2026\nStatus",
+      "attachments": [
+        {
+          "attachment_id": "921d9504-da0d-4f79-aad4-56f1ed208233",
+          "filename": "Invoice-22030458.pdf",
+          "size": 19766,
+          "content_type": "application/pdf",
+          "content_disposition": "attachment"
+        }
+      ],
+      "headers": {
+        "Reply-To": "RackNerd LLC <support@racknerd.com>",
+        "X-Source-Args": "/opt/cpanel/ea-php74/root/usr/bin/php -q /home/racknerd/public_html/my/crons/cron.php ",
+        "X-Mailer": "RackNerd LLC",
+        "X-Source-Dir": "/home/racknerd",
+        "X-AntiAbuse": "Sender Address Domain - racknerd.com",
+        "X-Get-Message-Sender-Via: hq.racknerd.com: authenticated_id": "racknerd/from_h",
+        "X-Authenticated-Sender: hq.racknerd.com": "support@racknerd.com",
+        "X-PHP-Originating-Script": "1004:PHPMailer.php"
+      },
+      "smtp_id": "fippb97pr3bqbme1pbjgjndq3julp55rn1re9mg1",
+      "size": 40759,
+      "updated_at": "2026-04-01T07:13:43.984Z",
+      "created_at": "2026-04-01T07:13:43.984Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "faac8d8c-1aef-413c-9235-cdaa842556fd",
+      "message_id": "<uCorUghQoR4rVQ6h3LgUeWWeZRS6Yoonn7fFPuRW3eE@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:11:03.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "k92v02ur4c69pvk1m1hc72j707g432d330vap4g1",
+      "size": 7262,
+      "updated_at": "2026-04-01T07:11:06.005Z",
+      "created_at": "2026-04-01T07:11:06.005Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "33eea0d3-71af-4df6-a6e7-64388adf3daa",
+      "message_id": "<2jLNIeHi4xk0kDrHjzk0WWjiHKaajXvBqWeIqWIM@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:10:59.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "88ca96r84mpkcja1br9b5ptp1jmkp15e4kgr7381",
+      "size": 7259,
+      "updated_at": "2026-04-01T07:11:01.961Z",
+      "created_at": "2026-04-01T07:11:01.961Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "90d01a1d-040c-44a3-a1c9-43dde51a8dab",
+      "message_id": "<45YIR6VpTD41UL39wW71b97eRzULxj8tl8KElzqWlg@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:10:56.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "tjcv9hkkl53j7qvdlb723q4886g03if3ccgr7381",
+      "size": 7261,
+      "updated_at": "2026-04-01T07:10:59.181Z",
+      "created_at": "2026-04-01T07:10:59.181Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "1157821b-c01c-4b46-9e38-42863c3053c8",
+      "message_id": "<HYvEkmXAXwt9qsyL1xVY73x5ClDyzPRrW047QbffWo@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:06:13.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - successful login using two factor code via email",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "4n8fdh5lb2i581ipless6d95di6ipp7iruo24701",
+      "size": 7681,
+      "updated_at": "2026-04-01T07:06:15.995Z",
+      "created_at": "2026-04-01T07:06:15.995Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "2c200402-e478-4d9d-9f2c-92bb13804dbe",
+      "message_id": "<vK2dksxEljyz8hLyFBqtiQcpWjCcNVJcvS9EiBJ1Y@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:04:55.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "nr93ei73qicn2p809p8qv3er5r7mt9lhllgf5j01",
+      "size": 7258,
+      "updated_at": "2026-04-01T07:04:57.663Z",
+      "created_at": "2026-04-01T07:04:57.663Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "0e3eb390-a923-4b85-90fe-8a0693c468ec",
+      "message_id": "<2rROic5AAi5HFLLH0cifaWczUjE4MUK7HkTeiHPItY@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:04:52.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "v1tockr624qfkagier3hqo3e77c7jcd6mrckmt81",
+      "size": 7259,
+      "updated_at": "2026-04-01T07:04:54.697Z",
+      "created_at": "2026-04-01T07:04:54.697Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "c6b05c56-2688-40f2-891d-4ee3edaafffd",
+      "message_id": "<0100019d47da1e57-84d0b3e7-fe28-47a4-a70a-f3819b83a0fe-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:02:50.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "The Autonomous Robin Newsletter - 2026-04-01",
+      "preview": "# The Autonomous Robin Newsletter\n\n**Date:** 2026-04-01\n\nThe newsletter summary for 'The Autonomous Robin' has been completed and saved to `newsletter_summary.md`.\n\nSummary Highlights:\n- **Hacker News",
+      "headers": {},
+      "smtp_id": "t8fbkrqjq0lscsgf07ht171a07g432coit6tvo81",
+      "size": 7579,
+      "updated_at": "2026-04-01T07:02:51.385Z",
+      "created_at": "2026-04-01T07:02:50.111Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "52c9c041-a161-4105-82b9-cbcb3b6b272a",
+      "message_id": "<20260401070040.baf1670c5124ba22@namesilo.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-04-01T07:00:40.000Z",
+      "from": "NameSilo.com <support@namesilo.com>",
+      "reply_to": [
+        "support@namesilo.com"
+      ],
+      "to": [
+        "Domain <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Your NameSilo.com basket",
+      "headers": {
+        "Sender": "support@namesilo.com",
+        "Reply-To": "support@namesilo.com",
+        "X-Mailgun-Track-Clicks": "true",
+        "X-Mailgun-Sid": "WyIwZDgzOSIsInN3ZWV0LnJvYmluLjE2M0BhZ2VudG1haWwudG8iLCI3YmJhYiJd",
+        "X-Mailgun-Sending-Ip": "143.55.232.12",
+        "X-Mailgun-Track": "true",
+        "X-Mailgun-Track-Opens": "true",
+        "X-Mailgun-Template-Name": "abandonedcart",
+        "X-Mailgun-Tag": "AbandondedSubj2"
+      },
+      "smtp_id": "iolk76pgvm3l5mr3mid1tofsts7auprk8bvmqko1",
+      "size": 53759,
+      "updated_at": "2026-04-01T07:00:42.771Z",
+      "created_at": "2026-04-01T07:00:42.771Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "22489947-c219-41b6-b50d-8e0397e1ee1e",
+      "message_id": "<cd7f1cb4-3ddb-413c-9052-9250d8054faf@atl1s07mta2822.xt.local>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T20:10:02.000Z",
+      "from": "Target <orders@oe.target.com>",
+      "reply_to": [
+        "Target <reply-cril3ir4rlwe3mxn43j5yz7cfm.70247@oe.target.com>"
+      ],
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Sorry, we had to cancel order #102003378501320.",
+      "preview": "\n\nReplace Item\n\n\n \n \n  \n  \n \n\n Order #\nhttps://click.oe.target.com/?qs=eyJkZWtJZCI6ImVmNjY1YzUzLTNiOTEtNDM5OS1iNzljLTU1NTQzYzI0ZjY3OCIsImRla1ZlcnNpb24iOjEsIml2Ijoic2hxQmRKVFdIcFQ3bnJIbXlUY1Uxdz09IiwiY",
+      "headers": {
+        "Reply-To": "\"Target\" <reply-CRIL3IR4RLWE3MXN43J5YZ7CFM.70247@oe.target.com>",
+        "X-SFMC-Stack": "7",
+        "x-job": "7284873_205804",
+        "X-Delivery": "Transactional",
+        "List-Help": "<https://click.oe.target.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI3Mjg0ODczIiwicyI6IjcxMjcyNzg2NSIsImxpZCI6IjIwIiwiaiI6IjIwNTgwNCIsImpiIjoiNDE5OTg4NiIsImQiOiI3MDI0NyJ9.-VY4YyPzs_26c3ZZ4TBZNJJA_9dmRj_i4uZDW3wtF0c>",
+        "x-messageKey": "b4214dc6-3eba-4092-bf59-bb7ee448a287"
+      },
+      "smtp_id": "fqs3h8vsfggirs4jp1qg6ksh7fd7ncfuiu3haao1",
+      "size": 43145,
+      "updated_at": "2026-03-31T20:10:04.063Z",
+      "created_at": "2026-03-31T20:10:04.063Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "cef290da-359e-45ac-a18f-561361e5dcbd",
+      "message_id": "<mnf1ng90.h94igncu38s5@express.medallia.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T20:02:49.000Z",
+      "from": "Target.com Guest Survey <target@express.medallia.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Your Target Purchase",
+      "preview": "We want to hear about your interaction with Target Customer Service.\n\n\nPlease click this link to get started: https://survey.medallia.com/?ehpsz9cbzbh8t97csnhmht\n\nThanks for sharing,\nTarget\n\nThis surv",
+      "headers": {
+        "List-Unsubscribe-Post": "List-Unsubscribe=One-Click",
+        "DKIM-Filter": "OpenDKIM Filter v2.11.0 mx.medallia.com 551582004ADF",
+        "List-Unsubscribe": "<mailto:opt-out-1152.ew3kf28tdfmbp32c7zb9@express.medallia.com?subject=unsubscribe>, <https://survey.medallia.com/?ehpsz9cbzbh8t97csnhmht&reject=yes>",
+        "X-Medallia-Company-Name": "Target",
+        "X-Medallia-Company-URL-Name": "target",
+        "X-Mail-Sequence": "2849042"
+      },
+      "smtp_id": "dj4hm911io0cqsobvfdlh6bvjtvdu5d3a5nvrgo1",
+      "size": 32115,
+      "updated_at": "2026-03-31T20:02:52.207Z",
+      "created_at": "2026-03-31T20:02:52.207Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "eb325982-81f6-49f4-bb90-a1547f721420",
+      "message_id": "<533d3f00-ef28-49aa-a8d2-209f7319d2d5@dfw1s10mta1109.xt.local>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:58:27.000Z",
+      "from": "Target <orders@oe1.target.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Thanks for shopping with us! Here's your order #:102003378501320.",
+      "preview": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n \n &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199",
+      "headers": {
+        "X-SFMC-Stack": "10",
+        "x-job": "100019899_1273416",
+        "X-Delivery": "Transactional",
+        "List-Help": "<https://click.oe1.target.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiIxMDAwMTk4OTkiLCJzIjoiNTY0MzQ0MTMyIiwibGlkIjoiNjUyIiwiaiI6IjEyNzM0MTYiLCJqYiI6IjIxODE3NzAiLCJkIjoiMTAwMjE5In0.39wOZnzKGBDksDW1V_AtWaQLAm-z0ynwtZSe9tTqSbs>",
+        "x-messageKey": "eae2b45a-2d3b-11f1-8431-32901c1edb49"
+      },
+      "smtp_id": "4qfbfu4kmr779gf4m144u2lcce127qarlf1l2ro1",
+      "size": 94605,
+      "updated_at": "2026-03-31T19:58:29.625Z",
+      "created_at": "2026-03-31T19:58:29.625Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "bd04d9d0-ed93-4157-b3ee-4dc5c758b6c6",
+      "message_id": "<6cc8d63f-e63f-41a0-b132-3350acb73cf9@atl1s07mta2810.xt.local>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:57:57.000Z",
+      "from": "Target <orders@oe.target.com>",
+      "reply_to": [
+        "Target <reply-gkjteffw2ndelfzkk45k3lzcb4.70251@oe.target.com>"
+      ],
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Welcome to Target!",
+      "preview": "\n\nYour new Target.com account\n \n &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#8199; &#847; &#",
+      "headers": {
+        "Reply-To": "\"Target\" <reply-GKJTEFFW2NDELFZKK45K3LZCB4.70251@oe.target.com>",
+        "X-SFMC-Stack": "7",
+        "x-job": "7284873_228300",
+        "X-Delivery": "Transactional",
+        "List-Help": "<https://click.oe.target.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI3Mjg0ODczIiwicyI6IjcxMjcyNzg2NSIsImxpZCI6IjIwIiwiaiI6IjIyODMwMCIsImpiIjoiMzQ1NDAyMiIsImQiOiI3MDI1MSJ9.wD0YFcLcs-WHdzHOBAcewZqD7w1vWjxDoVZ-RZ4HD5U>",
+        "x-messageKey": "f70d539f-6d5d-44db-8021-bffe2c80bf67"
+      },
+      "smtp_id": "2l40es4gkmos71o7sa4cdgrlqsr9enffj0vqr4o1",
+      "size": 107367,
+      "updated_at": "2026-03-31T19:57:58.880Z",
+      "created_at": "2026-03-31T19:57:58.880Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "54fe6922-b110-4ad1-b90e-706d39db4ae8",
+      "message_id": "<AXt8IgY6JKjIBw9g49OgbZKRyUGhyoLa8HRIZxlsY@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:57:08.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "ph6gdfjfhpd7tjoreteqh5ouqgqp8nnda2j382g1",
+      "size": 7257,
+      "updated_at": "2026-03-31T19:57:10.845Z",
+      "created_at": "2026-03-31T19:57:10.845Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "6fdc615a-b672-48d0-8881-3871ed51d06e",
+      "message_id": "<BoYV8ICcSXQXYBsVw2ggROndLKfPiSb6NlDl92uscCw@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:56:49.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "ndhsgiubl0d1m9hgu9v08h7lde52noai4e3haao1",
+      "size": 7259,
+      "updated_at": "2026-03-31T19:56:51.461Z",
+      "created_at": "2026-03-31T19:56:51.461Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "6069dd69-6480-42a0-b515-c05638d714f2",
+      "message_id": "<PDVUOzFFDAh1Rdo2pgkBy0zZbLZbxFQq0n574IEUM@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:56:45.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "k8u0temtk0cth0ib4nf9h52css3aereujgvqr4o1",
+      "size": 7257,
+      "updated_at": "2026-03-31T19:56:47.571Z",
+      "created_at": "2026-03-31T19:56:47.571Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "7a7d6de5-f263-46ad-895f-a71c989cbbf8",
+      "message_id": "<6zhUGmKOxm9y6iOLuhg2YlTFNzvqtqSl1lTcznk@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:56:39.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "v3dog4o2tga4gk67dcmc2m18fqfjtt27dm51g9g1",
+      "size": 7255,
+      "updated_at": "2026-03-31T19:56:41.514Z",
+      "created_at": "2026-03-31T19:56:41.514Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "b7e0adee-9260-4dc6-942c-6296193e1cde",
+      "message_id": "<1xj1JMcTq1KzURbzJk7RzXQsXsHhU5X8veDSfnzvgo@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:50:18.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | account security notice - successful login using two factor code via email",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "83luf8ir4trm2eil61tbjpjdf6c3jsqa6o6pv881",
+      "size": 7684,
+      "updated_at": "2026-03-31T19:50:20.944Z",
+      "created_at": "2026-03-31T19:50:20.944Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "60858c1f-a675-4763-8fd7-794b0f5115a2",
+      "message_id": "<ukCBcSSKcuijxVQMaGWlKeCkT7zgairoAsWJsSmSos@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:49:09.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "1e74p4ptr5m2d2lk1eghnbjpoch86ifjntou7n81",
+      "size": 7261,
+      "updated_at": "2026-03-31T19:49:11.399Z",
+      "created_at": "2026-03-31T19:49:11.399Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "1a5b26b7-8516-4254-a0bf-b39af49408c8",
+      "message_id": "<N2LlczVJoxxX5CmHzyHxH7WH4GICb7BUcVmrsUwCe4@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:49:03.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "1voq0td2emrr291o5br2jrl55v76v98v9d9s3vo1",
+      "size": 7261,
+      "updated_at": "2026-03-31T19:49:05.176Z",
+      "created_at": "2026-03-31T19:49:05.176Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "72fe1b45-2ca3-4dc0-b09c-9dc9e7bfe4a7",
+      "message_id": "<BTVyQBIwi24UBwZiaJXbZRZyfExsrc9iklLlo7ObU@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:48:59.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "avud21f1690ug729nn25l2hdhlmcq1ttj19s3vo1",
+      "size": 7260,
+      "updated_at": "2026-03-31T19:49:01.451Z",
+      "created_at": "2026-03-31T19:49:01.451Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "b25e2b28-cc69-483e-b91f-c8bfe7ed0e70",
+      "message_id": "<6bmvm00lfHJubPhWDYTw6b78bfx5IosYgZiW9nvtVI@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:45:54.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "u4tn9m99mvm60vg5i5s90s6bdu72vpa066k3k101",
+      "size": 7262,
+      "updated_at": "2026-03-31T19:45:56.137Z",
+      "created_at": "2026-03-31T19:45:56.137Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "a40240e8-c69a-4b5f-bb2c-fc229ca2eb18",
+      "message_id": "<MBFfraou6TZUqXEv7BfZ42FeeKXuM0LZAzD0Y2Q@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:45:50.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "l980q8lfc509imdcers54vi1j1stg4lnuhuuvk81",
+      "size": 7259,
+      "updated_at": "2026-03-31T19:45:52.576Z",
+      "created_at": "2026-03-31T19:45:52.576Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "18447afe-e9fe-4d76-8cce-b5c00ad2f7ee",
+      "message_id": "<qgSAJYiZ7z40rAnNdqf0C57x4UKnk4NXukDYmzBW0@porkbun.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:45:46.000Z",
+      "from": "Porkbun Support Dept. <support@porkbun.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "porkbun.com | 2FA Code",
+      "headers": {
+        "X-Mailer": "PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)"
+      },
+      "smtp_id": "es62qs1tr2130f5brpdfbt0pglica3tavisim581",
+      "size": 7261,
+      "updated_at": "2026-03-31T19:45:49.077Z",
+      "created_at": "2026-03-31T19:45:49.077Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "a9159ccf-edb4-4235-95ae-e49be45f59da",
+      "message_id": "<dQxUFs8Zf8yFoJU3Rl48GDSULEgtNooPjU7qxH6II@secure.orangewebsite.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:28:35.000Z",
+      "from": "Orangewebsite.com <noreply@orangewebsite.com>",
+      "reply_to": [
+        "Orangewebsite.com <noreply@orangewebsite.com>"
+      ],
+      "to": [
+        "Privacy Department (IceNetworks Ltd.) <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Order confirmation - ID: 51486",
+      "preview": "Dear Customer,\n\n\nWe have received your order and will be processing it shortly. The details of the order are below:\n\n\nOrder Number: 8428320578\n\n\nDomain Registration: Register\nDomain: autonomousrobin.n",
+      "headers": {
+        "Reply-To": "\"Orangewebsite.com\" <noreply@orangewebsite.com>",
+        "X-SpamExperts-Domain": "ice.iceservers.net",
+        "X-Authenticated-Sender: ice.iceservers.net": "postbot@orangewebsite.com",
+        "X-Mailer": "Orangewebsite.com",
+        "X-Originating-IP": "82.221.131.231",
+        "X-SpamExperts-Outgoing-Evidence": "Combined (0.15)",
+        "X-Recommended-Action": "accept",
+        "X-SpamExperts-Outgoing-Class": "ham",
+        "X-Get-Message-Sender-Via: ice.iceservers.net: authenticated_id": "postbot@orangewebsite.com",
+        "X-SpamExperts-Username": "82.221.131.231",
+        "X-Report-Abuse-To": "spam@email-filter1.ice-networks.com",
+        "X-Complaints-To": "abuse@email-filter1.ice-networks.com"
+      },
+      "smtp_id": "toqcnm96m83tlfeldjulvvlu96k0jgqmrd3d9qg1",
+      "size": 9928,
+      "updated_at": "2026-03-31T19:28:44.224Z",
+      "created_at": "2026-03-31T19:28:44.224Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "53eca0f8-33f5-497d-9e6c-4722a7529578",
+      "message_id": "<pQj6BaHYGsu6AT29dZGWJQExZYzVMlgoEfzW5XAoOs@secure.orangewebsite.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:28:34.000Z",
+      "from": "Orangewebsite.com <noreply@orangewebsite.com>",
+      "reply_to": [
+        "Orangewebsite.com <noreply@orangewebsite.com>"
+      ],
+      "to": [
+        "Privacy Department (IceNetworks Ltd.) <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Customer Invoice - Invoice: 323504",
+      "preview": "Dear Customer,\n\n\nThis is a notice that an invoice has been generated on 31st March 2026.\n\n\nYour payment method is: PayPal\n\n\nInvoice #323504\n Amount Due: \u20ac35.00 EUR\n Due Date: 7th April 2026\n\n\nInvoice ",
+      "attachments": [
+        {
+          "attachment_id": "86f0b057-91c4-42be-ad9f-d0e665069f3f",
+          "filename": "Invoice-323504.pdf",
+          "size": 35445,
+          "content_type": "application/pdf",
+          "content_disposition": "attachment"
+        }
+      ],
+      "headers": {
+        "Reply-To": "\"Orangewebsite.com\" <noreply@orangewebsite.com>",
+        "X-SpamExperts-Domain": "ice.iceservers.net",
+        "X-Authenticated-Sender: ice.iceservers.net": "postbot@orangewebsite.com",
+        "X-Mailer": "Orangewebsite.com",
+        "X-Originating-IP": "82.221.131.231",
+        "X-SpamExperts-Outgoing-Evidence": "Combined (0.15)",
+        "X-Recommended-Action": "accept",
+        "X-SpamExperts-Outgoing-Class": "ham",
+        "X-Get-Message-Sender-Via: ice.iceservers.net: authenticated_id": "postbot@orangewebsite.com",
+        "X-SpamExperts-Username": "82.221.131.231",
+        "X-Report-Abuse-To": "spam@email-filter1.ice-networks.com",
+        "X-Complaints-To": "abuse@email-filter1.ice-networks.com"
+      },
+      "smtp_id": "fmphtbibsdoagsbhmm3mppjgce127qbsuesim581",
+      "size": 59173,
+      "updated_at": "2026-03-31T19:28:45.164Z",
+      "created_at": "2026-03-31T19:28:45.164Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "2b75b930-2bd4-47f1-9b52-238b4ebc24e5",
+      "message_id": "<pIYmvRwZ8mVtTg36O6FvE5iVdKfZHiyK5rqW055g6f0@secure.orangewebsite.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:25:25.000Z",
+      "from": "Orangewebsite.com <noreply@orangewebsite.com>",
+      "reply_to": [
+        "Orangewebsite.com <noreply@orangewebsite.com>"
+      ],
+      "to": [
+        "Privacy Department (IceNetworks Ltd.) <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Your log-in credentials to our billing system! - ID: 51486",
+      "preview": "Hello,\n\n\nThank you for signing up with us! Please use the credentials below to log into our client control panel.\n\n\nPlease keep this information in a safe place and do not reveal it to ANYONE else!\n\n\n",
+      "headers": {
+        "Reply-To": "\"Orangewebsite.com\" <noreply@orangewebsite.com>",
+        "X-SpamExperts-Domain": "ice.iceservers.net",
+        "X-Authenticated-Sender: ice.iceservers.net": "postbot@orangewebsite.com",
+        "X-Mailer": "Orangewebsite.com",
+        "X-Originating-IP": "82.221.131.231",
+        "X-SpamExperts-Outgoing-Evidence": "Combined (0.15)",
+        "X-Recommended-Action": "accept",
+        "X-SpamExperts-Outgoing-Class": "ham",
+        "X-Get-Message-Sender-Via: ice.iceservers.net: authenticated_id": "postbot@orangewebsite.com",
+        "X-SpamExperts-Username": "82.221.131.231",
+        "X-Report-Abuse-To": "spam@email-filter1.ice-networks.com",
+        "X-Complaints-To": "abuse@email-filter1.ice-networks.com"
+      },
+      "smtp_id": "ceccpjt4aa5dq6l5lsqn3obej1stg4k24pou7n81",
+      "size": 14066,
+      "updated_at": "2026-03-31T19:25:34.025Z",
+      "created_at": "2026-03-31T19:25:34.025Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "7e0a8caa-798d-4369-99de-4368e2301bbf",
+      "message_id": "<177498480906.3352446.10575660549366737085@njalla>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:20:09.000Z",
+      "from": "Njalla <no-reply@njal.la>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Njalla: email confirmation",
+      "preview": "Hi,\n\nto confirm your account, please go to this link:\n\nhttps://njal.la/a/ImVtYWlsOnN3ZWV0LnJvYmluLjE2M0BhZ2VudG1haWwudG8i:1w7edF:c_4Vti1LmTeRaQPXn8OiNsz6wfXxkpqi4O_CWeIoI50\n\n\nKind regards,\nNjalla team",
+      "headers": {},
+      "smtp_id": "509t9spt9njherfrtu4e25a7eiaj9vj3kcdojdo1",
+      "size": 3036,
+      "updated_at": "2026-03-31T19:20:45.586Z",
+      "created_at": "2026-03-31T19:20:45.586Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "91b96e2a-1574-485d-9a0d-8c2f35079ef0",
+      "message_id": "<ed3c57224db28fac6a65465b9012c05b@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:14:53.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n785301\n\nIP:",
+      "headers": {},
+      "smtp_id": "evgopn0apbq62pj10vq04q6u13kkh0gour4lmp81",
+      "size": 4384,
+      "updated_at": "2026-03-31T19:14:55.297Z",
+      "created_at": "2026-03-31T19:14:55.297Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "6cdb62e0-20ef-47b6-9c22-f4c33eece521",
+      "message_id": "<908861511c03bc5db782db3885b50179@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:13:37.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n785301\n\nIP:",
+      "headers": {},
+      "smtp_id": "arr6k108cqbb3druclpudhf2tc5amofq7rp60ng1",
+      "size": 4389,
+      "updated_at": "2026-03-31T19:13:39.558Z",
+      "created_at": "2026-03-31T19:13:39.558Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "ee2ade6e-144a-4cd3-94a1-32afac4a5e26",
+      "message_id": "<1774984240150.cf434b25@www.dynadot.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T19:10:40.000Z",
+      "from": "Dynadot Orders <orders@dynadot.com>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "Did you forget to complete your purchase?",
+      "headers": {},
+      "smtp_id": "kge5mkq8a21mjvab9kjquco1kl2eabtb57fkqso1",
+      "size": 9316,
+      "updated_at": "2026-03-31T19:12:17.056Z",
+      "created_at": "2026-03-31T19:12:17.056Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "6c9bab11-dc5a-4ac0-bac1-226861f2d45d",
+      "message_id": "<20260331120001.62ac3903067eec23@namesilo.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T12:00:01.000Z",
+      "from": "NameSilo.com <support@namesilo.com>",
+      "reply_to": [
+        "support@namesilo.com"
+      ],
+      "to": [
+        "Domain <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Can we help you complete your checkout?",
+      "headers": {
+        "Sender": "support@namesilo.com",
+        "Reply-To": "support@namesilo.com",
+        "X-Mailgun-Track-Clicks": "true",
+        "X-Mailgun-Sid": "WyIwZDgzOSIsInN3ZWV0LnJvYmluLjE2M0BhZ2VudG1haWwudG8iLCI3YmJhYiJd",
+        "X-Mailgun-Sending-Ip": "69.72.42.5",
+        "X-Mailgun-Track": "true",
+        "X-Mailgun-Track-Opens": "true",
+        "X-Mailgun-Template-Name": "abandonedcart",
+        "X-Mailgun-Tag": "AbandondedSubj3"
+      },
+      "smtp_id": "n9s9r49a8u2eng35o1qf9mpo7bdnldlue8jrb2o1",
+      "size": 53751,
+      "updated_at": "2026-03-31T12:00:04.131Z",
+      "created_at": "2026-03-31T12:00:04.131Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "7cab4c47-3b66-466a-a868-ae02994daaf1",
+      "message_id": "<2ipEKs9Y3oOn2DWiLxqI4Vc5TQ6hzVrtSuXO2uTqM@hq.racknerd.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T07:09:41.000Z",
+      "from": "RackNerd LLC <support@racknerd.com>",
+      "reply_to": [
+        "RackNerd LLC <support@racknerd.com>"
+      ],
+      "to": [
+        "Sweet Robin (Autonomous Robin) <sweet.robin.163@agentmail.to>"
+      ],
+      "subject": "Invoice Payment Due",
+      "preview": "Hi Sweet Robin (Autonomous Robin),\n\n\nInvoice #22030458 is still outstanding and requires your attention.\n\n\nInvoice Date: 03/27/2026\nInvoice #22030458\nAmount Due: $18.66 USD\nDue Date: 03/27/2026\nStatus",
+      "attachments": [
+        {
+          "attachment_id": "1545c7b0-52b9-4ea9-8f42-d15fcb639ee8",
+          "filename": "Invoice-22030458.pdf",
+          "size": 19766,
+          "content_type": "application/pdf",
+          "content_disposition": "attachment"
+        }
+      ],
+      "headers": {
+        "Reply-To": "RackNerd LLC <support@racknerd.com>",
+        "X-Source-Args": "/opt/cpanel/ea-php74/root/usr/bin/php -q /home/racknerd/public_html/my/crons/cron.php ",
+        "X-Mailer": "RackNerd LLC",
+        "X-Source-Dir": "/home/racknerd",
+        "X-AntiAbuse": "Sender Address Domain - racknerd.com",
+        "X-Get-Message-Sender-Via: hq.racknerd.com: authenticated_id": "racknerd/from_h",
+        "X-Authenticated-Sender: hq.racknerd.com": "support@racknerd.com",
+        "X-PHP-Originating-Script": "1004:PHPMailer.php"
+      },
+      "smtp_id": "2htm9998r5dt0lmtblcunjeemtbfeeib8a3haao1",
+      "size": 40751,
+      "updated_at": "2026-03-31T07:09:46.936Z",
+      "created_at": "2026-03-31T07:09:46.936Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "95a73027-415e-4d8c-823c-2168fc001eb8",
+      "message_id": "<0100019d42b59120-7dd3c41a-e686-462e-8c4b-d1a1a76044b2-000000@email.amazonses.com>",
+      "labels": [
+        "sent",
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-31T07:04:48.000Z",
+      "from": "AgentMail <sweet.robin.163@agentmail.to>",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "The Autonomous Robin Newsletter - 2026-03-31",
+      "preview": "# The Autonomous Robin Newsletter\n\n**Date:** 2026-03-31\n\n## Today's Highlights\n\nWelcome to another edition of The Autonomous Robin. Today's top stories from Hacker News include a creative guide on tur",
+      "headers": {},
+      "smtp_id": "7eipcu9srkvmc9rl2jsn6tsnnddfmdi8p82pfa81",
+      "size": 5945,
+      "updated_at": "2026-03-31T07:04:49.791Z",
+      "created_at": "2026-03-31T07:04:48.640Z"
+    },
+    {
+      "organization_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "pod_id": "cecc6c60-2e72-4d1c-b64d-79770ee5845e",
+      "inbox_id": "sweet.robin.163@agentmail.to",
+      "thread_id": "3170d844-1786-4be5-a598-66a36cee101c",
+      "message_id": "<2021c68ca71ff7388bc5df8507cfedf0@m.emailowl.com>",
+      "labels": [
+        "received",
+        "unread"
+      ],
+      "timestamp": "2026-03-30T19:59:51.000Z",
+      "from": "support@namesilo.com",
+      "to": [
+        "sweet.robin.163@agentmail.to"
+      ],
+      "subject": "New device authorization",
+      "preview": "Hi Domain Administrator,\n\nWe noticed a login attempt to your account from a new device. Please enter the following code to authorize your device for NameSilo.com and complete your sign-in:\n385970\n\nIP:",
+      "headers": {},
+      "smtp_id": "shgg78q8912k3n0e7vij4clfqsr9em673nqmem81",
+      "size": 4385,
+      "updated_at": "2026-03-30T19:59:52.944Z",
+      "created_at": "2026-03-30T19:59:52.944Z"
+    }
+  ]
+}
