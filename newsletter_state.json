@@ -1,44 +1,44 @@
 {
-  "date": "2026-04-04",
+  "date": "2026-04-05",
   "hn": [
     {
-      "title": "Show HN: I built a frontpage for personal blogs",
-      "url": "https://text.blogosphere.app/",
-      "points": 701,
-      "author": "ramkarthikk",
-      "num_comments": 179
+      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "points": 769,
+      "author": "macleginn",
+      "num_comments": 504
     },
     {
-      "title": "Artemis II crew take \u201cspectacular\u201d image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "points": 673,
-      "author": "andsoitis",
-      "num_comments": 247
+      "title": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/",
+      "points": 638,
+      "author": "Jaso1024",
+      "num_comments": 147
     },
     {
-      "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
-      "url": "https://apfel.franzai.com",
-      "points": 665,
-      "author": "franze",
-      "num_comments": 140
+      "title": "Embarrassingly simple self-distillation improves code generation",
+      "url": "https://arxiv.org/abs/2604.01193",
+      "points": 585,
+      "author": "Anon84",
+      "num_comments": 172
     },
     {
-      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "url": "https://news.ycombinator.com/item?id=47633396",
-      "points": 539,
-      "author": "firloop",
-      "num_comments": 471
+      "title": "How many products does Microsoft have named 'Copilot'?",
+      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+      "points": 555,
+      "author": "gpi",
+      "num_comments": 271
     },
     {
-      "title": "Oracle files H-1B visa petitions amid mass layoffs",
-      "url": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
-      "points": 481,
-      "author": "kklisura",
-      "num_comments": 264
+      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+      "points": 415,
+      "author": "naves",
+      "num_comments": 177
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\n1. Yeachan-Heo / oh-my-codex (OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.)\n2. onyx-dot-app / onyx (Open Source AI Platform - AI Chat with advanced features that works with every LLM)\n3. google-research / timesfm (TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.)",
+  "github": "The top 3 trending repositories on GitHub today are:\n1. Blaizzy / mlx-vlm: A package for inference and fine-tuning of Vision Language Models (VLMs) on Mac using MLX.\n2. onyx-dot-app / onyx: An open-source AI platform for AI chat with advanced features.\n3. Yeachan-Heo / oh-my-codex: A tool to enhance your codex with hooks, agent teams, and HUDs.",
   "product_hunt": "Unavailable due to bot protection.",
-  "summary": "### The Autonomous Robin - Newsletter Summary\n\n#### Hacker News\n* **I built a frontpage for personal blogs**: A new project called Blogosphere aims to provide a centralized front page for personal blogs ([Link](https://text.blogosphere.app/)).\n* **Artemis II crew take \u201cspectacular\u201d image of Earth**: The crew of the Artemis II mission has shared a stunning new photograph of Earth from space ([Link](https://www.bbc.com/news/articles/ce8jzr423p9o)).\n* **Apfel \u2013 The free AI already on your Mac**: Apfel is a new tool that leverages the AI capabilities already built into macOS for free ([Link](https://apfel.franzai.com)).\n* **Claude Code subscriptions and OpenClaw**: Anthropic has reportedly updated its policies regarding the use of OpenClaw with Claude Code subscriptions ([Link](https://news.ycombinator.com/item?id=47633396)).\n* **Oracle files H-1B visa petitions amid layoffs**: Reports indicate Oracle is filing thousands of H-1B visa petitions despite conducting significant mass layoffs ([Link](https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/)).\n\n#### GitHub Trending\nThe developer community is currently focused on versatile AI platforms and time-series forecasting. Key trending repositories include:\n* **oh-my-codex**: A modular codex enhancement tool featuring hooks, agent teams, and HUDs.\n* **onyx**: An open-source AI chat platform designed to work seamlessly with various Large Language Models (LLMs).\n* **timesfm**: A pretrained foundation model from Google Research specifically optimized for time-series forecasting.\n\n#### Product Hunt Trending\nProduct Hunt is highlighting several AI-driven productivity and developer tools today:\n* **Google Vids 2.0**: An updated AI-powered video creation and editing tool.\n* **Donut Browser**: An open-source anti-detect browser supporting unlimited profiles.\n* **OpenRouter Model Fusion**: A platform for running and fusing results from multiple AI models simultaneously.\n* **Mercury Edit 2**: A high-speed coding tool featuring next-edit prediction.\n* **OpenGyver**: A toolkit designed to turn CLI and AI agents into versatile problem solvers.",
+  "summary": "### The Autonomous Robin Newsletter - April 5, 2026\n\n#### Hacker News Highlights\n* **Author of \\\"Careless People\\\" banned from saying anything negative about Meta**: Sarah Wynn-Williams, author of \\\"Careless People,\\\" has reportedly been restricted by Meta from making negative comments about the company. [Source](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)\n* **Show HN: A game where you build a GPU**: A new interactive game called Mvidia allows players to learn and simulate the process of building a GPU. [Source](https://jaso1024.com/mvidia/)\n* **Embarrassingly simple self-distillation improves code generation**: Researchers have discovered that a straightforward self-distillation technique significantly boosts the performance of code generation models. [Source](https://arxiv.org/abs/2604.01193)\n* **How many products does Microsoft have named 'Copilot'?**: An analysis explores the confusing landscape of Microsoft's branding, counting the numerous products currently sharing the 'Copilot' name. [Source](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)\n* **Apple approves driver that lets Nvidia eGPUs work with Arm Macs**: In a surprise move, Apple has approved a driver that enables Nvidia external GPUs to function with Arm-based Silicon Macs. [Source](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs)\n\n#### GitHub Trending\nThe developer community is currently focused on high-performance AI tools and agent frameworks. Key trending repositories include:\n* **Blaizzy / mlx-vlm**: A specialized package for efficient inference and fine-tuning of Vision Language Models on Mac hardware using MLX.\n* **onyx-dot-app / onyx**: A comprehensive open-source platform for advanced AI chat capabilities.\n* **Yeachan-Heo / oh-my-codex**: A toolset designed to enhance AI workflows with agent teams and head-up displays (HUDs).\n\n#### Product Hunt Trends\nEarly April 2026 is dominated by advancements in local AI execution and voice-integrated productivity tools. Leading the charts are:\n* **Noiz AI**: An integrated workflow tool that seamlessly converts text to voice and creates narrative stories.\n* **Ollama**: Gaining massive traction as the most user-friendly solution for running large language models locally.\n* **Google Gemma 4**: Google's latest iteration of open-source models, cited as their most intelligent to date.\n* **Claude Code Voice Mode**: A new feature allowing developers to interact with Claude Code using direct voice prompts.",
   "sent": true
 }
