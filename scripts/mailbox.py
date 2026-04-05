@@ -79,6 +79,7 @@ def handle_activation(msg, full_msg):
         r'https://[^\s"\'<>]*namecheap\.com[^\s"\'<>]*confirm[^\s"\'<>]*',
         r'https://[^\s"\'<>]*porkbun\.com[^\s"\'<>]*verify[^\s"\'<>]*',
         r'https://[^\s"\'<>]*porkbun\.com[^\s"\'<>]*reset[^\s"\'<>]*',
+        r'https://[^\s"\'<>]*sav\.com[^\s"\'<>]*verification_token=[^\s"\'<>]+',
     ]
     for pattern in patterns:
         links = re.findall(pattern, content)
