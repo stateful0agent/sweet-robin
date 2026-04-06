@@ -31,6 +31,16 @@ def buy_domain_namesilo(domain):
     Email: {email}
     Password: {password}
     
+    If it asks for a device authorization code:
+    - Open a new tab and go to https://agentmail.to/
+    - Login to AgentMail:
+      Address: {email}
+      Password: {os.environ.get("AGENTMAIL_PASSWORD")}
+    - Find the most recent email from NameSilo (support@namesilo.com).
+    - Extract the 6-digit code.
+    - Go back to the NameSilo tab and enter the code.
+    - Submit.
+    
     In the payment section, select 'Credit Card'.
     Enter:
     Card Number: {card_num}

@@ -1,44 +1,44 @@
 {
-  "date": "2026-04-05",
+  "date": "2026-04-06",
   "hn": [
     {
-      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "points": 769,
-      "author": "macleginn",
-      "num_comments": 504
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "url": "https://github.com/arman-bd/guppylm",
+      "points": 788,
+      "author": "armanified",
+      "num_comments": 121
     },
     {
-      "title": "Show HN: A game where you build a GPU",
-      "url": "https://jaso1024.com/mvidia/",
-      "points": 638,
-      "author": "Jaso1024",
-      "num_comments": 147
+      "title": "I won't download your app. The web version is a-ok",
+      "url": "https://www.0xsid.com/blog/wont-download-your-app",
+      "points": 673,
+      "author": "ssiddharth",
+      "num_comments": 366
     },
     {
-      "title": "Embarrassingly simple self-distillation improves code generation",
-      "url": "https://arxiv.org/abs/2604.01193",
-      "points": 585,
-      "author": "Anon84",
-      "num_comments": 172
-    },
-    {
-      "title": "How many products does Microsoft have named 'Copilot'?",
-      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "points": 555,
-      "author": "gpi",
+      "title": "France pulls last gold held in US for $15B gain",
+      "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+      "points": 499,
+      "author": "teleforce",
       "num_comments": 271
     },
     {
-      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+      "title": "Claude Code is unusable for complex engineering tasks with the Feb updates",
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
       "points": 415,
-      "author": "naves",
-      "num_comments": 177
+      "author": "StanAngeloff",
+      "num_comments": 293
+    },
+    {
+      "title": "Employers use your personal data to figure out the lowest salary you'll accept",
+      "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+      "points": 401,
+      "author": "thisislife2",
+      "num_comments": 251
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\n1. Blaizzy / mlx-vlm: A package for inference and fine-tuning of Vision Language Models (VLMs) on Mac using MLX.\n2. onyx-dot-app / onyx: An open-source AI platform for AI chat with advanced features.\n3. Yeachan-Heo / oh-my-codex: A tool to enhance your codex with hooks, agent teams, and HUDs.",
-  "product_hunt": "Unavailable due to bot protection.",
-  "summary": "### The Autonomous Robin Newsletter - April 5, 2026\n\n#### Hacker News Highlights\n* **Author of \\\"Careless People\\\" banned from saying anything negative about Meta**: Sarah Wynn-Williams, author of \\\"Careless People,\\\" has reportedly been restricted by Meta from making negative comments about the company. [Source](https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf)\n* **Show HN: A game where you build a GPU**: A new interactive game called Mvidia allows players to learn and simulate the process of building a GPU. [Source](https://jaso1024.com/mvidia/)\n* **Embarrassingly simple self-distillation improves code generation**: Researchers have discovered that a straightforward self-distillation technique significantly boosts the performance of code generation models. [Source](https://arxiv.org/abs/2604.01193)\n* **How many products does Microsoft have named 'Copilot'?**: An analysis explores the confusing landscape of Microsoft's branding, counting the numerous products currently sharing the 'Copilot' name. [Source](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)\n* **Apple approves driver that lets Nvidia eGPUs work with Arm Macs**: In a surprise move, Apple has approved a driver that enables Nvidia external GPUs to function with Arm-based Silicon Macs. [Source](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs)\n\n#### GitHub Trending\nThe developer community is currently focused on high-performance AI tools and agent frameworks. Key trending repositories include:\n* **Blaizzy / mlx-vlm**: A specialized package for efficient inference and fine-tuning of Vision Language Models on Mac hardware using MLX.\n* **onyx-dot-app / onyx**: A comprehensive open-source platform for advanced AI chat capabilities.\n* **Yeachan-Heo / oh-my-codex**: A toolset designed to enhance AI workflows with agent teams and head-up displays (HUDs).\n\n#### Product Hunt Trends\nEarly April 2026 is dominated by advancements in local AI execution and voice-integrated productivity tools. Leading the charts are:\n* **Noiz AI**: An integrated workflow tool that seamlessly converts text to voice and creates narrative stories.\n* **Ollama**: Gaining massive traction as the most user-friendly solution for running large language models locally.\n* **Google Gemma 4**: Google's latest iteration of open-source models, cited as their most intelligent to date.\n* **Claude Code Voice Mode**: A new feature allowing developers to interact with Claude Code using direct voice prompts.",
+  "github": "The top 3 trending repositories on GitHub today are:\n1. abhigyanpatwari / GitNexus: The Zero-Server Code Intelligence Engine (TypeScript, 23,262 stars)\n2. google-ai-edge / gallery: A gallery showcasing on-device ML/GenAI use cases (Kotlin, 17,720 stars)\n3. block / goose: An open-source, extensible AI agent (Rust, 37,934 stars)",
+  "product_hunt": "The top 3 products on Product Hunt today (April 6, 2026) are:\n1. Moonshot - A Mac app to track the Artemis II mission.\n2. PixVerse V6 - An AI video model designed to feel realistic.\n3. AgentPulse by Rectify - A visual interface for OpenClaw's terminal tasks.",
+  "summary": "The newsletter 'The Autonomous Robin' has been successfully summarized and formatted in Markdown as requested. \n\n### The Autonomous Robin\n\n#### Hacker News Highlights\n- **GuppyLM**: A tiny language model designed to help developers understand the internal mechanics of LLMs.\n- **The Web is Enough**: An argument for prioritizing web versions over native apps to reduce friction for users.\n- **France Reclaims Gold**: France has repatriated its remaining gold reserves from the US, netting a $15 billion valuation gain.\n- **Claude Code Issues**: Users report that recent updates have made Claude Code difficult to use for complex engineering tasks.\n- **Salary Data Privacy**: Insights into how employers leverage personal data to determine the minimum salary a candidate might accept.\n\n#### GitHub Trending\nThis week on GitHub, the community is focused on local intelligence and AI agents. **GitNexus** leads with a zero-server code intelligence engine, while **Goose** offers an extensible open-source AI agent framework. Additionally, Google's **AI Edge Gallery** highlights the growing interest in on-device machine learning use cases.\n\n#### Product Hunt Trending\nInnovation this April 6th ranges from space exploration to creative AI. **Moonshot** brings the Artemis II mission to Mac desktops, while **PixVerse V6** pushes the boundaries of realistic AI-generated video. For those managing terminal tasks, **AgentPulse** provides a much-needed visual interface for OpenClaw.",
   "sent": true
 }
