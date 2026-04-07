@@ -1,44 +1,44 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "hn": [
     {
-      "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "url": "https://github.com/arman-bd/guppylm",
-      "points": 788,
-      "author": "armanified",
-      "num_comments": 121
+      "title": "Sam Altman may control our future \u2013 can he be trusted?",
+      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+      "points": 1232,
+      "author": "adrianhon",
+      "num_comments": 472
+    },
+    {
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
+      "points": 971,
+      "author": "StanAngeloff",
+      "num_comments": 546
     },
     {
       "title": "I won't download your app. The web version is a-ok",
       "url": "https://www.0xsid.com/blog/wont-download-your-app",
-      "points": 673,
+      "points": 860,
       "author": "ssiddharth",
-      "num_comments": 366
+      "num_comments": 503
     },
     {
-      "title": "France pulls last gold held in US for $15B gain",
+      "title": "France pulls last gold held in US",
       "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-      "points": 499,
+      "points": 580,
       "author": "teleforce",
-      "num_comments": 271
+      "num_comments": 320
     },
     {
-      "title": "Claude Code is unusable for complex engineering tasks with the Feb updates",
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "points": 415,
-      "author": "StanAngeloff",
-      "num_comments": 293
-    },
-    {
-      "title": "Employers use your personal data to figure out the lowest salary you'll accept",
-      "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
-      "points": 401,
-      "author": "thisislife2",
-      "num_comments": 251
+      "title": "The cult of vibe coding is dogfooding run amok",
+      "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+      "points": 526,
+      "author": "drob518",
+      "num_comments": 452
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\n1. abhigyanpatwari / GitNexus: The Zero-Server Code Intelligence Engine (TypeScript, 23,262 stars)\n2. google-ai-edge / gallery: A gallery showcasing on-device ML/GenAI use cases (Kotlin, 17,720 stars)\n3. block / goose: An open-source, extensible AI agent (Rust, 37,934 stars)",
-  "product_hunt": "The top 3 products on Product Hunt today (April 6, 2026) are:\n1. Moonshot - A Mac app to track the Artemis II mission.\n2. PixVerse V6 - An AI video model designed to feel realistic.\n3. AgentPulse by Rectify - A visual interface for OpenClaw's terminal tasks.",
-  "summary": "The newsletter 'The Autonomous Robin' has been successfully summarized and formatted in Markdown as requested. \n\n### The Autonomous Robin\n\n#### Hacker News Highlights\n- **GuppyLM**: A tiny language model designed to help developers understand the internal mechanics of LLMs.\n- **The Web is Enough**: An argument for prioritizing web versions over native apps to reduce friction for users.\n- **France Reclaims Gold**: France has repatriated its remaining gold reserves from the US, netting a $15 billion valuation gain.\n- **Claude Code Issues**: Users report that recent updates have made Claude Code difficult to use for complex engineering tasks.\n- **Salary Data Privacy**: Insights into how employers leverage personal data to determine the minimum salary a candidate might accept.\n\n#### GitHub Trending\nThis week on GitHub, the community is focused on local intelligence and AI agents. **GitNexus** leads with a zero-server code intelligence engine, while **Goose** offers an extensible open-source AI agent framework. Additionally, Google's **AI Edge Gallery** highlights the growing interest in on-device machine learning use cases.\n\n#### Product Hunt Trending\nInnovation this April 6th ranges from space exploration to creative AI. **Moonshot** brings the Artemis II mission to Mac desktops, while **PixVerse V6** pushes the boundaries of realistic AI-generated video. For those managing terminal tasks, **AgentPulse** provides a much-needed visual interface for OpenClaw.",
+  "github": "The top 3 trending repositories on GitHub today are:\n\n1. **abhigyanpatwari / GitNexus**: GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph with a built-in Graph RAG Agent. Perfect for code exploration.\n2. **google-ai-edge / gallery**: A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.\n3. **aaif-goose / goose**: An open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM.",
+  "product_hunt": "The top 3 products on Product Hunt today (2026-04-07) are:\n1. Bibby AI - The AI co-author for research papers.\n2. AppSignals - App store connect data + subscription insights.\n3./dev for Claude Code - Claude Code as a Tech Lead with parallel Worker Agents.",
+  "summary": "The newsletter 'The Autonomous Robin' has been prepared and saved to newsletter_summary.md.\n\n### Newsletter Summary:\n**Hacker News**\n- **Sam Altman may control our future**: A profile exploring the influence and trustworthiness of Sam Altman as he shapes the future of AI.\n- **Claude Code Issues**: Users are reporting that Claude Code has become difficult to use for complex engineering tasks following February updates.\n- **Web Version Preference**: An argument for prioritizing high-quality web applications over unnecessary mobile app downloads.\n- **France Withdraws Gold**: France has moved its remaining gold reserves from the US, realizing a $15 billion gain.\n- **The Cult of Vibe Coding**: A critique of 'vibe coding' as an unproductive extension of internal dogfooding.\n\n**GitHub Trending**\nToday's GitHub trends highlight advanced AI tooling, including **GitNexus** for browser-based code knowledge graphs, **Google AI Edge's gallery** for local machine learning models, and **Goose**, an extensible open-source AI agent for full-cycle development.\n\n**Product Hunt**\nLeading Product Hunt today are **Bibby AI**, an assistant for research paper authorship; **AppSignals**, providing integrated app store and subscription analytics; and **/dev for Claude Code**, which enhances Claude Code with parallel worker agent capabilities.\n\nAttachments:\n\nnewsletter_summary.md:\n# The Autonomous Robin\\n\\n## Hacker News\\n- **Sam Altman may control our future**: A profile exploring the influence and trustworthiness of Sam Altman as he shapes the future of AI.\\n- **Claude Code Issues**: Users are reporting that Claude Code has become difficult to use for complex engineering tasks following February updates.\\n- **Web Version Preference**: An argument for prioritizing high-quality web applications over unnecessary mobile app downloads.\\n- **France Withdraws Gold**: France has moved its remaining gold reserves from the US, realizing a $15 billion gain.\\n- **The Cult of Vibe Coding**: A critique of 'vibe coding' as an unproductive extension of internal dogfooding.\\n\\n## GitHub Trending\\nToday's GitHub trends highlight advanced AI tooling, including **GitNexus** for browser-based code knowledge graphs, **Google AI Edge's gallery** for local machine learning models, and **Goose**, an extensible open-source AI agent for full-cycle development.\\n\\n## Product Hunt\\nLeading Product Hunt today are **Bibby AI**, an assistant for research paper authorship; **AppSignals**, providing integrated app store and subscription analytics; and **/dev for Claude Code**, which enhances Claude Code with parallel worker agent capabilities.",
   "sent": true
 }
