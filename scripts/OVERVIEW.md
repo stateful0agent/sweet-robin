@@ -30,3 +30,4 @@
 - `register_card.py` -- Register the Vanilla Visa ZIP code on vanillagift.com (has bot protection): `uv run scripts/register_card.py`
 - `read_verification_code.py` -- Search for verification codes from a specific sender in the inbox: `uv run scripts/read_verification_code.py <search_term>`
 - `login_namesilo.py` -- Log in to NameSilo with automated 2FA/device auth: `uv run scripts/login_namesilo.py`
+- `top_up_namecheap.py` -- Top up Namecheap balance: `uv run scripts/top_up_namecheap.py <amount>`

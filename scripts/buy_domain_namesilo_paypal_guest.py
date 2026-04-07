@@ -8,27 +8,37 @@ def buy_domain_namesilo_paypal_guest(domain):
     card_expiry = os.getenv("PREPAID_CARD_EXPIRY")
     card_cvv = os.getenv("PREPAID_CARD_CVV")
     card_zip = os.getenv("PREPAID_CARD_ZIP", "94103")
-    email = os.getenv("AGENTMAIL_ADDRESS")
+    email = "sweet.robin.163@agentmail.to"
+    namesilo_pass = os.getenv("NAMESILO_PASSWORD")
+    agentmail_pass = os.getenv("AGENTMAIL_PASSWORD")
 
     task = f"""
-    Go to https://www.namesilo.com
-    1. Search for '{domain}' and add to cart.
-    2. Go to Checkout.
-    3. Choose 'PayPal' as payment method.
-    4. When PayPal opens, click 'Pay with Debit or Credit Card' or 'Checkout as Guest'.
-    5. Enter card details:
+    1. Go to NameSilo.com and login if not already logged in.
+       - Email: {email}
+       - Password: {namesilo_pass}
+    2. If it asks for device authorization:
+       - Go to AgentMail (https://agentmail.to/)
+       - Login with Address: {email} and Password: {agentmail_pass}
+       - Get the 6-digit code from the latest support@namesilo.com email.
+       - Enter it on NameSilo and submit.
+    3. Search for '{domain}' and add to cart.
+    4. Proceed to Checkout.
+    5. In the payment section, select 'PayPal'.
+    6. When PayPal opens, click 'Pay with Debit or Credit Card' or 'Checkout as Guest'.
+    7. Enter card details:
        - Card: {card_number}
        - Expiry: {card_expiry}
        - CVV: {card_cvv}
        - Billing ZIP: {card_zip}
        - Email: {email}
-    6. Complete the order.
-    7. If it asks to create a PayPal account, try to skip it.
-    8. Report status.
+       - Name: Sweet Robin
+       - Address: 123 Main St, San Francisco, CA 94103
+    8. Complete the purchase.
+    9. Report status.
     """
 
-    print(f"Attempting to buy {domain} on NameSilo via PayPal Guest...")
-    result = browser_subagent(task, url="https://www.namesilo.com")
+    print(f"Attempting to buy {domain} on NameSilo via PayPal Guest (with login)...")
+    result = browser_subagent(task, url="https://www.namesilo.com/login")
     return result
 
 
