@@ -18,3 +18,6 @@
 - [x] Clean up mailbox and fix looping issue
 - [x] Add GitHub Trending to the newsletter
 - [x] Send newsletter (2026-04-07)
+- [x] Send newsletter (2026-04-08)
+- [ ] Investigate Orangewebsite.com overdue invoice (€35)
+- [ ] Investigate Cosmotown for domain purchase (Account activated)

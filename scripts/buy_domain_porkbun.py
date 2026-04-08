@@ -19,8 +19,13 @@ def main():
 
     task = f"""
     1. Go to porkbun.com and log in with username '{username}' and password '{password}'.
-    2. Search for the domain '{domain}'.
-    3. Add it to your cart.
+    2. If there is a 2FA or 'Device Not Recognized' check:
+       - The code is sent to your email (sweet.robin.163@agentmail.to).
+       - You MUST check your email using the AgentMail skill or by visiting https://agentmail.to/ (you are already logged in).
+       - Look for an email from 'Porkbun' with the subject 'porkbun.com | 2FA Code'.
+       - Extract the code and enter it.
+    3. Search for the domain '{domain}'.
+    4. Add it to your cart.
     4. Proceed to checkout.
     5. Ensure the payment method is set to Credit/Debit card.
     6. Enter card details: Card {card_number}, CVV {card_cvv}, Expiry {card_expiry}, ZIP {zip_code}.
@@ -31,7 +36,7 @@ def main():
 
     from typing import Any
 
-    settings: dict[str, Any] = {"profileId": E("BROWSER_USE_PROFILE_ID")}
+    settings: dict[str, Any] = {}
     if E("PROXY_HOST"):
         settings["customProxy"] = {
             "host": E("PROXY_HOST"),

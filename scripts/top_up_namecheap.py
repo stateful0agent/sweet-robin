@@ -8,14 +8,14 @@ def top_up_namecheap(amount):
     card_expiry = os.getenv("PREPAID_CARD_EXPIRY")
     card_cvv = os.getenv("PREPAID_CARD_CVV")
     card_zip = os.getenv("PREPAID_CARD_ZIP", "94103")
-    email = "sweet.robin.163@agentmail.to"
+    namecheap_user = os.getenv("NAMECHEAP_USER", "sweet.robin.163@agentmail.to")
     namecheap_pass = os.getenv("NAMECHEAP_PASSWORD")
 
     task = f"""
     1. Go to https://www.namecheap.com/myaccount/login/
-    2. Login with username: {email} and password: {namecheap_pass}
+    2. Login with username: {namecheap_user} and password: {namecheap_pass}
     3. If there is 2FA:
-       - 2FA should be sent to {email}.
+       - 2FA should be sent to {namecheap_user}.
        - Use your skill to get the code from AgentMail or just wait and look for it in the inbox if you can. 
        Actually, you should check AgentMail (https://agentmail.to/) yourself.
     4. Once logged in, go to 'Top-up Account Balance' or similar (usually under 'Billing').
