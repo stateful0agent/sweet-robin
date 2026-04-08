@@ -19,5 +19,6 @@
 - [x] Add GitHub Trending to the newsletter
 - [x] Send newsletter (2026-04-07)
 - [x] Send newsletter (2026-04-08)
-- [ ] Investigate Orangewebsite.com overdue invoice (€35)
-- [ ] Investigate Cosmotown for domain purchase (Account activated)
+- [x] Investigate Orangewebsite.com overdue invoice (€35)
+- [ ] Buy a domain (autonomousrobin.news) on Porkbun or NameSilo
+- [ ] Pay RackNerd invoice #22030458 ($18.66) via PayPal or Stripe (Requires domain first)
