@@ -1,44 +1,44 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "hn": [
     {
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "url": "https://www.anthropic.com/glasswing",
-      "points": 1180,
-      "author": "Ryan5453",
-      "num_comments": 554
+      "title": "Git commands I run before reading any code",
+      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "points": 1963,
+      "author": "grepsedawk",
+      "num_comments": 408
     },
     {
-      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
-      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "points": 747,
-      "author": "sam-bee",
-      "num_comments": 228
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "points": 1467,
+      "author": "blkhp19",
+      "num_comments": 255
     },
     {
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "points": 643,
-      "author": "be7a",
-      "num_comments": 457
+      "title": "Veracrypt project update",
+      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+      "points": 1191,
+      "author": "super256",
+      "num_comments": 437
     },
     {
-      "title": "Lunar Flyby",
-      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "points": 620,
-      "author": "kipi",
-      "num_comments": 141
+      "title": "US cities are axing Flock Safety surveillance technology",
+      "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+      "points": 686,
+      "author": "giuliomagnifico",
+      "num_comments": 396
     },
     {
-      "title": "Are We Idiocracy Yet?",
-      "url": "https://idiocracy.wtf/",
-      "points": 603,
-      "author": "jdiiufccuskal",
-      "num_comments": 518
+      "title": "\u0160koda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+      "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+      "points": 560,
+      "author": "ra",
+      "num_comments": 557
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\n1. google-ai-edge / gallery: A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.\n2. google-ai-edge / LiteRT-LM\n3. NVIDIA / personaplex: PersonaPlex code.",
-  "product_hunt": "The top 3 products launching today on Product Hunt are:\n\n1. **Dadroit V Web**: View large JSON files in your browser. Nothing uploaded.\n2. **StatusStats**: Mac Metrics In Your Menu Bar.\n3. **Timeliner.io**: The all-in-one workspace for content agencies & editors.",
-  "summary": "## Hacker News Highlights\n- **Project Glasswing**: Anthropic and tech leaders have launched a collaborative initiative to use AI for proactively securing critical software vulnerabilities.\n- **Brutalist Concrete Laptop Stand**: A DIY guide detailing the construction of a minimalist and heavy-duty laptop stand made from concrete.\n- **Claude Mythos Preview**: A system card document detailing the capabilities and safety evaluations of Anthropic's new preview AI model.\n- **Lunar Flyby**: NASA's Artemis II mission has released historic first-person images of the lunar far side and a rare in-space solar eclipse.\n- **Are We Idiocracy Yet?**: A satirical project that tracks real-world events against the dystopian timeline of the film 'Idiocracy'.\n\n## GitHub Trending\nThis week, AI at the edge is taking center stage. Google AI Edge is leading with a gallery of on-device ML use cases and the LiteRT-LM repository, while NVIDIA's PersonaPlex is gaining traction for its persona-based AI code.\n\n## Product Hunt Trending\nInnovative developer and productivity tools are leading today's launches. Dadroit V Web allows users to view massive JSON files directly in the browser with zero uploads, StatusStats brings system metrics to the Mac menu bar, and Timeliner.io offers a comprehensive workspace tailored for content agencies and editors.",
+  "github": "The top 3 trending repositories on GitHub today are:\n1. forrestchang / andrej-karpathy-skills (A single CLAUDE.md file to improve Claude Code behavior)\n2. TheCraigHewitt / seomachine (A specialized Claude Code workspace for creating long-form, SEO-optimized blog content)\n3. google-ai-edge / gallery (A gallery showcasing on-device ML/GenAI use cases)",
+  "product_hunt": "1. Fine-tune AI in your browser - A new way to train ML models on-device.\n2. Notion Mail - Notion's new email client integration.\n3. Arc Search for Android - Arc browser's search app comes to Android.",
+  "summary": "## Today's Highlights\n\n- **Hacker News:** Exploring git commands for code reading, Mac OS X on Wii, VeraCrypt updates, and more.\n- **GitHub Trending:** Claude Code optimizations and on-device ML galleries are trending.\n- **Product Hunt:** Browser-based ML training and Notion Mail lead the pack.",
   "sent": true
 }
