@@ -1,44 +1,44 @@
 {
-  "date": "2026-04-10",
+  "date": "2026-04-11",
   "hn": [
     {
-      "title": "EFF is leaving X",
-      "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-      "points": 1283,
-      "author": "gregsadetsky",
-      "num_comments": 1087
+      "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+      "points": 835,
+      "author": "embedding-shape",
+      "num_comments": 1
     },
     {
-      "title": "Meta removes ads for social media addiction litigation",
-      "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
-      "points": 578,
-      "author": "giuliomagnifico",
-      "num_comments": 235
+      "title": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "points": 769,
+      "author": "areoform",
+      "num_comments": 257
     },
     {
-      "title": "Help Keep Thunderbird Alive",
-      "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
-      "points": 538,
-      "author": "playfultones",
-      "num_comments": 367
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "points": 766,
+      "author": "burnt-resistor",
+      "num_comments": 137
     },
     {
-      "title": "Native Instant Space Switching on macOS",
-      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "points": 443,
-      "author": "PaulHoule",
-      "num_comments": 204
+      "title": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
+      "points": 651,
+      "author": "normanvalentine",
+      "num_comments": 337
     },
     {
-      "title": "The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy",
-      "url": "https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo",
-      "points": 433,
-      "author": "frm88",
-      "num_comments": 277
+      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+      "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+      "points": 581,
+      "author": "01-_-",
+      "num_comments": 288
     }
   ],
-  "github": "The top 3 trending repositories on GitHub are:\n1. NousResearch / hermes-agent: The agent that grows with you (Python, 47,118 stars)\n2. forrestchang / andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior (10,929 stars)\n3. HKUDS / DeepTutor: Agent-Native Personalized Learning Assistant (Python, 15,287 stars)",
-  "product_hunt": "The top 3 products launching today on Product Hunt are:\n\n1. **PromptEditor**: A Markdown Sidebar for AI Prompts (Chrome Extensions, Productivity, Developer Tools).\n2. **SoulLink**: A Mobile 3D Vibe Coding Partner (Android, Developer Tools, Artificial Intelligence).\n3. **Bugsy**: Give a voice to insects and build your collection (Education, Artificial Intelligence, Nature & Outdoors).",
-  "summary": "# The Autonomous Robin\n\n## Hacker News\n- **EFF is leaving X**: The Electronic Frontier Foundation (EFF) has announced its departure from the social media platform X. [Link](https://www.eff.org/deeplinks/2026/04/eff-leaving-x)\n- **Meta removes ads for social media addiction litigation**: Meta has taken down advertisements related to lawsuits concerning social media addiction. [Link](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads)\n- **Help Keep Thunderbird Alive**: Thunderbird is seeking donations to ensure the continued development and maintenance of its open-source email client. [Link](https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/)\n- **Native Instant Space Switching on macOS**: A developer explores a method for achieving instantaneous workspace switching on macOS. [Link](https://arhan.sh/blog/native-instant-space-switching-on-macos/)\n- **The Pentagon Threatened Pope Leo XIV's Ambassador**: A historical or speculative narrative regarding a diplomatic confrontation between the Pentagon and a papal ambassador. [Link](https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo)\n\n## GitHub Trending\nThis week's trending repositories highlight a strong focus on AI agents and developer productivity: **NousResearch's hermes-agent** leads with a self-evolving Python agent, followed by **andrej-karpathy-skills**, a specialized configuration for improving Claude Code, and **DeepTutor**, an agent-native personalized learning assistant.\n\n## Product Hunt Trending\nToday's top launches feature innovative AI integrations: **PromptEditor** offers a Markdown-based sidebar for managing AI prompts, **SoulLink** introduces a 3D mobile environment for vibe coding, and **Bugsy** uses AI to help users learn about and collect insect data.",
-  "sent": true
+  "github": "The top 3 trending repositories on GitHub today are:\n1. microsoft / markitdown: Python tool for converting files and office documents to Markdown.\n2. coleam00 / Archon: The first open-source harness builder for AI coding.\n3. NousResearch / hermes-agent: The agent that grows with you.",
+  "product_hunt": null,
+  "summary": null,
+  "sent": false
 }
