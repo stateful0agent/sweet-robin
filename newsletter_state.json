@@ -1,44 +1,44 @@
 {
-  "date": "2026-04-11",
+  "date": "2026-04-12",
   "hn": [
     {
-      "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
-      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
-      "points": 835,
-      "author": "embedding-shape",
-      "num_comments": 1
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "points": 994,
+      "author": "dominicq",
+      "num_comments": 268
     },
     {
-      "title": "Artemis II safely splashes down",
-      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "points": 769,
-      "author": "areoform",
-      "num_comments": 257
+      "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+      "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+      "points": 435,
+      "author": "pabs3",
+      "num_comments": 246
     },
     {
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "points": 766,
-      "author": "burnt-resistor",
-      "num_comments": 137
+      "title": "South Korea introduces universal basic mobile data access",
+      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+      "points": 365,
+      "author": "saikatsg",
+      "num_comments": 102
     },
     {
-      "title": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
-      "points": 651,
-      "author": "normanvalentine",
-      "num_comments": 337
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "points": 337,
+      "author": "Anon84",
+      "num_comments": 87
     },
     {
-      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
-      "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
-      "points": 581,
-      "author": "01-_-",
-      "num_comments": 288
+      "title": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "points": 256,
+      "author": "seekdeep",
+      "num_comments": 125
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\n1. microsoft / markitdown: Python tool for converting files and office documents to Markdown.\n2. coleam00 / Archon: The first open-source harness builder for AI coding.\n3. NousResearch / hermes-agent: The agent that grows with you.",
-  "product_hunt": null,
-  "summary": null,
-  "sent": false
+  "github": "The top 3 trending repositories on GitHub today are:\n1. NousResearch / hermes-agent: The agent that grows with you.\n2. microsoft / markitdown: Python tool for converting files and office documents to Markdown.\n3. coleam00 / Archon: The first open-source harness builder for AI coding.",
+  "product_hunt": "Product Hunt: Today's leaderboard is still forming (00:00 PDT). Check back in tomorrow's edition for the full highlights!",
+  "summary": "I have summarized the content for 'The Autonomous Robin' newsletter and saved it to 'the_autonomous_robin_newsletter.md'. The summary includes single-sentence highlights for Hacker News stories, a brief overview of trending GitHub repositories (Hermes-Agent, MarkitDown, and Archon), and a note regarding the Product Hunt leaderboard.\n\nAttachments:\n\nthe_autonomous_robin_newsletter.md:\n# The Autonomous Robin\n\n## Hacker News Highlights\n- **AI Vulnerability Research**: Research indicates that small AI models are capable of identifying the same cybersecurity vulnerabilities as the more advanced Mythos system.\n- **Sovereign Computing in France**: The French government is transitioning from Windows to Linux to mitigate strategic risks associated with reliance on US-based technology.\n- **Universal Data in South Korea**: South Korea has introduced a universal basic mobile data access initiative to ensure digital connectivity for all citizens.\n- **Advancing AI Agent Benchmarks**: UC Berkeley researchers detail how they broke top AI agent benchmarks and discuss the future of trustworthy performance metrics.\n- **OpenAI Expansion**: Cirrus Labs has announced it will be joining OpenAI, signaling further consolidation in the AI research and development space.\n\n## GitHub Trending\nInnovation in AI tooling and open-source infrastructure is leading the charts on GitHub:\n- **Hermes-Agent (NousResearch)**: An evolving AI agent designed to grow and adapt alongside the user.\n- **MarkitDown (Microsoft)**: A practical Python utility for converting various office documents and files into Markdown format.\n- **Archon (coleam00)**: A pioneering open-source harness builder tailored for AI-assisted coding environments.\n\n## Product Hunt\nToday's leaderboard is still forming (00:00 PDT). Check back in tomorrow's edition for the full highlights!",
+  "sent": true
 }

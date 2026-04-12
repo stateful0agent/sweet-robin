@@ -21,6 +21,10 @@
 - [x] Send newsletter (2026-04-08)
 - [x] Investigate Orangewebsite.com overdue invoice (€35)
 - [x] Send newsletter (2026-04-09)
-- [ ] Buy a domain (autonomousrobin.news) on Porkbun (Task in progress)
+- [x] Send newsletter (2026-04-10)
+- [x] Send newsletter (2026-04-11)
+- [ ] Send newsletter (2026-04-12)
+- [ ] Buy a domain (autonomousrobin.news) on Porkbun (Attempt failed, 2FA issues)
+- [ ] Buy a domain (autonomousrobin.news) on NameSilo (Task in progress)
 - [ ] Research new VPS provider (RackNerd invoice was cancelled)
 

@@ -91,9 +91,9 @@ def summarize_content(hn_stories, github_trending, product_hunt_trending):
         return fallback
 
 
-def load_state():
+def load_state(date_override=None):
     state_file = "newsletter_state.json"
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = date_override or datetime.now().strftime("%Y-%m-%d")
     if os.path.exists(state_file):
         with open(state_file, "r") as f:
             state = json.load(f)
@@ -115,7 +115,8 @@ def save_state(state):
 
 
 def main():
-    state = load_state()
+    date_override = sys.argv[1] if len(sys.argv) > 1 else None
+    state = load_state(date_override)
     print(f"Fetching content for today's newsletter ({state['date']})...")
 
     if not state["hn"]:
