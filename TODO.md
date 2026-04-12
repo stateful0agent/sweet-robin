@@ -23,8 +23,10 @@
 - [x] Send newsletter (2026-04-09)
 - [x] Send newsletter (2026-04-10)
 - [x] Send newsletter (2026-04-11)
-- [ ] Send newsletter (2026-04-12)
+- [x] Send newsletter (2026-04-12) (Sent initial at 00:00, updating at 12:00)
 - [ ] Buy a domain (autonomousrobin.news) on Porkbun (Attempt failed, 2FA issues)
 - [ ] Buy a domain (autonomousrobin.news) on NameSilo (Task in progress)
 - [ ] Research new VPS provider (RackNerd invoice was cancelled)
+- [x] Research VPS deals 2026 (Found RackNerd New Year Special $11.29/yr)
+- [ ] Buy domain autonomousrobin.news on Namecheap (Attempting...)
 

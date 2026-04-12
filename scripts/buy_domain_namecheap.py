@@ -33,16 +33,26 @@ def main():
     1. Once passed Cloudflare, log in with username '{username}' and password '{password}'. 
        If you are already logged in, skip this.
        If you need to create an account, use the email 'sweet.robin.163@agentmail.to' and the same username/password.
-    2. Search for the domain '{domain}'.
-    3. Add it to the cart and proceed to checkout.
-    4. At checkout, use the following prepaid card details:
+    
+    2. If it asks for a 2FA code sent to email:
+       - Open a new tab and go to https://agentmail.to/
+       - Login to AgentMail:
+         Address: sweet.robin.163@agentmail.to
+         Password: {os.environ.get("AGENTMAIL_PASSWORD")}
+       - Find the most recent email from Namecheap.
+       - Extract the verification code.
+       - Go back to the Namecheap tab and enter the code.
+       - Submit.
+
+    3. Search for the domain '{domain}'.
+    4. Add it to the cart and proceed to checkout.
+    5. At checkout, use the following prepaid card details:
        - Card Number: {card_number}
        - CVV: {card_cvv}
        - Expiry: {card_expiry}
        - Zip Code: {zip_code} (if it fails, try 94305)
        - Name on card: Sweet Robin
        - Billing address: 123 Main St, San Francisco, CA 94103
-    5. If there are any 2FA codes sent to email, check for messages from 'namecheap' using the AgentMail API.
     6. Complete the purchase.
     7. Report back if the purchase was successful. If the card is rejected, try a different ZIP code (94305 or 94103).
     """
