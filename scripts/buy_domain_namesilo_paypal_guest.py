@@ -12,29 +12,41 @@ def buy_domain_namesilo_paypal_guest(domain):
     namesilo_pass = os.getenv("NAMESILO_PASSWORD")
     agentmail_pass = os.getenv("AGENTMAIL_PASSWORD")
 
+    # Try to get latest code from local script first
+    import subprocess
+
+    code = "UNKNOWN"
+    try:
+        res = subprocess.run(
+            ["PYTHONPATH=.", "uv", "run", "scripts/list_mail.py", "--limit", "1"],
+            capture_output=True,
+            text=True,
+        )
+        import json
+
+        data = json.loads(res.stdout)
+        if data["messages"] and "namesilo" in data["messages"][0]["from"].lower():
+            code = (
+                data["messages"][0]["preview"].split("\n")[-2].strip()
+            )  # Simple extraction
+            if not code.isdigit():
+                # try another way
+                import re
+
+                match = re.search(r"\b\d{6}\b", data["messages"][0]["preview"])
+                if match:
+                    code = match.group(0)
+    except:
+        pass
+
     task = f"""
-    1. Go to NameSilo.com and login if not already logged in.
+    1. Go to NameSilo.com and login.
        - Email: {email}
        - Password: {namesilo_pass}
     2. If it asks for device authorization:
-       - Go to AgentMail (https://agentmail.to/)
-       - Login with Address: {email} and Password: {agentmail_pass}
-       - Get the 6-digit code from the latest support@namesilo.com email.
+       - The code is likely '{code}'. If that doesn't work, go to https://agentmail.to/ and get a fresh one.
        - Enter it on NameSilo and submit.
-    3. Search for '{domain}' and add to cart.
-    4. Proceed to Checkout.
-    5. In the payment section, select 'PayPal'.
-    6. When PayPal opens, click 'Pay with Debit or Credit Card' or 'Checkout as Guest'.
-    7. Enter card details:
-       - Card: {card_number}
-       - Expiry: {card_expiry}
-       - CVV: {card_cvv}
-       - Billing ZIP: {card_zip}
-       - Email: {email}
-       - Name: Sweet Robin
-       - Address: 123 Main St, San Francisco, CA 94103
-    8. Complete the purchase.
-    9. Report status.
+...
     """
 
     print(f"Attempting to buy {domain} on NameSilo via PayPal Guest (with login)...")

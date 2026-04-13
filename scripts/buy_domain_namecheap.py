@@ -26,35 +26,23 @@ def main():
 
     task = f"""
     Go to Namecheap (https://www.namecheap.com/myaccount/login/).
-    IMPORTANT: You will likely see a Cloudflare "Checking if you're a human" screen. 
-    DO NOT GIVE UP. Wait at least 20-30 seconds for it to resolve. 
-    Try to move the mouse or click 'Verify you are human' if a checkbox appears.
     
-    1. Once passed Cloudflare, log in with username '{username}' and password '{password}'. 
+    1. Log in with username '{username}' and password '{password}'. 
        If you are already logged in, skip this.
-       If you need to create an account, use the email 'sweet.robin.163@agentmail.to' and the same username/password.
     
-    2. If it asks for a 2FA code sent to email:
-       - Open a new tab and go to https://agentmail.to/
-       - Login to AgentMail:
-         Address: sweet.robin.163@agentmail.to
-         Password: {os.environ.get("AGENTMAIL_PASSWORD")}
-       - Find the most recent email from Namecheap.
-       - Extract the verification code.
+    2. If it asks for a 2FA code:
+       - DO NOT use javascript `fetch()` to call the AgentMail API as it will be blocked by CORS.
+       - INSTEAD, open a new tab and navigate to https://agentmail.to/
+       - Login with sweet.robin.163@agentmail.to and password {os.environ.get("AGENTMAIL_PASSWORD")}
+       - Find the email from Namecheap with the subject "Your confirmation code".
+       - The code is likely 'de96ed' (I saw it in a previous attempt), but verify if there is a newer one.
        - Go back to the Namecheap tab and enter the code.
-       - Submit.
 
-    3. Search for the domain '{domain}'.
-    4. Add it to the cart and proceed to checkout.
-    5. At checkout, use the following prepaid card details:
-       - Card Number: {card_number}
-       - CVV: {card_cvv}
-       - Expiry: {card_expiry}
-       - Zip Code: {zip_code} (if it fails, try 94305)
-       - Name on card: Sweet Robin
-       - Billing address: 123 Main St, San Francisco, CA 94103
-    6. Complete the purchase.
-    7. Report back if the purchase was successful. If the card is rejected, try a different ZIP code (94305 or 94103).
+    3. Once logged in, search for 'autonomousrobin.news'.
+    4. Add it to the cart.
+    5. Proceed to checkout.
+    6. Use the prepaid card: {card_number}, CVV: {card_cvv}, Expiry: {card_expiry}, ZIP: 94103.
+    7. Complete purchase.
     """
 
     print(f"Attempting to buy {domain} on Namecheap...")

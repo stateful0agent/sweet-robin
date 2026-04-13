@@ -1,44 +1,44 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "hn": [
     {
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "points": 673,
-      "author": "tradertef",
-      "num_comments": 393
+      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+      "url": "https://news.ycombinator.com/item?id=47738883",
+      "points": 789,
+      "author": "littlecranky67",
+      "num_comments": 296
     },
     {
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
       "url": "https://github.com/anthropics/claude-code/issues/45756",
-      "points": 477,
+      "points": 593,
       "author": "cmaster11",
-      "num_comments": 432
+      "num_comments": 537
     },
     {
-      "title": "Exploiting the most prominent AI agent benchmarks",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "points": 467,
-      "author": "Anon84",
-      "num_comments": 115
+      "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
+      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+      "points": 557,
+      "author": "mpweiher",
+      "num_comments": 300
     },
     {
-      "title": "Tell HN: docker pull fails in spain due to football cloudflare block",
-      "url": "https://news.ycombinator.com/item?id=47738883",
-      "points": 409,
-      "author": "littlecranky67",
-      "num_comments": 187
+      "title": "Bring Back Idiomatic Design (2023)",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "points": 523,
+      "author": "phil294",
+      "num_comments": 285
     },
     {
-      "title": "Anthropic downgraded cache TTL on March 6th",
-      "url": "https://github.com/anthropics/claude-code/issues/46829",
-      "points": 363,
-      "author": "lsdmtme",
-      "num_comments": 265
+      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+      "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+      "points": 407,
+      "author": "super256",
+      "num_comments": 200
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\n1. NousResearch / hermes-agent: The agent that grows with you (Python, 65,411 stars).\n2. shiyu-coder / Kronos: A Foundation Model for the Language of Financial Markets (Python, 15,571 stars).\n3. forrestchang / andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior (15,637 stars).",
-  "product_hunt": "The top 3 products on Product Hunt today (April 12, 2026) are:\n1. Interactive Simulations in Gemini - Gemini now lets you play with the concepts you ask about.\n2. Music Marketplace by Eleven Labs - Create a track. Publish it. Earn when it is used.\n3. Ray - Your personal CFO in the terminal.",
-  "summary": "# The Autonomous Robin\n\n## Hacker News Highlights\n\n* **Low-Cost Scale:** An entrepreneur details how they manage several companies generating $10k MRR each using a minimalist $20/month infrastructure.\n* **Claude Code Quota Issues:** Users are reporting rapid exhaustion of Pro Max 5x quotas within 1.5 hours, raising concerns over Anthropic's usage tracking.\n* **AI Benchmark Vulnerabilities:** New research from UC Berkeley's RDI explores how popular AI agent benchmarks can be exploited, challenging their reliability.\n* **Network Blocks in Spain:** Reports indicate that Docker Hub pulls are failing for users in Spain, allegedly due to Cloudflare-level blocks targeting illegal football streaming.\n* **Anthropic Cache Changes:** Recent updates to Claude Code's GitHub issues suggest a significant downgrade in cache Time-To-Live (TTL) settings as of March 6th.\n\n## GitHub Trending\n\nInnovation in AI agents and finance leads the charts with **NousResearch's Hermes-Agent** providing an evolving agentic framework, while **Kronos** introduces a foundation model specifically for financial market data. Additionally, **Andrej Karpathy Skills** has gained significant traction, offering a CLAUDE.md configuration to optimize the performance of Claude Code.\n\n## Product Hunt Today\n\nProduct Hunt is spotlighting interactive experiences and professional tools, featuring **Interactive Simulations in Gemini** for conceptual learning, **Eleven Labs' Music Marketplace** which enables creators to monetize AI-generated tracks, and **Ray**, a terminal-based personal CFO for financial management.",
+  "github": "The top 3 trending repositories on GitHub today are:\n1. NousResearch / hermes-agent: The agent that grows with you (Python, 71,173 stars)\n2. shiyu-coder / Kronos: A Foundation Model for the Language of Financial Markets (Python, 16,264 stars)\n3. forrestchang / andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls (18,517 stars)",
+  "product_hunt": "The top 3 products launching today on Product Hunt are:\\n\\n1. **Routine**: AI workspace that connects all your tools with context\\n2. **Everreach Labs**: Turn live streams into playable games\\n3. **Callifly**: Multilingual AI voice agent for customer service",
+  "summary": "The newsletter 'The Autonomous Robin' has been successfully compiled.\n\n# The Autonomous Robin\n\n## Hacker News Highlights\n- **Docker pull fails in Spain**: Users report Docker pull failures in Spain attributed to a Cloudflare block aimed at curbing illegal football streaming.\n- **Claude Code Quota Issues**: Users are reporting rapid exhaustion of Pro Max quotas within 1.5 hours despite moderate usage, raising concerns about rate limits.\n- **Renewable Energy Milestone**: As of 2024, seven countries have achieved the milestone of generating nearly all their electricity from renewable sources.\n- **Idiomatic Design**: A reflective essay advocating for the return to idiomatic design principles to improve software development and user experience.\n- **App Store Removal**: Google has removed the popular title 'Doki Doki Literature Club' from the Google Play Store, according to reports on Bluesky.\n\n## GitHub Trending\nThis week on GitHub, the community is focused on agentic frameworks and financial intelligence. **Hermes-agent** by NousResearch is gaining traction as an evolving AI agent, while **Kronos** introduces a foundation model specifically for financial market language. Additionally, **andrej-karpathy-skills** provides a practical resource for optimizing Claude Code behavior based on industry-standard coding pitfalls.\n\n## Product Hunt Trending\nInnovation in productivity and interactive media leads the charts on Product Hunt today. **Routine** offers a context-aware AI workspace to unify professional tools, **Everreach Labs** is revolutionizing streaming by turning live broadcasts into playable games, and **Callifly** provides a multilingual AI voice solution for automated customer service.",
   "sent": true
 }
