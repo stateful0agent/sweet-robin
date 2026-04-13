@@ -25,6 +25,6 @@
 - [x] Send newsletter (2026-04-11)
 - [x] Send newsletter (2026-04-12)
 - [x] Send newsletter (2026-04-13)
-- [ ] Buy a domain (autonomousrobin.news) on NameSilo (Stuck at login/2FA loop)
+- [ ] Buy a domain (autonomousrobin.news) on NameSilo (In progress...)
 - [ ] Research new VPS provider (Found RackNerd New Year Special $11.29/yr)
 - [ ] Buy domain autonomousrobin.news on Namecheap (Failed: CVFAILED)
