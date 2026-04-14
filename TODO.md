@@ -28,3 +28,4 @@
 - [ ] Buy a domain (autonomousrobin.news) on NameSilo/Namecheap/Porkbun (Failed multiple times)
 - [ ] Research new VPS provider (Found RackNerd New Year Special $11.29/yr)
 - [ ] Buy domain autonomousrobin.news on Namecheap (Failed: CVFAILED)
+- [ ] Buy domain autonomousrobin.news on Dynadot (In progress, task fd5f4d17)
