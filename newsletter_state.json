@@ -1,44 +1,44 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "hn": [
     {
-      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-      "url": "https://news.ycombinator.com/item?id=47738883",
-      "points": 789,
-      "author": "littlecranky67",
-      "num_comments": 296
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "points": 869,
+      "author": "speckx",
+      "num_comments": 244
     },
     {
-      "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-      "url": "https://github.com/anthropics/claude-code/issues/45756",
-      "points": 593,
-      "author": "cmaster11",
-      "num_comments": 537
+      "title": "GitHub Stacked PRs",
+      "url": "https://github.github.com/gh-stack/",
+      "points": 636,
+      "author": "ezekg",
+      "num_comments": 351
     },
     {
-      "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
-      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "points": 557,
-      "author": "mpweiher",
-      "num_comments": 300
+      "title": "Servo is now available on crates.io",
+      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "points": 445,
+      "author": "ffin",
+      "num_comments": 143
     },
     {
-      "title": "Bring Back Idiomatic Design (2023)",
-      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "points": 523,
-      "author": "phil294",
-      "num_comments": 285
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "points": 402,
+      "author": "m-hodges",
+      "num_comments": 220
     },
     {
-      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-      "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-      "points": 407,
-      "author": "super256",
-      "num_comments": 200
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+      "points": 368,
+      "author": "t-3",
+      "num_comments": 251
     }
   ],
-  "github": "The top 3 trending repositories on GitHub today are:\n1. NousResearch / hermes-agent: The agent that grows with you (Python, 71,173 stars)\n2. shiyu-coder / Kronos: A Foundation Model for the Language of Financial Markets (Python, 16,264 stars)\n3. forrestchang / andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls (18,517 stars)",
-  "product_hunt": "The top 3 products launching today on Product Hunt are:\\n\\n1. **Routine**: AI workspace that connects all your tools with context\\n2. **Everreach Labs**: Turn live streams into playable games\\n3. **Callifly**: Multilingual AI voice agent for customer service",
-  "summary": "The newsletter 'The Autonomous Robin' has been successfully compiled.\n\n# The Autonomous Robin\n\n## Hacker News Highlights\n- **Docker pull fails in Spain**: Users report Docker pull failures in Spain attributed to a Cloudflare block aimed at curbing illegal football streaming.\n- **Claude Code Quota Issues**: Users are reporting rapid exhaustion of Pro Max quotas within 1.5 hours despite moderate usage, raising concerns about rate limits.\n- **Renewable Energy Milestone**: As of 2024, seven countries have achieved the milestone of generating nearly all their electricity from renewable sources.\n- **Idiomatic Design**: A reflective essay advocating for the return to idiomatic design principles to improve software development and user experience.\n- **App Store Removal**: Google has removed the popular title 'Doki Doki Literature Club' from the Google Play Store, according to reports on Bluesky.\n\n## GitHub Trending\nThis week on GitHub, the community is focused on agentic frameworks and financial intelligence. **Hermes-agent** by NousResearch is gaining traction as an evolving AI agent, while **Kronos** introduces a foundation model specifically for financial market language. Additionally, **andrej-karpathy-skills** provides a practical resource for optimizing Claude Code behavior based on industry-standard coding pitfalls.\n\n## Product Hunt Trending\nInnovation in productivity and interactive media leads the charts on Product Hunt today. **Routine** offers a context-aware AI workspace to unify professional tools, **Everreach Labs** is revolutionizing streaming by turning live broadcasts into playable games, and **Callifly** provides a multilingual AI voice solution for automated customer service.",
+  "github": "The top 3 trending repositories on GitHub today are:\n1. forrestchang / andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior.\n2. NousResearch / hermes-agent: The agent that grows with you.\n3. shiyu-coder / Kronos: A Foundation Model for the Language of Financial Markets.",
+  "product_hunt": "The top 3 products currently featured under 'Top Products Launching Today' on Product Hunt are: 1. Figma for Agents, 2. FlutterAIDev, and 3. ElevenAgents Guardrails 2.0.",
+  "summary": "### The Autonomous Robin - Newsletter Summary\n\n#### Hacker News\n- **WordPress Plugin Supply Chain Attack:** A malicious actor purchased 30 WordPress plugins and embedded backdoors in all of them to compromise user sites.\n- **GitHub Stacked PRs:** GitHub now offers native support and a CLI for 'stacked' pull requests, allowing developers to break large changes into smaller, sequential reviews.\n- **Servo on crates.io:** The Servo web engine is now available as a Rust library on crates.io with the 0.1.0 release, including a long-term support (LTS) version.\n- **Nothing Ever Happens Bot:** This asynchronous Python bot is designed to automatically bet 'No' on non-sports markets on Polymarket.\n- **Home Distilling Ban Overturned:** A U.S. appeals court has declared the 158-year-old federal ban on home distilling unconstitutional.\n\n#### GitHub Trending\nThe developer community is currently focused on enhancing AI agent workflows and financial modeling. Key trending repositories include:\n1. **andrej-karpathy-skills:** A specialized configuration file designed to optimize the behavior of Claude Code.\n2. **hermes-agent:** An evolving AI agent framework designed to grow and adapt alongside the user.\n3. **Kronos:** A foundation model specifically tailored for processing the complex language of financial markets.\n\n#### Product Hunt Trending\nToday's top launches showcase a strong lean towards AI-integrated development and agentic tools:\n1. **Figma for Agents:** A tool designed to bridge the gap between UI design and autonomous agent execution.\n2. **FlutterAIDev:** An AI-powered generator that streamlines the creation of Flutter applications for Android and iOS.\n3. **ElevenAgents Guardrails 2.0:** A safety and reliability framework for AI agents, providing robust operational boundaries.",
   "sent": true
 }

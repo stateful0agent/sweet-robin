@@ -18,7 +18,10 @@ def main():
         "AGENTMAIL_PASSWORD"
     )  # Let's try the AgentMail password as a fallback
     # Wait, the previous Dynadot script used NAMECHEAP_PASSWORD. I'll use a generic strong password if creating a new account.
-    new_password = "StrongPassDynadot2026!#"
+    new_password = "SweetRobinDynadot2026!#"
+    # Save the password to .env for later use
+    with open(".env", "a") as f:
+        f.write(f"\nDYNA_PASSWORD={new_password}\n")
 
     card_number = os.environ.get("PREPAID_CARD_NUMBER")
     card_expiry = os.environ.get("PREPAID_CARD_EXPIRY")
